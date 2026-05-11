@@ -4,9 +4,19 @@ import SubscribeForm from './SubscribeForm';
 import FeaturesSection from './FeaturesSection';
 
 export const metadata: Metadata = {
-  title: 'Suscribirse — Una Vida Examinada',
+  title: 'Suscribirse',
   description:
-    'Recibe tres ideas filosóficas cada mañana, de lunes a viernes. Comienza desde el principio con Digest.',
+    'Tres ideas filosóficas cada mañana, de lunes a viernes. Empezás desde el principio.',
+  openGraph: {
+    title: 'Suscribirse — Una Vida Examinada',
+    description:
+      'Tres ideas filosóficas cada mañana, de lunes a viernes. Empezás desde el principio.',
+  },
+  twitter: {
+    title: 'Suscribirse — Una Vida Examinada',
+    description:
+      'Tres ideas filosóficas cada mañana, de lunes a viernes. Empezás desde el principio.',
+  },
 };
 
 const playfair = Playfair_Display({
@@ -84,10 +94,9 @@ export default function SuscribirsePage() {
                 fontFamily: 'var(--font-geist-sans)',
               }}
             >
-              Tres ideas cada mañana, en orden.
-              Introducción, metafísica, ética, política —
-              el programa completo de filosofía,
-              sintetizado para el lector curioso.
+              Tres ideas filosóficas cada mañana.
+              Textos de una licenciatura en filosofía,
+              sintetizados con ayuda de Claude (IA).
             </p>
 
             {/* Decorative rule */}

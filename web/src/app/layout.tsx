@@ -15,10 +15,31 @@ const playfair = Playfair_Display({
   weight: ["400", "600"],
 });
 
+const SITE_URL = "https://ia.anthonycazares.cafe";
+
 export const metadata: Metadata = {
-  title: "Una Vida Examinada — Filosofía Diaria",
+  metadataBase: new URL(SITE_URL),
+  title: {
+    default: "Una Vida Examinada — Filosofía Diaria",
+    template: "%s — Una Vida Examinada",
+  },
   description:
-    "Un digest diario de filosofía. Tres ideas sintetizadas para el lector curioso.",
+    "Tres ideas filosóficas cada mañana. Textos de una licenciatura en filosofía, sintetizados con ayuda de Claude (IA).",
+  openGraph: {
+    type: "website",
+    locale: "es_MX",
+    url: SITE_URL,
+    siteName: "Una Vida Examinada",
+    title: "Una Vida Examinada — Filosofía Diaria",
+    description:
+      "Tres ideas filosóficas cada mañana. Textos de una licenciatura en filosofía, sintetizados con ayuda de Claude (IA).",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Una Vida Examinada — Filosofía Diaria",
+    description:
+      "Tres ideas filosóficas cada mañana. Textos de una licenciatura, sintetizados con ayuda de Claude (IA).",
+  },
 };
 
 export default function RootLayout({

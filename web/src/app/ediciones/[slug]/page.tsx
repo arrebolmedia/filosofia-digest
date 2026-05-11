@@ -34,9 +34,20 @@ export async function generateMetadata({
   const { slug } = await params;
   const edition = await getBySlug(slug);
   if (!edition) return {};
+  const title = `#${edition.number} ${edition.module}`;
+  const description = `Edición ${edition.number}: ${edition.module}. ${edition.date}.`;
   return {
-    title: `#${edition.number} ${edition.module} — Una Vida Examinada`,
-    description: `Edición ${edition.number}: ${edition.module}. ${edition.date}.`,
+    title,
+    description,
+    openGraph: {
+      type: "article",
+      title: `${title} — Una Vida Examinada`,
+      description,
+    },
+    twitter: {
+      title: `${title} — Una Vida Examinada`,
+      description,
+    },
   };
 }
 
