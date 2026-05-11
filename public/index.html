@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<title>Una Vida Examinada — Filosofía Diaria</title>
+<meta name="description" content="Un digest diario de filosofía. Cinco ideas, sintetizadas para el lector curioso.">
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;1,400;1,600&family=Source+Sans+3:wght@300;400;600&display=swap" rel="stylesheet">
+<style>
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+html{scroll-behavior:smooth}
+body{background:#FAFAF8;color:#1A1A1A;font-family:'Source Sans 3',system-ui,sans-serif;font-size:17px;line-height:1.75;font-weight:300}
+.wrap{max-width:660px;margin:0 auto;padding:0 24px}
+.wrap-wide{max-width:900px;margin:0 auto;padding:0 24px}
+
+/* ── Hero ── */
+.hero{border-bottom:1px solid #D8D4CC;padding:80px 0 72px;text-align:center}
+.eyebrow{font-size:10px;letter-spacing:.35em;text-transform:uppercase;color:#9A9590;margin-bottom:24px;font-weight:400}
+.hero-title{font-family:'Playfair Display',Georgia,serif;font-size:clamp(48px,8vw,80px);font-weight:400;color:#1A1A1A;font-style:italic;line-height:1.1;margin-bottom:24px}
+.hero-sub{font-size:16px;color:#6A6560;line-height:1.7;max-width:480px;margin:0 auto 40px;font-weight:300}
+.hero-meta{display:flex;justify-content:center;gap:32px;flex-wrap:wrap}
+.hero-stat{display:flex;flex-direction:column;align-items:center;gap:4px}
+.hero-stat-n{font-family:'Playfair Display',Georgia,serif;font-size:28px;color:#1A1A1A;font-weight:400}
+.hero-stat-l{font-size:10px;letter-spacing:.2em;text-transform:uppercase;color:#9A9590}
+.hero-divider{width:1px;height:40px;background:#D8D4CC;align-self:center}
+
+/* ── Manifiesto ── */
+.manifesto{padding:64px 0;border-bottom:1px solid #D8D4CC}
+.manifesto-label{font-size:9px;letter-spacing:.3em;text-transform:uppercase;color:#9A9590;margin-bottom:20px;display:block}
+.manifesto p{font-size:17px;color:#2A2520;line-height:1.85;margin-bottom:16px;font-weight:300;text-align:justify}
+.manifesto p:last-child{margin-bottom:0}
+.manifesto em{font-family:'Playfair Display',Georgia,serif;font-style:italic;color:#1A1A1A}
+
+/* ── Última edición ── */
+.section-label{font-size:9px;letter-spacing:.3em;text-transform:uppercase;color:#9A9590;margin-bottom:20px;display:block;margin-top:56px}
+.latest{display:block;border:1px solid #D8D4CC;padding:32px;text-decoration:none;color:inherit;transition:border-color .2s}
+.latest:hover{border-color:#4A6FA5}
+.latest-label{font-size:9px;letter-spacing:.25em;text-transform:uppercase;color:#9A9590;display:block;margin-bottom:12px}
+.latest-issue{font-family:'Playfair Display',Georgia,serif;font-size:13px;color:#B0ABA5;display:block;margin-bottom:6px}
+.latest-module{font-family:'Playfair Display',Georgia,serif;font-size:26px;color:#1A1A1A;display:block;margin-bottom:8px;font-style:italic}
+.latest-date{font-size:11px;color:#B0ABA5;display:block;margin-bottom:20px}
+.latest-cta{font-size:12px;letter-spacing:.12em;text-transform:uppercase;color:#4A6FA5}
+
+/* ── Archivo ── */
+.entries{padding-bottom:56px}
+.entry{display:flex;align-items:baseline;gap:20px;padding:18px 0;border-bottom:1px solid #E0DCD8;text-decoration:none;color:inherit}
+.entry:first-child{border-top:1px solid #E0DCD8}
+.entry:hover .entry-module{color:#4A6FA5}
+.entry-issue{font-family:'Playfair Display',Georgia,serif;font-size:13px;color:#B0ABA5;flex-shrink:0;width:36px}
+.entry-info{display:flex;flex-direction:column;gap:2px}
+.entry-module{font-size:15px;color:#1A1A1A;font-weight:400;transition:color .2s}
+.entry-date{font-size:11px;color:#B0ABA5}
+
+/* ── Footer ── */
+.footer{border-top:2px solid #1A1A1A;padding:40px 0;text-align:center;margin-top:0}
+.footer-title{font-family:'Playfair Display',Georgia,serif;font-size:22px;font-style:italic;color:#1A1A1A;margin-bottom:8px}
+.footer p{font-size:11px;color:#B0ABA5;line-height:1.9}
+.footer a{color:#8A8580;text-decoration:none}
+.footer a:hover{color:#1A1A1A}
+</style>
+</head>
+<body>
+
+<div class="hero">
+  <div class="wrap">
+    <p class="eyebrow">Digest Diario · Filosofía</p>
+    <h1 class="hero-title">Una Vida<br>Examinada</h1>
+    <p class="hero-sub">Cinco ideas filosóficas cada mañana, sintetizadas para el lector que todavía se pregunta por qué las cosas son como son.</p>
+    <div class="hero-meta">
+      <div class="hero-stat">
+        <span class="hero-stat-n">1</span>
+        <span class="hero-stat-l">Ediciones</span>
+      </div>
+      <div class="hero-divider"></div>
+      <div class="hero-stat">
+        <span class="hero-stat-n">5</span>
+        <span class="hero-stat-l">Ideas por día</span>
+      </div>
+      <div class="hero-divider"></div>
+      <div class="hero-stat">
+        <span class="hero-stat-n">22</span>
+        <span class="hero-stat-l">Módulos</span>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="wrap">
+  <div class="manifesto">
+    <span class="manifesto-label">Por qué existe esto</span>
+    <p>La filosofía tiene mala fama. Se la imagina como un pasatiempo de viejos con barba, como algo que no sirve para pagar la renta, como preguntas que nunca tienen respuesta. Y sin embargo, es el único lugar donde se formulan las preguntas que realmente importan.</p>
+    <p><em>Una Vida Examinada</em> es un digest diario que toma textos de un programa serio de licenciatura en filosofía y los traduce, sin sacrificar el rigor, al registro de alguien que quiere pensar bien y vivir con más conciencia.</p>
+    <p>Cada edición: cinco fragmentos sintetizados, una nota editorial que los hilvana, y la promesa de que algo en tu forma de ver el mundo se moverá un poco.</p>
+  </div>
+
+  <span class="section-label">Última edición</span>
+<a href="http://localhost/edicion-001.html" class="latest">
+  <span class="latest-label">Última edición</span>
+  <span class="latest-issue">#001</span>
+  <span class="latest-module">M9. Antropología Filosófica</span>
+  <span class="latest-date">martes, 5 de mayo de 2026</span>
+  <span class="latest-cta">Leer →</span>
+</a>
+
+  
+</div>
+
+<div class="footer">
+  <div class="wrap">
+    <p class="footer-title">Una Vida Examinada</p>
+    <p>Sintetizado por Claude · Lunes a viernes</p>
+    <p style="margin-top:8px"><a href="mailto:anthony@arrebol.com.mx">Contacto</a></p>
+  </div>
+</div>
+
+</body></html>

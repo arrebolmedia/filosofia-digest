@@ -1,0 +1,32 @@
+{
+  "name": "philosophy-digest",
+  "version": "1.0.0",
+  "description": "Weekly philosophy digest synthesized by Claude",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "digest": "tsx src/index.ts",
+    "preview": "cross-env PREVIEW_ONLY=true tsx src/index.ts"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.24.0",
+    "@prisma/client": "^5.22.0",
+    "cross-env": "^7.0.3",
+    "dotenv": "^16.4.5",
+    "nodemailer": "^6.9.0",
+    "pdf-parse": "^1.1.1",
+    "pdf-to-img": "^6.0.0",
+    "resend": "^3.2.0",
+    "rss-parser": "^3.13.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "@types/nodemailer": "^6.4.0",
+    "@types/pdf-parse": "^1.1.5",
+    "@types/react": "^19.2.14",
+    "@types/xml2js": "^0.4.14",
+    "prisma": "^5.22.0",
+    "tsx": "^4.15.0",
+    "typescript": "^5.4.0"
+  }
+}

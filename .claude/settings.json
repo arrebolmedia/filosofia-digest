@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(scp -o StrictHostKeyChecking=no \"c:\\\\Projects\\\\Digest\\\\web\\\\src\\\\app\\\\ediciones\\\\[slug]\\\\page.tsx\" \"root@data.arrebolweddings.com:/opt/digest/web/src/app/ediciones/[slug]/page.tsx\" 2>&1)",
+      "Bash(ssh -o StrictHostKeyChecking=no root@data.arrebolweddings.com \"cd /opt/digest/docker && docker-compose build digest-web 2>&1 | tail -5 && docker-compose up -d digest-web 2>&1 | tail -5\")",
+      "Bash(curl -s \"https://ia.anthonycazares.cafe/ediciones/001\" --max-time 15)",
+      "Bash(grep -oE \"Fecha de publicaci\\\\\\\\\\\\\\\\u[0-9a-f]{4}n|Fecha de publicación|FECHA DE PUBLICACI\")"
+    ]
+  }
+}

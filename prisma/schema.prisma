@@ -1,0 +1,215 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+// ============================================
+// MODELOS PRINCIPALES
+// ============================================
+
+model Period {
+  id          Int      @id @default(autoincrement())
+  name        String   @db.VarChar(100)
+  slug        String   @unique @db.VarChar(100)
+  startYear   Int      @map("start_year")
+  endYear     Int?     @map("end_year")
+  colorHex    String   @map("color_hex") @db.VarChar(7)
+  description String?  @db.Text
+  createdAt   DateTime @default(now()) @map("created_at")
+  updatedAt   DateTime @updatedAt @map("updated_at")
+
+  philosophers Philosopher[]
+  schools      School[]
+
+  @@map("periods")
+}
+
+model School {
+  id          Int      @id @default(autoincrement())
+  name        String   @db.VarChar(150)
+  slug        String   @unique @db.VarChar(150)
+  description String?  @db.Text
+  periodId    Int?     @map("period_id")
+  createdAt   DateTime @default(now()) @map("created_at")
+  updatedAt   DateTime @updatedAt @map("updated_at")
+
+  period       Period?       @relation(fields: [periodId], references: [id])
+  philosophers Philosopher[]
+
+  @@map("schools")
+}
+
+model Category {
+  id          Int      @id @default(autoincrement())
+  name        String   @db.VarChar(100)
+  slug        String   @unique @db.VarChar(100)
+  colorHex    String   @map("color_hex") @db.VarChar(7)
+  icon        String?  @db.VarChar(50)
+  description String?  @db.Text
+  parentId    Int?     @map("parent_id")
+  createdAt   DateTime @default(now()) @map("created_at")
+  updatedAt   DateTime @updatedAt @map("updated_at")
+
+  parent     Category?   @relation("CategoryToCategory", fields: [parentId], references: [id])
+  children   Category[]  @relation("CategoryToCategory")
+  statements Statement[]
+
+  @@map("categories")
+}
+
+model Philosopher {
+  id          Int      @id @default(autoincrement())
+  name        String   @db.VarChar(200)
+  slug        String   @unique @db.VarChar(200)
+  birthYear   Int?     @map("birth_year")
+  deathYear   Int?     @map("death_year")
+  nationality String?  @db.VarChar(100)
+  schoolId    Int?     @map("school_id")
+  periodId    Int?     @map("period_id")
+  bioShort    String?  @map("bio_short") @db.Text
+  bioLong     String?  @map("bio_long") @db.Text
+  imageUrl    String?  @map("image_url") @db.VarChar(500)
+  wikipediaUrl String? @map("wikipedia_url") @db.VarChar(500)
+  createdAt   DateTime @default(now()) @map("created_at")
+  updatedAt   DateTime @updatedAt @map("updated_at")
+
+  school     School?     @relation(fields: [schoolId], references: [id])
+  period     Period?     @relation(fields: [periodId], references: [id])
+  statements Statement[]
+
+  @@map("philosophers")
+}
+
+model Statement {
+  id               Int      @id @default(autoincrement())
+  philosopherId    Int      @map("philosopher_id")
+  text             String   @db.Text
+  textOriginal     String?  @map("text_original") @db.Text
+  language         String   @default("es") @db.VarChar(10)
+  categoryId       Int      @map("category_id")
+  isDirectQuote    Boolean  @default(false) @map("is_direct_quote")
+  context          String?  @db.Text
+  orderInTimeline  Int?     @map("order_in_timeline")
+  xPosition        Decimal? @map("x_position") @db.Decimal(10, 2)
+  yPosition        Decimal? @map("y_position") @db.Decimal(10, 2)
+  difficultyLevel  Int      @default(1) @map("difficulty_level")
+  popularityScore  Int      @default(0) @map("popularity_score")
+  createdAt        DateTime @default(now()) @map("created_at")
+  updatedAt        DateTime @updatedAt @map("updated_at")
+
+  philosopher      Philosopher        @relation(fields: [philosopherId], references: [id], onDelete: Cascade)
+  category         Category           @relation(fields: [categoryId], references: [id])
+  tags             StatementTag[]
+  references       StatementReference[]
+  connectionsFrom  Connection[]       @relation("ConnectionFrom")
+  connectionsTo    Connection[]       @relation("ConnectionTo")
+
+  @@index([philosopherId])
+  @@index([categoryId])
+  @@index([orderInTimeline])
+  @@map("statements")
+}
+
+model Connection {
+  id               Int      @id @default(autoincrement())
+  statementFromId  Int      @map("statement_from_id")
+  statementToId    Int      @map("statement_to_id")
+  connectionType   String   @map("connection_type") @db.VarChar(20)
+  strength         Int      @default(3)
+  explanation      String?  @db.Text
+  isBidirectional  Boolean  @default(true) @map("is_bidirectional")
+  verifiedBy       String?  @map("verified_by") @db.VarChar(100)
+  // Academic citation fields
+  sourceType       String?  @map("source_type") @db.VarChar(50) // 'book', 'article', 'encyclopedia', 'primary'
+  sourceTitle      String?  @map("source_title") @db.VarChar(500)
+  sourceAuthor     String?  @map("source_author") @db.VarChar(200)
+  sourceYear       Int?     @map("source_year")
+  sourcePages      String?  @map("source_pages") @db.VarChar(50)
+  sourceUrl        String?  @map("source_url") @db.VarChar(500)
+  confidence       Int      @default(3) // 1-5 scale: 1=speculative, 5=well-documented
+  createdAt        DateTime @default(now()) @map("created_at")
+
+  statementFrom Statement @relation("ConnectionFrom", fields: [statementFromId], references: [id], onDelete: Cascade)
+  statementTo   Statement @relation("ConnectionTo", fields: [statementToId], references: [id], onDelete: Cascade)
+
+  @@index([statementFromId])
+  @@index([statementToId])
+  @@index([connectionType])
+  @@map("connections")
+}
+
+model Tag {
+  id          Int      @id @default(autoincrement())
+  name        String   @db.VarChar(100)
+  slug        String   @unique @db.VarChar(100)
+  type        String   @db.VarChar(20)
+  description String?  @db.Text
+  colorHex    String?  @map("color_hex") @db.VarChar(7)
+  createdAt   DateTime @default(now()) @map("created_at")
+
+  statements StatementTag[]
+
+  @@map("tags")
+}
+
+model StatementTag {
+  statementId Int @map("statement_id")
+  tagId       Int @map("tag_id")
+
+  statement Statement @relation(fields: [statementId], references: [id], onDelete: Cascade)
+  tag       Tag       @relation(fields: [tagId], references: [id], onDelete: Cascade)
+
+  @@id([statementId, tagId])
+  @@map("statement_tags")
+}
+
+model Reference {
+  id           Int      @id @default(autoincrement())
+  type         String   @db.VarChar(20)
+  title        String   @db.Text
+  author       String?  @db.VarChar(300)
+  year         Int?
+  publisher    String?  @db.VarChar(200)
+  isbn         String?  @db.VarChar(20)
+  doi          String?  @db.VarChar(100)
+  url          String?  @db.VarChar(500)
+  pageNumbers  String?  @map("page_numbers") @db.VarChar(50)
+  fullCitation String?  @map("full_citation") @db.Text
+  createdAt    DateTime @default(now()) @map("created_at")
+
+  statements StatementReference[]
+
+  @@map("references")
+}
+
+model StatementReference {
+  statementId  Int     @map("statement_id")
+  referenceId  Int     @map("reference_id")
+  pageSpecific String? @map("page_specific") @db.VarChar(20)
+
+  statement Statement @relation(fields: [statementId], references: [id], onDelete: Cascade)
+  reference Reference @relation(fields: [referenceId], references: [id], onDelete: Cascade)
+
+  @@id([statementId, referenceId])
+  @@map("statement_references")
+}
+
+model User {
+  id           Int      @id @default(autoincrement())
+  email        String   @unique @db.VarChar(255)
+  name         String   @db.VarChar(200)
+  role         String   @default("user") @db.VarChar(20)
+  passwordHash String   @map("password_hash") @db.VarChar(255)
+  avatarUrl    String?  @map("avatar_url") @db.VarChar(500)
+  createdAt    DateTime @default(now()) @map("created_at")
+  updatedAt    DateTime @updatedAt @map("updated_at")
+
+  @@map("users")
+}

@@ -1,0 +1,55 @@
+# Dependencies
+node_modules/
+.pnp/
+
+# Build output
+dist/
+.next/
+*.tsbuildinfo
+
+# Secrets
+.env
+.env.local
+.env.*.local
+*.pem
+
+# Local previews / artifacts
+preview.html
+preview-*.html
+*.log
+ruvector.db
+
+# PDFs (source material, not redistributed)
+*.pdf
+!web/public/**/*.pdf
+
+# OCR backups
+.originals/
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Local state files (server keeps authoritative copy)
+issue-counter.json
+module-state.json
+subscribers.json
+entries.json
+
+# Claude flow scratch
+.swarm/
+.claude-flow/
+.agents/
+**/.swarm-memory/
+
+# Skills lock (machine-specific)
+skills-lock.json
+
+# MCP config (contiene tokens en URL)
+.mcp.json
+
+# Claude local settings
+.claude/settings.local.json
+.claude/scheduled_tasks.lock

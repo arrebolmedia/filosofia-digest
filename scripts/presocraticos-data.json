@@ -1,0 +1,509 @@
+[
+  {
+    "philosopher": {
+      "name": "Tales de Mileto",
+      "slug": "tales-de-mileto",
+      "birthYear": -624,
+      "deathYear": -546,
+      "nationality": "Griego (Mileto, Jonia)",
+      "bioShort": "Considerado el primer filósofo occidental, Tales de Mileto propuso el agua como principio fundamental de toda la realidad, inaugurando la tradición de explicación naturalista del cosmos.",
+      "bioLong": "Tales de Mileto (c. 624-546 a.C.) es reconocido por la tradición doxográfica como el iniciador de la filosofía natural griega. Fue el primero en buscar un principio material único (arché) para explicar la totalidad de lo existente, identificándolo con el agua. Matemático y astrónomo notable, se le atribuye la predicción de un eclipse solar en 585 a.C. Su pensamiento es conocido casi exclusivamente a través de fuentes secundarias: Aristóteles, Teofrasto y los doxógrafos posteriores como Aecio, Hipólito y Diógenes Laercio. La sección sobre Tales en el Philosophoumena de Hipólito, aunque considerada de escaso valor crítico por proceder de un compendio biográfico banal, ofrece algunos datos sobre sus concepciones físicas. Su figura representa la transición del pensamiento mítico al logos filosófico."
+    },
+    "statements": [
+      {
+        "text": "El agua es el principio (arché) de todas las cosas: todo proviene del agua y todo retorna a ella.",
+        "categorySlug": "metafisica",
+        "isDirectQuote": false,
+        "context": "Tesis fundamental de Tales transmitida por Aristóteles en la Metafísica y recogida por la tradición doxográfica a través de Teofrasto. Es la primera formulación filosófica de un principio material único que explica la totalidad de lo real, sustituyendo la explicación mítica por una naturalista.",
+        "difficultyLevel": 1
+      },
+      {
+        "text": "Todo está lleno de dioses: la fuerza que anima y mueve las cosas revela que lo divino impregna la naturaleza entera.",
+        "categorySlug": "metafisica",
+        "isDirectQuote": false,
+        "context": "Atribuido a Tales por Aristóteles (De Anima 411a7) y recogido en la tradición doxográfica. Expresa un hilozoísmo o animismo naturalista: la materia misma posee vida y fuerza motriz. Esta afirmación tensiona con su monismo material acuoso, pues introduce una dimensión dinámica y divina en la naturaleza física.",
+        "difficultyLevel": 2
+      },
+      {
+        "text": "El conocimiento de la naturaleza es posible y superior a la especulación mítica: la razón puede identificar causas naturales donde antes solo había relatos de dioses.",
+        "categorySlug": "epistemologia",
+        "isDirectQuote": false,
+        "context": "Posición implícita en el giro filosófico de Tales, reconstruida a partir de la valoración que hace Aristóteles de los primeros físicos en la Metafísica I. La tradición doxográfica —incluyendo las referencias a Tales en Hipólito y Aecio— coincide en presentarlo como el fundador de una explicación racional del cosmos, distinguible del pensamiento teológico-mítico previo.",
+        "difficultyLevel": 2
+      },
+      {
+        "text": "La Tierra flota sobre el agua como un madero: el sustrato acuoso no solo es principio originario sino soporte físico del mundo visible.",
+        "categorySlug": "metafisica",
+        "isDirectQuote": false,
+        "context": "Cosmología atribuida a Tales por Aristóteles (De Caelo 294a28) y registrada en la tradición doxográfica. Complementa la tesis del agua como arché con una explicación física concreta de la estabilidad de la Tierra. Aunque ingenua desde la perspectiva moderna, es filosóficamente significativa porque busca una causa natural —no sobrenatural— para un fenómeno físico fundamental.",
+        "difficultyLevel": 3
+      }
+    ]
+  },
+  {
+    "philosopher": {
+      "name": "Anaximandro",
+      "slug": "anaximandro",
+      "birthYear": -610,
+      "deathYear": -546,
+      "nationality": "Griega (Mileto)",
+      "bioShort": "Filósofo presocrático de Mileto, discípulo de Tales, considerado el primer pensador en escribir un tratado filosófico en prosa sobre la naturaleza.",
+      "bioLong": "Anaximandro de Mileto (c. 610–546 a.C.) fue uno de los primeros filósofos griegos y discípulo de Tales. Es conocido por postular el ápeiron ('lo indefinido' o 'lo ilimitado') como principio (arché) de todas las cosas, superando las explicaciones basadas en elementos concretos como el agua. Su libro, fechable hacia 547/6 a.C., es considerado uno de los primeros escritos filosóficos en prosa de importancia que se transmitieron en la tradición occidental. Introdujo conceptos cosmológicos innovadores, como la idea de que la Tierra flota libremente en el espacio sin soporte, y elaboró una concepción cíclica de la justicia cósmica según la cual las cosas deben pagar penitencia por su separación del principio originario."
+    },
+    "statements": [
+      {
+        "text": "El principio (arché) de todas las cosas no es ningún elemento determinado como el agua o el fuego, sino el ápeiron: lo indefinido, ilimitado e indeterminado, de lo cual emergen y a lo cual retornan todos los seres.",
+        "categorySlug": "metafisica",
+        "isDirectQuote": false,
+        "context": "Doctrina central de Anaximandro sobre el origen del cosmos, reconstruida a partir de fuentes doxográficas como Simplicio y Teofrasto. Representa una abstracción radical respecto a su maestro Tales, quien postulaba el agua como arché.",
+        "difficultyLevel": 3
+      },
+      {
+        "text": "Las cosas perecen volviendo a aquello de lo que nacieron, según la necesidad; pues se pagan mutuamente pena y retribución por su injusticia según el orden del tiempo.",
+        "categorySlug": "etica",
+        "isDirectQuote": true,
+        "context": "Único fragmento conservado directamente de Anaximandro. Expresa una visión cosmológica de la justicia: la individuación de los seres respecto al ápeiron constituye una suerte de injusticia cósmica que debe ser compensada con la disolución y el retorno al origen.",
+        "difficultyLevel": 3
+      },
+      {
+        "text": "La Tierra permanece en reposo en el centro del cosmos sin estar sostenida por nada, porque su equidistancia respecto a todos los extremos la mantiene en equilibrio; no hay razón para que se mueva en una dirección más que en otra.",
+        "categorySlug": "metafisica",
+        "isDirectQuote": false,
+        "context": "Innovación cosmológica de Anaximandro reportada por Aristóteles en 'Del Cielo'. Anaximandro fue el primero en postular que la Tierra no necesita apoyo material, anticipando una forma de razonamiento por simetría y principio de razón suficiente.",
+        "difficultyLevel": 2
+      },
+      {
+        "text": "Anaximandro fue, junto con Ferécides de Siro, uno de los primeros escritores en prosa de importancia cuyas obras se transmitieron, siendo su libro fechable hacia 547/6 a.C., lo que marca un hito en la transición del pensamiento mítico-poético al discurso filosófico racional.",
+        "categorySlug": "epistemologia",
+        "isDirectQuote": false,
+        "context": "Referencia explícita del texto académico analizado, que señala a Anaximandro como pionero de la prosa filosófica. Esta transición del verso al prosa simboliza el paso de la autoridad mítica a la argumentación racional como medio de acceso al conocimiento.",
+        "difficultyLevel": 1
+      }
+    ]
+  },
+  {
+    "philosopher": {
+      "name": "Anaxímenes",
+      "slug": "anaximenes",
+      "birthYear": -585,
+      "deathYear": -528,
+      "nationality": "griega (Mileto)",
+      "bioShort": "Filósofo presocrático de Mileto, considerado el tercer gran milesio junto a Tales y Anaximandro. Postuló el aire como principio (arché) de todas las cosas.",
+      "bioLong": "Anaxímenes de Mileto (c. 585-528 a.C.) fue discípulo de Anaximandro y el último representante de la escuela milesia. Su aportación fundamental consistió en identificar el aire (aer) como el principio material originario del cosmos, superando la indeterminación del ápeiron de su maestro mediante la introducción de un mecanismo concreto de transformación: la condensación y la rarefacción. A través de estos procesos físicos, el aire se transforma en todos los elementos y seres del mundo: rarificado, deviene fuego; condensado progresivamente, se convierte en viento, nube, agua, tierra y piedra. Teofrasto consideró a Anaxímenes el primer filósofo en explicar explícitamente la generación de las cosas mediante estos dos mecanismos opuestos, lo que le otorga un lugar privilegiado en la historia del pensamiento científico antiguo. También concibió el alma como constituida de aire, lo que conecta su cosmología con su psicología de manera coherente."
+    },
+    "statements": [
+      {
+        "text": "El aire es el principio (arché) de todas las cosas: todo lo que existe está hecho de aire en distintos estados.",
+        "categorySlug": "metafisica",
+        "isDirectQuote": false,
+        "context": "Anaxímenes, a diferencia de Tales que postuló el agua, identificó el aire como sustancia primordial de la que proceden todos los seres. Esta elección no es arbitraria: el aire es invisible, omnipresente y aparentemente ilimitado, atributos que lo hacen candidato idóneo para el principio originario del cosmos.",
+        "difficultyLevel": 1
+      },
+      {
+        "text": "Mediante la condensación y la rarefacción del aire se explica la generación de todos los elementos: rarificado produce fuego; condensado produce viento, nube, agua, tierra y piedra.",
+        "categorySlug": "metafisica",
+        "isDirectQuote": false,
+        "context": "Teofrasto señala que Anaxímenes fue el primero en emplear explícitamente los mecanismos de condensación y rarefacción como explicación de la transformación de la materia. Este aporte metodológico es crucial: introduce un principio cuantitativo-dinámico en la cosmología, anticipando concepciones científicas posteriores sobre los estados de la materia.",
+        "difficultyLevel": 2
+      },
+      {
+        "text": "El alma humana es aire, y así como ella nos sostiene y cohesiona, el aire-pneuma abraza y sostiene el cosmos entero.",
+        "categorySlug": "mente",
+        "isDirectQuote": false,
+        "context": "Anaxímenes extendió su principio cosmológico al ámbito psicológico: si el aire es el fundamento de toda realidad, también lo es de la vida anímica. Esta analogía entre microcosmos (el ser humano) y macrocosmos (el universo) constituye uno de los primeros ejemplos del pensamiento analógico en filosofía, y establece una continuidad entre física y psicología que influirá en tradiciones posteriores.",
+        "difficultyLevel": 3
+      }
+    ]
+  },
+  {
+    "philosopher": {
+      "name": "Pitágoras",
+      "slug": "pitagoras",
+      "birthYear": -570,
+      "deathYear": -495,
+      "nationality": "Griega (Samos)",
+      "bioShort": "Filósofo y matemático griego de Samos, fundador de la escuela pitagórica, conocido por su doctrina de los números como principio de la realidad y por sus enseñanzas sobre la transmigración del alma.",
+      "bioLong": "Pitágoras de Samos (c. 570-495 a. C.) es una de las figuras más influyentes y enigmáticas del pensamiento presocrático. Fundó en Crotona (Magna Grecia) una comunidad filosófico-religiosa que combinaba la investigación matemática con prácticas ascéticas y doctrinas sobre la purificación del alma. Su pensamiento, transmitido principalmente a través de sus discípulos —pues no dejó escritos propios—, abarca una doctrina cosmológica basada en la primacía de los números como estructura fundamental de la realidad, una ética de purificación orientada a la liberación del ciclo de reencarnaciones (metempsicosis), y una concepción del alma como entidad de naturaleza divina emparentada con el éter estelar. Aristóxeno, discípulo de Aristóteles, le dedicó una biografía, y fuentes tardías como Diógenes Laercio y los doxógrafos recogen, con desigual fiabilidad, los testimonios sobre su vida y doctrina."
+    },
+    "statements": [
+      {
+        "text": "Pitágoras fue posiblemente el primer griego que, de modo explícito, consideró el alma como algo de importancia moral.",
+        "categorySlug": "etica",
+        "isDirectQuote": false,
+        "context": "El texto académico señala que fue Pitágoras quien inauguró la consideración explícita del alma (psyche) como entidad con valor y responsabilidad moral, superando la concepción homérica del alma como mera sombra exangüe en el Hades.",
+        "difficultyLevel": 2
+      },
+      {
+        "text": "El alma humana es de naturaleza divina y está emparentada con el éter o la sustancia de los astros, participando así de un principio cósmico inmortal.",
+        "categorySlug": "metafisica",
+        "isDirectQuote": false,
+        "context": "La doctrina pitagórica del alma la vincula a la sustancia etérea de los cuerpos celestes, diferenciándola radicalmente del cuerpo material y confiriéndole una dimensión cósmica que la hace susceptible de transmigrar y purificarse en sucesivos ciclos de existencia.",
+        "difficultyLevel": 3
+      },
+      {
+        "text": "Los números son el principio y la estructura fundamental de toda la realidad: las cosas son números o imitan a los números.",
+        "categorySlug": "metafisica",
+        "isDirectQuote": false,
+        "context": "La doctrina central del pitagorismo sostiene que la realidad no está compuesta de una sustancia material (agua, aire, fuego) como en los milesios, sino que su estructura es de naturaleza matemática. Los números expresan las relaciones, proporciones y armonías que constituyen el cosmos.",
+        "difficultyLevel": 3
+      },
+      {
+        "text": "El alma atraviesa un ciclo de reencarnaciones (metempsicosis) en distintos cuerpos, tanto humanos como animales, y solo mediante la purificación filosófica y moral puede liberarse de este ciclo.",
+        "categorySlug": "etica",
+        "isDirectQuote": false,
+        "context": "La doctrina de la transmigración de las almas (metempsicosis o palingenesia) es uno de los pilares del pensamiento pitagórico y de la práctica comunitaria de su escuela. La filosofía y la matemática son vías de purificación del alma que permiten su eventual liberación del ciclo de renacimientos.",
+        "difficultyLevel": 2
+      },
+      {
+        "text": "La armonía de los contrarios, expresada matemáticamente en proporciones y acordes, es el principio que organiza tanto el cosmos como la comunidad humana y la vida del alma.",
+        "categorySlug": "epistemologia",
+        "isDirectQuote": false,
+        "context": "El pitagorismo desarrolló una teoría de la armonía (harmonía) que extendía la estructura matemática de los intervalos musicales al orden del universo (harmonía de las esferas) y a la ética individual y política. Conocer estas proporciones es conocer la estructura profunda de lo real.",
+        "difficultyLevel": 3
+      }
+    ]
+  },
+  {
+    "philosopher": {
+      "name": "Jenófanes de Colofón",
+      "slug": "jenofanes",
+      "birthYear": -570,
+      "deathYear": -478,
+      "nationality": "Griega (Jonia)",
+      "bioShort": "Poeta y filósofo presocrático nacido en Colofón, fundador de una teología racional que criticó el antropomorfismo y postuló un dios único e inmóvil.",
+      "bioLong": "Jenófanes de Colofón (c. 570-478 a.C.) fue un filósofo, poeta y rapsoda itinerante que pasó gran parte de su vida en la Magna Grecia. Es conocido por su radical crítica al antropomorfismo religioso de Homero y Hesíodo, argumentando que los seres humanos proyectan sus propias características físicas y morales sobre los dioses. Frente a esta concepción, propuso la existencia de un dios supremo, único, eterno e inmóvil, que mueve todo mediante la fuerza de su mente. En epistemología, fue un pionero del escepticismo al distinguir entre conocimiento cierto y mera opinión, sosteniendo que los mortales sólo pueden alcanzar apariencias sobre la verdad. Su obra, conservada fragmentariamente, influyó en la escuela eleática, especialmente en Parménides."
+    },
+    "statements": [
+      {
+        "text": "Los mortales creen que los dioses nacen, tienen voz y cuerpo como el de ellos. Pero si los bueyes y los caballos y los leones tuviesen manos y pudiesen pintar, representarían a los dioses con figuras semejantes a las suyas: los caballos pintarían dioses semejantes a caballos, los bueyes semejantes a bueyes.",
+        "categorySlug": "metafisica",
+        "isDirectQuote": true,
+        "context": "Jenófanes denuncia que la teología popular griega, codificada por Homero y Hesíodo, es el resultado de una proyección antropomórfica: los humanos fabrican dioses a su imagen y semejanza. Este argumento constituye una crítica epistemológica y metafísica al politeísmo tradicional, abriendo la puerta a una teología racional.",
+        "difficultyLevel": 2
+      },
+      {
+        "text": "Hay un solo dios, el mayor entre dioses y hombres, que no se parece a los mortales ni en su figura ni en su pensamiento. Sin esfuerzo alguno lo gobierna todo con la fuerza de su mente.",
+        "categorySlug": "metafisica",
+        "isDirectQuote": true,
+        "context": "Frente al politeísmo antropomórfico, Jenófanes postula un principio divino único, eterno, inmóvil y puramente intelectual. Esta concepción monoteísta avant la lettre anticipa la noción de un motor inteligente del cosmos y ejerció influencia directa sobre la metafísica eleática de Parménides.",
+        "difficultyLevel": 3
+      },
+      {
+        "text": "Ningún hombre ha sabido ni sabrá la verdad cierta sobre los dioses y sobre todas las cosas de las que hablo; pues aunque acertara a decir lo más perfectamente verdadero, él mismo no lo sabría: en todo hay sólo apariencia.",
+        "categorySlug": "epistemologia",
+        "isDirectQuote": true,
+        "context": "Jenófanes formula aquí una posición epistemológica de corte escéptico que distingue entre conocimiento verdadero —inaccesible a los mortales— y doxa u opinión verosímil. Esta distinción anticipa el problema central de la epistemología presocrática que Parménides radicalizará al separar la 'vía de la verdad' de la 'vía de la opinión'.",
+        "difficultyLevel": 3
+      }
+    ]
+  },
+  {
+    "philosopher": {
+      "name": "Heráclito",
+      "slug": "heraclito",
+      "birthYear": -535,
+      "deathYear": -475,
+      "nationality": "Griega (Éfeso, Jonia)",
+      "bioShort": "Filósofo presocrático de Éfeso conocido por su doctrina del cambio perpetuo, el Logos universal y la unidad de los opuestos.",
+      "bioLong": "Heráclito de Éfeso (c. 535-475 a.C.) es uno de los pensadores más originales y enigmáticos de la filosofía presocrática. Su estilo oscuro y aforístico le valió el sobrenombre de 'el Oscuro'. A diferencia de los milesios, que buscaban un sustrato material estático como principio de todas las cosas, Heráclito postuló el fuego como símbolo del cambio perpetuo y la tensión dinámica como estructura fundamental de la realidad. Su concepto central es el Logos: una razón o ley universal que gobierna el cosmos y que la mayoría de los seres humanos, a pesar de experimentarla, son incapaces de comprender. Para Heráclito, la realidad es un proceso de devenir constante en el que los opuestos se implican mutuamente, y la guerra o tensión entre contrarios es el padre de todas las cosas. Su pensamiento representa un polo dialéctico fundamental frente a la filosofía estática de Parménides."
+    },
+    "statements": [
+      {
+        "text": "Todo fluye y nada permanece: la realidad es un proceso de cambio incesante en el que no es posible bañarse dos veces en el mismo río.",
+        "categorySlug": "metafisica",
+        "isDirectQuote": false,
+        "context": "Heráclito argumenta que la identidad de las cosas no reside en su permanencia material sino en la constancia del proceso de transformación. El río es el mismo precisamente porque sus aguas siempre cambian.",
+        "difficultyLevel": 1
+      },
+      {
+        "text": "El Logos es la razón o ley universal que gobierna el cosmos; aunque todos conviven con él, la mayoría viven como si tuvieran una comprensión privada del mundo.",
+        "categorySlug": "epistemologia",
+        "isDirectQuote": false,
+        "context": "El Logos heraclíteo no es solo lenguaje sino el principio racional que estructura la realidad. La ignorancia humana consiste en no reconocer esta ley común que subyace a toda experiencia.",
+        "difficultyLevel": 2
+      },
+      {
+        "text": "La guerra es el padre de todas las cosas y el rey de todas: a unos los muestra como dioses, a otros como hombres; a unos los hace libres, a otros esclavos.",
+        "categorySlug": "metafisica",
+        "isDirectQuote": true,
+        "context": "Heráclito (DK B53) eleva la tensión y el conflicto entre opuestos a principio ontológico fundamental. La oposición no es un defecto del ser sino su condición constitutiva.",
+        "difficultyLevel": 2
+      },
+      {
+        "text": "Los opuestos son en realidad una sola y misma cosa: el camino hacia arriba y el camino hacia abajo son el mismo camino.",
+        "categorySlug": "metafisica",
+        "isDirectQuote": false,
+        "context": "Heráclito (DK B60) ilustra la unidad de los opuestos mediante paradojas perceptuales. Lo que aparece como contrario desde una perspectiva revela su identidad al cambiar el punto de vista.",
+        "difficultyLevel": 2
+      },
+      {
+        "text": "El fuego es el principio de todas las cosas: todo se convierte en fuego y el fuego en todo, como las mercancías se cambian por oro y el oro por mercancías.",
+        "categorySlug": "metafisica",
+        "isDirectQuote": false,
+        "context": "A diferencia del agua de Tales o el ápeiron de Anaximandro, el fuego heraclíteo no es una sustancia estática sino el emblema del proceso de transformación universal. La analogía económica subraya el intercambio como estructura del ser.",
+        "difficultyLevel": 2
+      },
+      {
+        "text": "Los ojos y los oídos son malos testigos para los hombres que tienen almas bárbaras: los sentidos engañan a quienes no comprenden el Logos.",
+        "categorySlug": "epistemologia",
+        "isDirectQuote": false,
+        "context": "Heráclito (DK B107) establece una distinción entre percepción sensible y comprensión racional. El acceso a la verdad requiere interpretar la experiencia a través del Logos, no fiarse ciegamente de las apariencias.",
+        "difficultyLevel": 2
+      },
+      {
+        "text": "Para el alma, la muerte es convertirse en agua; para el agua, la muerte es convertirse en tierra. Del agua nace la tierra, y del fuego, el agua.",
+        "categorySlug": "mente",
+        "isDirectQuote": false,
+        "context": "Heráclito integra la psicología en su cosmología del flujo: el alma participa del ciclo universal de transformaciones y su excelencia consiste en mantenerse seca y cercana al fuego-Logos, lejos de la humedad que embota la inteligencia.",
+        "difficultyLevel": 3
+      },
+      {
+        "text": "Heráclito representa el polo del devenir frente a Parménides: donde Parménides niega el movimiento y defiende que solo el Ser es, Heráclito afirma que solo el cambio es real y que la estabilidad aparente es ilusión.",
+        "categorySlug": "metafisica",
+        "isDirectQuote": false,
+        "context": "La tensión dialéctica entre Heráclito y Parménides estructura toda la filosofía posterior. Platón intentará sintetizar ambas posiciones distinguiendo el mundo sensible (heraclíteo, cambiante) del mundo inteligible (eleático, inmutable). Aristóteles la resolverá mediante el concepto de sustancia que permanece a través del cambio accidental.",
+        "difficultyLevel": 3
+      }
+    ]
+  },
+  {
+    "philosopher": {
+      "name": "Parménides",
+      "slug": "parmenides",
+      "birthYear": -515,
+      "deathYear": -450,
+      "nationality": "griega (Elea, Magna Grecia)",
+      "bioShort": "Filósofo presocrático de Elea, fundador de la ontología occidental y de la escuela eleática, conocido por su poema filosófico 'Sobre la Naturaleza'.",
+      "bioLong": "Parménides de Elea (c. 515-450 a.C.) es considerado uno de los filósofos más influyentes de la Antigüedad. Su obra principal, conservada fragmentariamente gracias a citas de autores posteriores como Simplicio, es un poema en hexámetros dividido en dos partes: el 'Camino de la Verdad' (Aletheia) y el 'Camino de la Opinión' (Doxa). En él sostiene que el Ser es eterno, inmóvil, indivisible y uno, mientras que el cambio y la multiplicidad son ilusiones propias de la percepción sensorial. Su pensamiento representa una ruptura radical con los filósofos jonios que le precedieron y constituye un desafío directo a la filosofía del devenir de Heráclito. Fue maestro de Zenón de Elea, quien elaboró sus famosas paradojas para defender las tesis parmenídeas."
+    },
+    "statements": [
+      {
+        "text": "El Ser es y el No-Ser no es: solo existe aquello que puede ser pensado y dicho.",
+        "categorySlug": "metafisica",
+        "isDirectQuote": false,
+        "context": "Principio fundamental del 'Camino de la Verdad' (Fr. 2 y 6 DK). Parménides establece que el pensamiento y el ser coinciden: lo que no puede ser pensado sin contradicción, no puede ser. El No-Ser es impensable e inexpresable, por lo que queda excluido de la realidad.",
+        "difficultyLevel": 3
+      },
+      {
+        "text": "El Ser es ingénito e imperecedero, único, continuo, inmóvil y eterno.",
+        "categorySlug": "metafisica",
+        "isDirectQuote": false,
+        "context": "Descripción de los atributos del Ser verdadero en el Fr. 8 DK. Parménides deduce mediante argumento lógico que si el Ser existe, no pudo haber surgido de la nada ni puede perecer, pues ello implicaría la existencia del No-Ser, lo cual es imposible.",
+        "difficultyLevel": 3
+      },
+      {
+        "text": "Lo mismo es el pensar y aquello por lo que existe el pensamiento.",
+        "categorySlug": "epistemologia",
+        "isDirectQuote": false,
+        "context": "Fr. 3 DK. Parménides anticipa el principio de identidad entre pensamiento y ser: solo el Ser puede ser objeto del pensamiento genuino. El error y la ilusión surgen cuando los mortales confunden las apariencias sensibles con la realidad inteligible.",
+        "difficultyLevel": 3
+      },
+      {
+        "text": "Los sentidos engañan: el camino de los mortales que creen que el ser y el no-ser son lo mismo y no lo mismo es un camino sin retorno.",
+        "categorySlug": "epistemologia",
+        "isDirectQuote": false,
+        "context": "Fr. 6 y 7 DK. Parménides distingue entre el 'camino de la verdad', accesible solo a la razón, y el 'camino de la opinión' (doxa), seguido por quienes se fían de los sentidos. Los sentidos presentan un mundo de cambio y multiplicidad que es ontológicamente ilusorio.",
+        "difficultyLevel": 2
+      },
+      {
+        "text": "El Ser es uno y continuo: la multiplicidad de las cosas es una ilusión de la percepción.",
+        "categorySlug": "metafisica",
+        "isDirectQuote": false,
+        "context": "Fr. 8 DK. Frente a la experiencia cotidiana de la pluralidad, Parménides argumenta que cualquier división del Ser requeriría que el No-Ser lo separase, lo cual es imposible. La realidad es, por tanto, un bloque homogéneo, pleno e indivisible.",
+        "difficultyLevel": 2
+      },
+      {
+        "text": "El cambio y el movimiento son apariencias: nada puede llegar a ser ni dejar de ser, pues el Ser es eterno e inmutable.",
+        "categorySlug": "metafisica",
+        "isDirectQuote": false,
+        "context": "Argumento central de Fr. 8 DK que se opone dialécticamente a la filosofía de Heráclito. Mientras Heráclito afirma que todo fluye y el cambio es la esencia de lo real, Parménides demuestra lógicamente que el cambio es imposible: devenir implica que algo surge del no-ser, lo cual es contradictorio.",
+        "difficultyLevel": 3
+      },
+      {
+        "text": "Hay dos únicos caminos de investigación: que el ser es y no puede no-ser, o que el no-ser es y debe ser; solo el primero es el camino de la persuasión.",
+        "categorySlug": "logica",
+        "isDirectQuote": false,
+        "context": "Fr. 2 DK. Parménides inaugura en la filosofía occidental un método de argumentación por dicotomía exhaustiva y reducción al absurdo. El segundo camino —el del no-ser— es inviable porque el no-ser no puede ser pensado ni expresado sin incurrir en contradicción.",
+        "difficultyLevel": 3
+      },
+      {
+        "text": "La diosa revela al filósofo la verdad, alejándolo del error de los mortales que vagan sin criterio entre la dualidad ser-no ser.",
+        "categorySlug": "epistemologia",
+        "isDirectQuote": false,
+        "context": "Prólogo del Poema (Fr. 1 DK). El marco narrativo del poema —un viaje iniciático guiado por una diosa— expresa la distinción entre el conocimiento filosófico racional (aletheia) y la mera opinión (doxa). La verdad no es producto de la experiencia sensible sino de la contemplación racional guiada por principios lógicos. Simplicio transmitió fielmente estos fragmentos por considerarlos filosóficamente irrenunciables.",
+        "difficultyLevel": 2
+      }
+    ]
+  },
+  {
+    "philosopher": {
+      "name": "Zenón de Elea",
+      "slug": "zenon-de-elea",
+      "birthYear": -490,
+      "deathYear": -430,
+      "nationality": "griega",
+      "bioShort": "Filósofo presocrático de la escuela eleática, discípulo de Parménides, célebre por sus paradojas que niegan la realidad del movimiento y la pluralidad.",
+      "bioLong": "Zenón de Elea nació hacia el 490 a.C. en Elea, colonia griega del sur de Italia. Fue el principal discípulo de Parménides y desarrolló un método filosófico original basado en la reducción al absurdo (reductio ad absurdum). Su obra, de la que conservamos fragmentos a través de Aristóteles y otros, consistía fundamentalmente en una serie de paradojas destinadas a defender la tesis parmenídea de que el ser es uno, inmóvil y eterno, mostrando que las nociones de movimiento, pluralidad y división conducen a contradicciones insalvables. Sus paradojas más célebres —Aquiles y la tortuga, la flecha en vuelo, la dicotomía y el estadio— han influido profundamente en la filosofía, las matemáticas y la física hasta la actualidad. Aristóteles lo consideró el inventor de la dialéctica."
+    },
+    "statements": [
+      {
+        "text": "Las paradojas de Zenón destruyen, de raíz, la creencia en la existencia misma del mundo natural, mostrando que la realidad sensible es lógicamente contradictoria.",
+        "categorySlug": "metafisica",
+        "isDirectQuote": false,
+        "context": "Zenón elaboró sus paradojas como defensa del monismo de Parménides: si se asume que existe una pluralidad de cosas o que el movimiento es real, se llega a consecuencias absurdas e inconsistentes, lo que sugiere que el mundo fenoménico no puede constituir la verdadera realidad.",
+        "difficultyLevel": 3
+      },
+      {
+        "text": "El movimiento es imposible: Aquiles nunca podrá alcanzar a la tortuga, pues antes de recorrer cualquier distancia deberá recorrer la mitad de ella, y así hasta el infinito, sin llegar jamás al final.",
+        "categorySlug": "metafisica",
+        "isDirectQuote": false,
+        "context": "Esta es la paradoja de Aquiles y la tortuga, la más célebre de Zenón. Supone que el espacio es infinitamente divisible y que una suma infinita de pasos no puede completarse en tiempo finito, negando así la posibilidad del movimiento real.",
+        "difficultyLevel": 2
+      },
+      {
+        "text": "La pluralidad es imposible: si las cosas son muchas, deben ser a la vez infinitamente grandes e infinitamente pequeñas, lo que constituye una contradicción irresoluble.",
+        "categorySlug": "metafisica",
+        "isDirectQuote": false,
+        "context": "Zenón argumenta contra la pluralidad señalando que si el ser fuera múltiple, cada unidad debería ser divisible al infinito —y por tanto infinitamente grande— pero también carecer de magnitud para ser una unidad indivisible —y por tanto infinitamente pequeña—. Ambas conclusiones son absurdas.",
+        "difficultyLevel": 3
+      },
+      {
+        "text": "La flecha en vuelo está en reposo: en cada instante del tiempo, la flecha ocupa un espacio igual a sí misma y no se mueve; como el tiempo se compone de instantes, la flecha nunca se mueve realmente.",
+        "categorySlug": "epistemologia",
+        "isDirectQuote": false,
+        "context": "La paradoja de la flecha cuestiona la coherencia de nuestra percepción del movimiento. Si el tiempo se divide en instantes discretos y en cada instante el móvil ocupa un lugar definido sin desplazarse, entonces el movimiento percibido es una ilusión y el conocimiento sensorial resulta engañoso frente al razonamiento lógico.",
+        "difficultyLevel": 3
+      }
+    ]
+  },
+  {
+    "philosopher": {
+      "name": "Empédocles",
+      "slug": "empedocles",
+      "birthYear": -494,
+      "deathYear": -434,
+      "nationality": "griega (Agrigento, Sicilia)",
+      "bioShort": "Filósofo presocrático de Agrigento que propuso los cuatro elementos como principios fundamentales de la realidad y el Amor y el Odio como fuerzas cósmicas.",
+      "bioLong": "Empédocles de Agrigento (c. 494-434 a.C.) fue uno de los pensadores presocráticos más originales e influyentes. A diferencia de sus predecesores que postulaban un único principio (arché), Empédocles propuso cuatro 'raíces' eternas e irreductibles: tierra, agua, aire y fuego. Estas no se transforman entre sí, sino que se mezclan y separan bajo la acción de dos fuerzas cósmicas opuestas: el Amor (Philia), principio de unión y armonía, y el Odio o Discordia (Neikos), principio de separación y conflicto. El cosmos pasa cíclicamente por fases dominadas por una u otra fuerza. Empédocles también desarrolló una teoría de la percepción basada en efluencias y poros, y escribió en verso hexámetro, al modo de los poetas filosóficos. Su pensamiento fue referenciado críticamente tanto por Platón como por Aristóteles y Teofrasto, y constituye un eslabón fundamental entre la cosmología jónica y el pensamiento atomista posterior."
+    },
+    "statements": [
+      {
+        "text": "La realidad está compuesta por cuatro raíces eternas e irreductibles —tierra, agua, aire y fuego— que no se generan ni se destruyen, sino que se mezclan en distintas proporciones para producir todos los seres existentes.",
+        "categorySlug": "metafisica",
+        "isDirectQuote": false,
+        "context": "Empédocles rechazó la idea de un único principio (arché) y propuso en su lugar cuatro elementos eternos como fundamento plural de toda la realidad. Esta doctrina fue expuesta en su poema 'Sobre la naturaleza' y recogida críticamente por Aristóteles en la Metafísica y por Teofrasto en sus Opiniones físicas.",
+        "difficultyLevel": 2
+      },
+      {
+        "text": "El Amor (Philia) y el Odio (Neikos) son las dos fuerzas cósmicas que rigen el universo: el Amor une los elementos y genera la armonía y la vida; el Odio los separa y conduce a la disgregación. El cosmos oscila eternamente entre el dominio de una y otra fuerza.",
+        "categorySlug": "metafisica",
+        "isDirectQuote": false,
+        "context": "Empédocles introdujo dos principios motrices no materiales para explicar el movimiento y el cambio en un sistema donde los elementos son eternos e inertes por sí mismos. Esta concepción fue objeto de análisis por parte de Aristóteles, quien criticó la insuficiencia explicativa de identificar causas eficientes con fuerzas de carácter casi mítico.",
+        "difficultyLevel": 3
+      },
+      {
+        "text": "El conocimiento humano está limitado por la naturaleza de los sentidos: solo podemos percibir lo semejante a través de lo semejante, pues cada elemento del cuerpo percibe el elemento correspondiente en el mundo exterior mediante efluencias que encajan en los poros de los órganos sensoriales.",
+        "categorySlug": "epistemologia",
+        "isDirectQuote": false,
+        "context": "La teoría empedoclea de la percepción fue expuesta en su poema y recogida por Teofrasto en su libro 'Sobre la sensación', el único fragmento sustancial de sus Opiniones físicas que ha sobrevivido. Sexto Empírico también citó pasajes relativos al conocimiento y la credibilidad de los sentidos en relación con esta tradición.",
+        "difficultyLevel": 3
+      },
+      {
+        "text": "Los seres vivos y el hombre no son creaciones de un dios ni productos de una generación absoluta: son combinaciones transitorias de los cuatro elementos, ensambladas por el Amor en proporciones específicas. La muerte no es más que la disolución de esas mezclas y el retorno de los elementos a su estado separado.",
+        "categorySlug": "metafisica",
+        "isDirectQuote": false,
+        "context": "Empédocles negó la generación y la destrucción absolutas, reinterpretando el nacimiento y la muerte como procesos de mezcla y separación elemental. Esta posición fue discutida por Aristóteles como antecedente de su propia doctrina de la materia y la forma, y fue referenciada por Platón en el Fedón (96 ss.) dentro de las preocupaciones físicas del siglo V a.C.",
+        "difficultyLevel": 2
+      }
+    ]
+  },
+  {
+    "philosopher": {
+      "name": "Anaxágoras",
+      "slug": "anaxagoras",
+      "birthYear": -500,
+      "deathYear": -428,
+      "nationality": "Griega (Clazómenas, Jonia)",
+      "bioShort": "Filósofo presocrático de Clazómenas que introdujo el Nous (Inteligencia) como principio ordenador del cosmos y la teoría de que todas las cosas contienen una porción de todo.",
+      "bioLong": "Anaxágoras de Clazómenas (c. 500-428 a.C.) fue el primer filósofo en establecerse en Atenas, donde ejerció gran influencia sobre Pericles y Eurípides. Su principal innovación cosmológica fue postular que el origen del cosmos no residía en ningún elemento particular, sino en una mezcla primordial infinita en la que 'todo estaba junto'. El movimiento y la separación de esta mezcla fueron iniciados por el Nous (Inteligencia cósmica), principio inmaterial, puro y omnisciente que, sin mezclarse con nada, tiene el poder de ordenar todas las cosas. Anaxágoras sostuvo asimismo que en toda cosa hay una porción de todo —excepto el Nous—, y que lo que denominamos un objeto es simplemente aquello de lo que contiene la mayor proporción. Fue acusado de impiedad por afirmar que el Sol era una piedra incandescente, y murió en el exilio en Lámpsaco."
+    },
+    "statements": [
+      {
+        "text": "En el origen todas las cosas estaban juntas en una mezcla infinita; ninguna era distinguible de las demás, pues en todo hay una porción de todo.",
+        "categorySlug": "metafisica",
+        "isDirectQuote": false,
+        "context": "Anaxágoras rechazó la idea de que exista una sustancia primaria única y específica. En lugar de ello, postuló una mezcla primordial e indiferenciada (la 'homeomería') en la que todas las cualidades coexisten. Este principio responde al mismo problema que Anaximandro intentó resolver con el ápeiron: evitar que una sustancia elemental privilegiada destruya a las demás por ser infinita.",
+        "difficultyLevel": 2
+      },
+      {
+        "text": "El Nous (Inteligencia) es la única cosa que no está mezclada con nada; es pura, ilimitada y autónoma, y tiene el conocimiento de todas las cosas y la mayor fuerza, de modo que inició la rotación que separó el cosmos de la mezcla.",
+        "categorySlug": "metafisica",
+        "isDirectQuote": false,
+        "context": "A diferencia de los physikoí que postulaban principios materiales —como el agua, el fuego o el ápeiron— para explicar el orden cósmico, Anaxágoras introdujo una causa eficiente intelectual: el Nous. Aristóteles alude a esta distinción en el fragmento 108, al señalar que los que postulan lo infinito como rector del cosmos son precisamente los que no recurren a causas como el 'espíritu' o la 'amistad'. Anaxágoras fue, así, el primero en separar conceptualmente la causa formal-eficiente de la material.",
+        "difficultyLevel": 3
+      },
+      {
+        "text": "Ninguna cosa llega a ser ni perece en sentido absoluto; lo que llamamos generación y destrucción no son sino separación y mezcla de cosas que ya existían.",
+        "categorySlug": "metafisica",
+        "isDirectQuote": false,
+        "context": "Esta tesis de Anaxágoras responde directamente al argumento aristotélico recogido en el fragmento 107: la generación no requiere una materia primaria espacialmente infinita porque la destrucción de una cosa puede ser la generación de otra. Anaxágoras radicaliza este punto al negar la generación ex nihilo y afirmar la conservación permanente de todas las porciones cualitativas del cosmos.",
+        "difficultyLevel": 2
+      },
+      {
+        "text": "El conocimiento humano está limitado por la debilidad de los sentidos; sin embargo, los fenómenos visibles son la ventana hacia la comprensión de lo invisible.",
+        "categorySlug": "epistemologia",
+        "isDirectQuote": false,
+        "context": "Anaxágoras formuló una epistemología basada en la inferencia desde lo observable hacia lo imperceptible. Los sentidos no captan la infinita divisibilidad de la materia ni la acción del Nous, pero a través de ellos el filósofo puede razonar hacia causas que exceden la percepción directa. Esta posición anticipa la distinción entre apariencia y realidad que será central en la epistemología platónica, y contrasta con el escepticismo sensorial de Parménides.",
+        "difficultyLevel": 2
+      }
+    ]
+  },
+  {
+    "philosopher": {
+      "name": "Demócrito",
+      "slug": "democrito",
+      "birthYear": -460,
+      "deathYear": -370,
+      "nationality": "griega (Abdera, Tracia)",
+      "bioShort": "Filósofo presocrático de Abdera, cofundador junto a Leucipo del atomismo. Sostuvo que la realidad está compuesta por átomos indivisibles que se mueven en el vacío, sentando las bases del materialismo filosófico.",
+      "bioLong": "Demócrito de Abdera (c. 460-370 a.C.) fue uno de los pensadores más prolíficos de la Antigüedad. Discípulo y colaborador de Leucipo, desarrolló la teoría atomista según la cual toda la realidad se reduce a dos principios: los átomos (partículas indivisibles, eternas e indestructibles) y el vacío (el no-ser que permite el movimiento). Los átomos difieren en forma, tamaño y posición, y sus combinaciones generan toda la variedad del mundo sensible. Demócrito extendió el atomismo al ámbito del alma, concebida como compuesta de átomos esféricos y sutiles, y al del conocimiento, distinguiendo entre un saber oscuro (sensorial) y un saber legítimo (racional). Su ética giró en torno al concepto de euthymia (serenidad o bienestar del alma) como fin de la vida humana. Se le atribuyen más de sesenta obras sobre física, ética, matemáticas, música y lingüística, aunque solo conservamos fragmentos. Fue mencionado por fuentes doxográficas como Diógenes Laercio y citado por Aristóteles como el más sistemático de los pensadores anteriores a él."
+    },
+    "statements": [
+      {
+        "text": "Todo lo que existe está compuesto de átomos indivisibles y de vacío. Los átomos son eternos, indestructibles e infinitos en número; el vacío es el no-ser que hace posible el movimiento y la combinación de los átomos.",
+        "categorySlug": "metafisica",
+        "isDirectQuote": false,
+        "context": "Doctrina central del atomismo democríteo, reconstruida a partir de los testimonios de Aristóteles (De caelo, Metafísica) y Teofrasto. El texto analizado menciona a Demócrito en relación con fuentes doxográficas sobre los presocráticos, contexto en el que su atomismo es la aportación más identificable.",
+        "difficultyLevel": 2
+      },
+      {
+        "text": "Hay dos formas de conocimiento: el conocimiento oscuro, que proviene de los sentidos y es engañoso, y el conocimiento legítimo, que pertenece al entendimiento y capta la verdad de los átomos y el vacío.",
+        "categorySlug": "epistemologia",
+        "isDirectQuote": false,
+        "context": "Demócrito distinguió explícitamente entre gnome skotie (conocimiento oscuro o bastardo) y gnome gnesie (conocimiento legítimo o genuino). Los sentidos ofrecen apariencias secundarias —color, sabor, temperatura— mientras que la razón accede a las propiedades primarias reales: forma, tamaño y movimiento de los átomos.",
+        "difficultyLevel": 3
+      },
+      {
+        "text": "El alma está compuesta de átomos esféricos, igneos y sutiles, similares a los del fuego. Estos átomos, por su forma, son los más móviles y penetran en todo el cuerpo, generando el movimiento vital y el pensamiento.",
+        "categorySlug": "mente",
+        "isDirectQuote": false,
+        "context": "La psicología atomista de Demócrito aplica el mismo principio materialista al alma. Al morir el organismo, los átomos del alma se dispersan. Esta concepción niega la inmortalidad personal y anticipa el materialismo eliminativista sobre la mente.",
+        "difficultyLevel": 3
+      },
+      {
+        "text": "El fin de la vida es la euthymia, la serenidad o bienestar del alma, que se alcanza mediante la moderación, el conocimiento y el alejamiento de los placeres excesivos. La felicidad no reside en los bienes externos sino en la disposición interior del espíritu.",
+        "categorySlug": "etica",
+        "isDirectQuote": false,
+        "context": "La ética de Demócrito, conservada en numerosos fragmentos (DK 68 B 3, B 170, B 191), propone la euthymia como el summum bonum. Este ideal contrasta con el hedonismo vulgar: el placer del cuerpo es breve y dependiente; la serenidad del alma es estable y autónoma.",
+        "difficultyLevel": 2
+      },
+      {
+        "text": "Las cualidades sensibles —el color, el sabor, el calor, el frío— no existen en la realidad objetiva, sino solo por convención y costumbre. En verdad, solo existen los átomos y el vacío.",
+        "categorySlug": "metafisica",
+        "isDirectQuote": false,
+        "context": "Este argumento, recogido en el fragmento DK 68 B 9 ('Por convención el color, por convención lo dulce, por convención lo amargo; en verdad, los átomos y el vacío'), establece la distinción entre propiedades primarias (objetivas) y secundarias (subjetivas), anticipando la distinción que retomarán Galileo y Locke.",
+        "difficultyLevel": 3
+      }
+    ]
+  }
+]

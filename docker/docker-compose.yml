@@ -1,0 +1,59 @@
+version: '3.8'
+services:
+  digest-web:
+    build:
+      context: /opt/digest/web
+      dockerfile: Dockerfile
+    image: digest-web:latest
+    container_name: digest-web
+    restart: unless-stopped
+    environment:
+      - NODE_ENV=production
+      - EDITIONS_URL=https://ia.anthonycazares.cafe/editions.json
+    networks:
+      - traefik-public
+    labels:
+      - 'traefik.enable=true'
+      - 'traefik.http.routers.digest.rule=Host(`ia.anthonycazares.cafe`) && !PathPrefix(`/subscribe`) && !PathPrefix(`/unsubscribe`) && !PathPrefix(`/edicion-`) && !PathPrefix(`/editions.json`)'
+      - 'traefik.http.routers.digest.entrypoints=https'
+      - 'traefik.http.routers.digest.tls=true'
+      - 'traefik.http.routers.digest.tls.certresolver=le'
+      - 'traefik.http.services.digest.loadbalancer.server.port=3000'
+
+  digest-static:
+    image: nginx:alpine
+    container_name: digest-static
+    restart: unless-stopped
+    volumes:
+      - /opt/digest/public:/usr/share/nginx/html:ro
+    networks:
+      - traefik-public
+    labels:
+      - 'traefik.enable=true'
+      - 'traefik.http.routers.digest-static.rule=Host(`ia.anthonycazares.cafe`) && (PathPrefix(`/edicion-`) || Path(`/editions.json`))'
+      - 'traefik.http.routers.digest-static.entrypoints=https'
+      - 'traefik.http.routers.digest-static.tls=true'
+      - 'traefik.http.routers.digest-static.tls.certresolver=le'
+      - 'traefik.http.services.digest-static.loadbalancer.server.port=80'
+
+  digest-subscribe:
+    image: node:20-alpine
+    container_name: digest-subscribe
+    restart: unless-stopped
+    working_dir: /app
+    command: node --import tsx/esm src/subscribe-server.ts
+    volumes:
+      - /opt/digest/app:/app
+    networks:
+      - traefik-public
+    labels:
+      - 'traefik.enable=true'
+      - 'traefik.http.routers.digest-subscribe.rule=Host(`ia.anthonycazares.cafe`) && (PathPrefix(`/subscribe`) || PathPrefix(`/unsubscribe`))'
+      - 'traefik.http.routers.digest-subscribe.entrypoints=https'
+      - 'traefik.http.routers.digest-subscribe.tls=true'
+      - 'traefik.http.routers.digest-subscribe.tls.certresolver=le'
+      - 'traefik.http.services.digest-subscribe.loadbalancer.server.port=3001'
+
+networks:
+  traefik-public:
+    external: true
