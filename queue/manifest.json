@@ -1,0 +1,869 @@
+{
+  "generatedAt": "2026-05-11T21:55:38.062Z",
+  "totalItems": 66,
+  "byModule": {
+    "1": 6,
+    "2": 5,
+    "3": 6,
+    "4": 8,
+    "6": 4,
+    "7": 6,
+    "8": 3,
+    "9": 2,
+    "10": 2,
+    "12": 2,
+    "13": 4,
+    "14": 2,
+    "15": 3,
+    "16": 2,
+    "18": 2,
+    "19": 3,
+    "20": 3,
+    "21": 2,
+    "22": 1
+  },
+  "items": [
+    {
+      "slug": "M01-P01",
+      "moduleIndex": 1,
+      "partIndex": 0,
+      "moduleName": "Introducción a la Filosofía · Parte I",
+      "topicCount": 3,
+      "titles": [
+        "Naturaleza de la actividad filosófica",
+        "Filosofía como sabiduría y como ciencia",
+        "Métodos de la filosofía"
+      ],
+      "totalParts": 6
+    },
+    {
+      "slug": "M01-P02",
+      "moduleIndex": 1,
+      "partIndex": 1,
+      "moduleName": "Introducción a la Filosofía · Parte II",
+      "topicCount": 3,
+      "titles": [
+        "División de la filosofía",
+        "Relación de la filosofía con otras ciencias",
+        "El conocimiento y el ser"
+      ],
+      "totalParts": 6
+    },
+    {
+      "slug": "M01-P03",
+      "moduleIndex": 1,
+      "partIndex": 2,
+      "moduleName": "Introducción a la Filosofía · Parte III",
+      "topicCount": 3,
+      "titles": [
+        "El hombre y el mundo",
+        "La actividad humana y la belleza",
+        "El Absoluto"
+      ],
+      "totalParts": 6
+    },
+    {
+      "slug": "M01-P04",
+      "moduleIndex": 1,
+      "partIndex": 3,
+      "moduleName": "Introducción a la Filosofía · Parte IV",
+      "topicCount": 3,
+      "titles": [
+        "Otros problemas: lenguaje, sentido, historia, religión, política, derecho",
+        "Naturaleza y objeto de la historia de la filosofía",
+        "Concepto general de la historia de la filosofía"
+      ],
+      "totalParts": 6
+    },
+    {
+      "slug": "M01-P05",
+      "moduleIndex": 1,
+      "partIndex": 4,
+      "moduleName": "Introducción a la Filosofía · Parte V",
+      "topicCount": 3,
+      "titles": [
+        "Directrices y pensadores destacados en los grandes periodos",
+        "Razón y fe",
+        "Sentido cristiano del cosmos y de la historia"
+      ],
+      "totalParts": 6
+    },
+    {
+      "slug": "M01-P06",
+      "moduleIndex": 1,
+      "partIndex": 5,
+      "moduleName": "Introducción a la Filosofía · Parte VI",
+      "topicCount": 1,
+      "titles": [
+        "Tareas comunes y relación entre filosofía y teología"
+      ],
+      "totalParts": 6
+    },
+    {
+      "slug": "M02-P01",
+      "moduleIndex": 2,
+      "partIndex": 0,
+      "moduleName": "Lógica · Parte I",
+      "topicCount": 3,
+      "titles": [
+        "Sentido común y lógica",
+        "Naturaleza de la lógica",
+        "Breve historia de la lógica"
+      ],
+      "totalParts": 5
+    },
+    {
+      "slug": "M02-P02",
+      "moduleIndex": 2,
+      "partIndex": 1,
+      "moduleName": "Lógica · Parte II",
+      "topicCount": 3,
+      "titles": [
+        "Tratado de la predicabilidad: concepto y término",
+        "Tratado de la predicación: juicio y proposición",
+        "Tratado de la inferencia"
+      ],
+      "totalParts": 5
+    },
+    {
+      "slug": "M02-P03",
+      "moduleIndex": 2,
+      "partIndex": 2,
+      "moduleName": "Lógica · Parte III",
+      "topicCount": 3,
+      "titles": [
+        "Semiótica lógica",
+        "Sintaxis lógica",
+        "Semántica lógica"
+      ],
+      "totalParts": 5
+    },
+    {
+      "slug": "M02-P04",
+      "moduleIndex": 2,
+      "partIndex": 3,
+      "moduleName": "Lógica · Parte IV",
+      "topicCount": 3,
+      "titles": [
+        "Lógica simbólica: función proposicional y álgebra de Boole",
+        "Partes de la lógica",
+        "Lógica de las proposiciones"
+      ],
+      "totalParts": 5
+    },
+    {
+      "slug": "M02-P05",
+      "moduleIndex": 2,
+      "partIndex": 4,
+      "moduleName": "Lógica · Parte V",
+      "topicCount": 1,
+      "titles": [
+        "Lógica de los términos"
+      ],
+      "totalParts": 5
+    },
+    {
+      "slug": "M03-P01",
+      "moduleIndex": 3,
+      "partIndex": 0,
+      "moduleName": "Principios y Técnicas de la Investigación Filosófica · Parte I",
+      "topicCount": 3,
+      "titles": [
+        "Valor de la investigación filosófica",
+        "Objetivo de la investigación: mayéutica, racionalismo, empirismo, hermenéutica",
+        "Recursos de seguimiento del trabajo: aprendizaje, estudio, clases, seminarios"
+      ],
+      "totalParts": 6
+    },
+    {
+      "slug": "M03-P02",
+      "moduleIndex": 3,
+      "partIndex": 1,
+      "moduleName": "Principios y Técnicas de la Investigación Filosófica · Parte II",
+      "topicCount": 3,
+      "titles": [
+        "Tipos de trabajo: tesis, tratado, reseña, comentario",
+        "Dinámica de la investigación filosófica",
+        "Bibliografía: fuentes primarias y secundarias"
+      ],
+      "totalParts": 6
+    },
+    {
+      "slug": "M03-P03",
+      "moduleIndex": 3,
+      "partIndex": 2,
+      "moduleName": "Principios y Técnicas de la Investigación Filosófica · Parte III",
+      "topicCount": 3,
+      "titles": [
+        "El fichero de trabajo y tipos de ficha",
+        "La lectura crítica",
+        "Reflexión personal y creatividad filosófica"
+      ],
+      "totalParts": 6
+    },
+    {
+      "slug": "M03-P04",
+      "moduleIndex": 3,
+      "partIndex": 3,
+      "moduleName": "Principios y Técnicas de la Investigación Filosófica · Parte IV",
+      "topicCount": 3,
+      "titles": [
+        "Punto de partida: el interés filosófico",
+        "Etapas del trabajo filosófico",
+        "Distribución de tiempos"
+      ],
+      "totalParts": 6
+    },
+    {
+      "slug": "M03-P05",
+      "moduleIndex": 3,
+      "partIndex": 4,
+      "moduleName": "Principios y Técnicas de la Investigación Filosófica · Parte V",
+      "topicCount": 3,
+      "titles": [
+        "Redacción filosófica",
+        "Normas metodológicas institucionales",
+        "Estructura de la tesis"
+      ],
+      "totalParts": 6
+    },
+    {
+      "slug": "M03-P06",
+      "moduleIndex": 3,
+      "partIndex": 5,
+      "moduleName": "Principios y Técnicas de la Investigación Filosófica · Parte VI",
+      "topicCount": 2,
+      "titles": [
+        "Presentación del cuerpo de la tesis",
+        "Índices y bibliografía"
+      ],
+      "totalParts": 6
+    },
+    {
+      "slug": "M04-P01",
+      "moduleIndex": 4,
+      "partIndex": 0,
+      "moduleName": "Historia de la Filosofía Antigua · Parte I",
+      "topicCount": 3,
+      "titles": [
+        "El contexto histórico y cultural del nacimiento de la filosofía",
+        "Los naturalistas presocráticos y la búsqueda del principio",
+        "Los pitagóricos y el número como principio"
+      ],
+      "totalParts": 8
+    },
+    {
+      "slug": "M04-P02",
+      "moduleIndex": 4,
+      "partIndex": 1,
+      "moduleName": "Historia de la Filosofía Antigua · Parte II",
+      "topicCount": 3,
+      "titles": [
+        "Los eleáticos y el descubrimiento del ser",
+        "Los sofistas y el descubrimiento del hombre",
+        "La cuestión socrática"
+      ],
+      "totalParts": 8
+    },
+    {
+      "slug": "M04-P03",
+      "moduleIndex": 4,
+      "partIndex": 2,
+      "moduleName": "Historia de la Filosofía Antigua · Parte III",
+      "topicCount": 3,
+      "titles": [
+        "Antropología socrática",
+        "El método dialéctico de Sócrates",
+        "La refutación y la mayéutica"
+      ],
+      "totalParts": 8
+    },
+    {
+      "slug": "M04-P04",
+      "moduleIndex": 4,
+      "partIndex": 3,
+      "moduleName": "Historia de la Filosofía Antigua · Parte IV",
+      "topicCount": 3,
+      "titles": [
+        "La cuestión platónica",
+        "La fundación de la metafísica",
+        "Conocimiento, dialéctica, retórica, arte y erótica en Platón"
+      ],
+      "totalParts": 8
+    },
+    {
+      "slug": "M04-P05",
+      "moduleIndex": 4,
+      "partIndex": 4,
+      "moduleName": "Historia de la Filosofía Antigua · Parte V",
+      "topicCount": 3,
+      "titles": [
+        "Concepción platónica del hombre",
+        "El estado ideal y sus formas históricas",
+        "La cuestión aristotélica"
+      ],
+      "totalParts": 8
+    },
+    {
+      "slug": "M04-P06",
+      "moduleIndex": 4,
+      "partIndex": 5,
+      "moduleName": "Historia de la Filosofía Antigua · Parte VI",
+      "topicCount": 3,
+      "titles": [
+        "La metafísica aristotélica",
+        "La física y la matemática aristotélicas",
+        "La psicología aristotélica"
+      ],
+      "totalParts": 8
+    },
+    {
+      "slug": "M04-P07",
+      "moduleIndex": 4,
+      "partIndex": 6,
+      "moduleName": "Historia de la Filosofía Antigua · Parte VII",
+      "topicCount": 3,
+      "titles": [
+        "Las ciencias prácticas: ética y política aristotélicas",
+        "Lógica, retórica y poética en Aristóteles",
+        "Condiciones histórico-políticas del helenismo"
+      ],
+      "totalParts": 8
+    },
+    {
+      "slug": "M04-P08",
+      "moduleIndex": 4,
+      "partIndex": 7,
+      "moduleName": "Historia de la Filosofía Antigua · Parte VIII",
+      "topicCount": 3,
+      "titles": [
+        "El pensamiento helenístico: estoicismo, epicureísmo, escepticismo",
+        "La filosofía en Roma",
+        "Plotino y el neoplatonismo"
+      ],
+      "totalParts": 8
+    },
+    {
+      "slug": "M06-P01",
+      "moduleIndex": 6,
+      "partIndex": 0,
+      "moduleName": "Seminario de Redacción en Humanidades y Ciencias Sociales · Parte I",
+      "topicCount": 3,
+      "titles": [
+        "Evaluación de escritos académicos",
+        "Escritos universitarios: herramientas",
+        "Escritos universitarios: textos académicos"
+      ],
+      "totalParts": 4
+    },
+    {
+      "slug": "M06-P02",
+      "moduleIndex": 6,
+      "partIndex": 1,
+      "moduleName": "Seminario de Redacción en Humanidades y Ciencias Sociales · Parte II",
+      "topicCount": 3,
+      "titles": [
+        "Rasgos pragmáticos",
+        "Lengua oral y lengua escrita",
+        "Verificación del léxico"
+      ],
+      "totalParts": 4
+    },
+    {
+      "slug": "M06-P03",
+      "moduleIndex": 6,
+      "partIndex": 2,
+      "moduleName": "Seminario de Redacción en Humanidades y Ciencias Sociales · Parte III",
+      "topicCount": 3,
+      "titles": [
+        "Verbos simples y verbos compuestos",
+        "Argumentación verbal",
+        "Verificación de la construcción oracional"
+      ],
+      "totalParts": 4
+    },
+    {
+      "slug": "M06-P04",
+      "moduleIndex": 6,
+      "partIndex": 3,
+      "moduleName": "Seminario de Redacción en Humanidades y Ciencias Sociales · Parte IV",
+      "topicCount": 3,
+      "titles": [
+        "Unidad temática de párrafos",
+        "Unidad discursiva",
+        "Verificación de unidad discursiva"
+      ],
+      "totalParts": 4
+    },
+    {
+      "slug": "M07-P01",
+      "moduleIndex": 7,
+      "partIndex": 0,
+      "moduleName": "Filosofía de la Naturaleza · Parte I",
+      "topicCount": 3,
+      "titles": [
+        "La filosofía de la naturaleza y su objeto de estudio",
+        "El método de la filosofía de la naturaleza",
+        "Relación de la filosofía de la naturaleza con otras áreas"
+      ],
+      "totalParts": 6
+    },
+    {
+      "slug": "M07-P02",
+      "moduleIndex": 7,
+      "partIndex": 1,
+      "moduleName": "Filosofía de la Naturaleza · Parte II",
+      "topicCount": 3,
+      "titles": [
+        "Breve visión histórica de la reflexión sobre la naturaleza",
+        "Inteligibilidad de la naturaleza",
+        "El devenir y la multiplicidad"
+      ],
+      "totalParts": 6
+    },
+    {
+      "slug": "M07-P03",
+      "moduleIndex": 7,
+      "partIndex": 2,
+      "moduleName": "Filosofía de la Naturaleza · Parte III",
+      "topicCount": 3,
+      "titles": [
+        "La sustancia corpórea",
+        "Teoría hilemórfica de la composición",
+        "La cantidad"
+      ],
+      "totalParts": 6
+    },
+    {
+      "slug": "M07-P04",
+      "moduleIndex": 7,
+      "partIndex": 3,
+      "moduleName": "Filosofía de la Naturaleza · Parte IV",
+      "topicCount": 3,
+      "titles": [
+        "Las cualidades corpóreas",
+        "El lugar",
+        "El tiempo"
+      ],
+      "totalParts": 6
+    },
+    {
+      "slug": "M07-P05",
+      "moduleIndex": 7,
+      "partIndex": 4,
+      "moduleName": "Filosofía de la Naturaleza · Parte V",
+      "topicCount": 3,
+      "titles": [
+        "El origen del universo",
+        "El sentido y la finalidad de la naturaleza",
+        "La naturaleza y la persona humana"
+      ],
+      "totalParts": 6
+    },
+    {
+      "slug": "M07-P06",
+      "moduleIndex": 7,
+      "partIndex": 5,
+      "moduleName": "Filosofía de la Naturaleza · Parte VI",
+      "topicCount": 1,
+      "titles": [
+        "La naturaleza y Dios"
+      ],
+      "totalParts": 6
+    },
+    {
+      "slug": "M08-P01",
+      "moduleIndex": 8,
+      "partIndex": 0,
+      "moduleName": "Estética · Parte I",
+      "topicCount": 3,
+      "titles": [
+        "La estética como disciplina filosófica",
+        "Los conceptos estéticos fundamentales: arte, belleza y creatividad",
+        "La autonomía de la estética kantiana"
+      ],
+      "totalParts": 3
+    },
+    {
+      "slug": "M08-P02",
+      "moduleIndex": 8,
+      "partIndex": 1,
+      "moduleName": "Estética · Parte II",
+      "topicCount": 3,
+      "titles": [
+        "La filosofía del arte en el sistema idealista de Hegel",
+        "La superioridad del arte en la filosofía de Nietzsche",
+        "El arte y los planteamientos estéticos del siglo XX"
+      ],
+      "totalParts": 3
+    },
+    {
+      "slug": "M08-P03",
+      "moduleIndex": 8,
+      "partIndex": 2,
+      "moduleName": "Estética · Parte III",
+      "topicCount": 1,
+      "titles": [
+        "La estética en la transición del siglo XX al XXI"
+      ],
+      "totalParts": 3
+    },
+    {
+      "slug": "M09-P01",
+      "moduleIndex": 9,
+      "partIndex": 0,
+      "moduleName": "Antropología Filosófica · Parte I",
+      "topicCount": 3,
+      "titles": [
+        "Introducción a la antropología filosófica",
+        "La vida humana",
+        "Fenomenología del comportamiento humano"
+      ],
+      "totalParts": 2
+    },
+    {
+      "slug": "M09-P02",
+      "moduleIndex": 9,
+      "partIndex": 1,
+      "moduleName": "Antropología Filosófica · Parte II",
+      "topicCount": 3,
+      "titles": [
+        "El conocer humano",
+        "El querer humano",
+        "La afectividad humana"
+      ],
+      "totalParts": 2
+    },
+    {
+      "slug": "M10-P01",
+      "moduleIndex": 10,
+      "partIndex": 0,
+      "moduleName": "Historia de la Filosofía Patrística y Medieval · Parte I",
+      "topicCount": 3,
+      "titles": [
+        "Caracterización de la filosofía patrística, siglos II-VIII d. C.",
+        "San Agustín: filosofar en la fe",
+        "Caracterización de la filosofía escolástica, siglos IX-XIII"
+      ],
+      "totalParts": 2
+    },
+    {
+      "slug": "M10-P02",
+      "moduleIndex": 10,
+      "partIndex": 1,
+      "moduleName": "Historia de la Filosofía Patrística y Medieval · Parte II",
+      "topicCount": 2,
+      "titles": [
+        "Santo Tomás de Aquino: razón, fe y metafísica",
+        "Baja escolástica: siglos XIV-XV"
+      ],
+      "totalParts": 2
+    },
+    {
+      "slug": "M12-P01",
+      "moduleIndex": 12,
+      "partIndex": 0,
+      "moduleName": "Filosofía Política · Parte I",
+      "topicCount": 3,
+      "titles": [
+        "¿Qué es la filosofía política?",
+        "Filosofía política antigua",
+        "Filosofía política medieval"
+      ],
+      "totalParts": 2
+    },
+    {
+      "slug": "M12-P02",
+      "moduleIndex": 12,
+      "partIndex": 1,
+      "moduleName": "Filosofía Política · Parte II",
+      "topicCount": 2,
+      "titles": [
+        "Maquiavelo y el nacimiento del pensamiento político moderno",
+        "Filosofía política moderna"
+      ],
+      "totalParts": 2
+    },
+    {
+      "slug": "M13-P01",
+      "moduleIndex": 13,
+      "partIndex": 0,
+      "moduleName": "Metafísica · Parte I",
+      "topicCount": 3,
+      "titles": [
+        "Objeto y ubicación de la metafísica",
+        "Método y principios de la metafísica",
+        "Filosofía metafísica y filosofías antimetafísicas"
+      ],
+      "totalParts": 4
+    },
+    {
+      "slug": "M13-P02",
+      "moduleIndex": 13,
+      "partIndex": 1,
+      "moduleName": "Metafísica · Parte II",
+      "topicCount": 3,
+      "titles": [
+        "Problemas fundamentales de la metafísica",
+        "Los datos de la experiencia y su problematización teórica",
+        "Historia de la cuestión del movimiento"
+      ],
+      "totalParts": 4
+    },
+    {
+      "slug": "M13-P03",
+      "moduleIndex": 13,
+      "partIndex": 2,
+      "moduleName": "Metafísica · Parte III",
+      "topicCount": 3,
+      "titles": [
+        "Materia y forma: especificación e individualidad",
+        "Composición de acto y potencia en los seres finitos",
+        "Las cuatro causas aristotélicas"
+      ],
+      "totalParts": 4
+    },
+    {
+      "slug": "M13-P04",
+      "moduleIndex": 13,
+      "partIndex": 3,
+      "moduleName": "Metafísica · Parte IV",
+      "topicCount": 2,
+      "titles": [
+        "El obrar como ejercicio de la causalidad eficiente",
+        "La causalidad propia y el principio de finalidad"
+      ],
+      "totalParts": 4
+    },
+    {
+      "slug": "M14-P01",
+      "moduleIndex": 14,
+      "partIndex": 0,
+      "moduleName": "Ética General · Parte I",
+      "topicCount": 3,
+      "titles": [
+        "Introducción a la ética: experiencia ordinaria y razón práctica",
+        "Visión histórica de la ética",
+        "El bien humano"
+      ],
+      "totalParts": 2
+    },
+    {
+      "slug": "M14-P02",
+      "moduleIndex": 14,
+      "partIndex": 1,
+      "moduleName": "Ética General · Parte II",
+      "topicCount": 3,
+      "titles": [
+        "El sujeto moral: inclinaciones, tendencias y pasiones",
+        "La ley moral: natural, eterna y civil",
+        "La conciencia moral"
+      ],
+      "totalParts": 2
+    },
+    {
+      "slug": "M15-P01",
+      "moduleIndex": 15,
+      "partIndex": 0,
+      "moduleName": "Antropología Filosófica II · Parte I",
+      "topicCount": 3,
+      "titles": [
+        "Historia del problema antropológico",
+        "Existencia, espiritualidad y substancialidad del alma",
+        "El alma como forma de la materia humana"
+      ],
+      "totalParts": 3
+    },
+    {
+      "slug": "M15-P02",
+      "moduleIndex": 15,
+      "partIndex": 1,
+      "moduleName": "Antropología Filosófica II · Parte II",
+      "topicCount": 3,
+      "titles": [
+        "Valor y dignidad del cuerpo humano",
+        "El hombre, espíritu encarnado",
+        "El hombre como ser personal"
+      ],
+      "totalParts": 3
+    },
+    {
+      "slug": "M15-P03",
+      "moduleIndex": 15,
+      "partIndex": 2,
+      "moduleName": "Antropología Filosófica II · Parte III",
+      "topicCount": 2,
+      "titles": [
+        "Dimensiones del ser personal",
+        "Muerte y trascendencia humanas"
+      ],
+      "totalParts": 3
+    },
+    {
+      "slug": "M16-P01",
+      "moduleIndex": 16,
+      "partIndex": 0,
+      "moduleName": "Historia de la Filosofía Moderna · Parte I",
+      "topicCount": 3,
+      "titles": [
+        "El Humanismo y el Renacimiento",
+        "René Descartes",
+        "El racionalismo"
+      ],
+      "totalParts": 2
+    },
+    {
+      "slug": "M16-P02",
+      "moduleIndex": 16,
+      "partIndex": 1,
+      "moduleName": "Historia de la Filosofía Moderna · Parte II",
+      "topicCount": 3,
+      "titles": [
+        "El empirismo",
+        "La Ilustración",
+        "Kant"
+      ],
+      "totalParts": 2
+    },
+    {
+      "slug": "M18-P01",
+      "moduleIndex": 18,
+      "partIndex": 0,
+      "moduleName": "Filosofía del Arte · Parte I",
+      "topicCount": 3,
+      "titles": [
+        "Introducción a la filosofía del arte",
+        "El arte como objeto religioso",
+        "El arte como representación de la realidad"
+      ],
+      "totalParts": 2
+    },
+    {
+      "slug": "M18-P02",
+      "moduleIndex": 18,
+      "partIndex": 1,
+      "moduleName": "Filosofía del Arte · Parte II",
+      "topicCount": 3,
+      "titles": [
+        "El arte como objeto en sí mismo",
+        "Los problemas clásicos del arte",
+        "Problemas contemporáneos del arte"
+      ],
+      "totalParts": 2
+    },
+    {
+      "slug": "M19-P01",
+      "moduleIndex": 19,
+      "partIndex": 0,
+      "moduleName": "Filosofía del Derecho · Parte I",
+      "topicCount": 3,
+      "titles": [
+        "Introducción a la filosofía del derecho",
+        "Lo justo en el ámbito de lo conmutativo",
+        "Lo justo en el ámbito de lo distributivo"
+      ],
+      "totalParts": 3
+    },
+    {
+      "slug": "M19-P02",
+      "moduleIndex": 19,
+      "partIndex": 1,
+      "moduleName": "Filosofía del Derecho · Parte II",
+      "topicCount": 3,
+      "titles": [
+        "La foralidad",
+        "La historia del Derecho",
+        "El ius antiguo como theologia civilis pagana"
+      ],
+      "totalParts": 3
+    },
+    {
+      "slug": "M19-P03",
+      "moduleIndex": 19,
+      "partIndex": 2,
+      "moduleName": "Filosofía del Derecho · Parte III",
+      "topicCount": 3,
+      "titles": [
+        "El jurista y el staretz",
+        "Restitución y penitencia",
+        "Justicia y misericordia"
+      ],
+      "totalParts": 3
+    },
+    {
+      "slug": "M20-P01",
+      "moduleIndex": 20,
+      "partIndex": 0,
+      "moduleName": "Metafísica II · Parte I",
+      "topicCount": 3,
+      "titles": [
+        "Metafísica en sentido estático. Ser y ente",
+        "Unidad y verdad",
+        "La belleza y la bondad"
+      ],
+      "totalParts": 3
+    },
+    {
+      "slug": "M20-P02",
+      "moduleIndex": 20,
+      "partIndex": 1,
+      "moduleName": "Metafísica II · Parte II",
+      "topicCount": 3,
+      "titles": [
+        "La cuestión del relativismo",
+        "Clasificación del ser",
+        "Antecedentes de la participación y analogía del ser"
+      ],
+      "totalParts": 3
+    },
+    {
+      "slug": "M20-P03",
+      "moduleIndex": 20,
+      "partIndex": 2,
+      "moduleName": "Metafísica II · Parte III",
+      "topicCount": 2,
+      "titles": [
+        "Clasificación filosófica de la analogía del ser",
+        "Sentidos lógicos y matemáticos de la analogía"
+      ],
+      "totalParts": 3
+    },
+    {
+      "slug": "M21-P01",
+      "moduleIndex": 21,
+      "partIndex": 0,
+      "moduleName": "Ética Especial · Parte I",
+      "topicCount": 3,
+      "titles": [
+        "Introducción a la ética especial",
+        "Las comunidades de amistad",
+        "Problemas de bioética y afines"
+      ],
+      "totalParts": 2
+    },
+    {
+      "slug": "M21-P02",
+      "moduleIndex": 21,
+      "partIndex": 1,
+      "moduleName": "Ética Especial · Parte II",
+      "topicCount": 2,
+      "titles": [
+        "Trabajo: dimensión personal y social",
+        "La sociedad política"
+      ],
+      "totalParts": 2
+    },
+    {
+      "slug": "M22-P01",
+      "moduleIndex": 22,
+      "partIndex": 0,
+      "moduleName": "Filosofía del Conocimiento",
+      "topicCount": 2,
+      "titles": [
+        "Introducción a la filosofía del conocimiento",
+        "Historia del problema del conocimiento"
+      ],
+      "totalParts": 1
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "items": [
+    {
+      "title": "El Humanismo y el Renacimiento",
+      "link": "https://ia.anthonycazares.cafe",
+      "pubDate": "lunes, 11 de mayo de 2026",
+      "excerpt": "¿Qué hace que los siglos XIV-XVI sean el umbral de la modernidad y no simplemente otro tramo del medievo? El humanismo italiano —Petrarca, Erasmo, Tomás Moro— desplaza el centro de gravedad cultural: del Dios escolástico al hombre, del come",
+      "sourceName": "Historia de la Filosofía Moderna",
+      "theme": "Filosofía Moderna",
+      "synthesis": "¿Qué hace que los siglos XIV-XVI sean el umbral de la modernidad y no simplemente otro tramo del medievo? El humanismo italiano —Petrarca, Erasmo, Tomás Moro— desplaza el centro de gravedad cultural: del Dios escolástico al hombre, del comentario aristotélico a la recuperación filológica de Platón, de la teología deductiva a las studia humanitatis. Las ciudades-estado italianas (Florencia, Venecia, Milán) financian academias, talleres y embajadas; nace una nueva figura, el intelectual cortesano, y con ella un modo distinto de hacer política.\n\nLa Reforma de Lutero rompe la unidad religiosa de Europa, redibuja las fronteras políticas y, al traducir la Biblia al alemán, da lugar a la hermenéutica moderna. Calvino, Enrique VIII y los reformadores radicales completan la fragmentación. Paralelamente, Copérnico lanza la hipótesis heliocéntrica y desencadena lo que Kuhn llamará un cambio de paradigma: no solo se trata de geocentrismo versus heliocentrismo, sino de un nuevo modo de defender hipótesis con datos empíricos. Galileo, Kepler y Newton harán el resto.\n\nEl descubrimiento de América, finalmente, cierra el ciclo medieval con violencia. Tomás Campanella soñará una teocracia universal sobre las nuevas tierras; la realidad será exterminio cultural, evangelización forzada y expolio. La modernidad nace, pues, con luces filológicas y sombras coloniales.",
+      "keywords": [
+        "humanismo italiano",
+        "Reforma luterana",
+        "revolución copernicana",
+        "cambio de paradigma",
+        "descubrimiento de América"
+      ],
+      "isPdf": true
+    },
+    {
+      "title": "René Descartes",
+      "link": "https://ia.anthonycazares.cafe",
+      "pubDate": "lunes, 11 de mayo de 2026",
+      "excerpt": "¿Es posible un punto cero del saber, un fundamento que ninguna duda pueda derribar? Descartes responde con la duda metódica: someter a sospecha sistemática toda creencia, no para negarla sino para hallar lo indubitable. El resultado es el f",
+      "sourceName": "Historia de la Filosofía Moderna",
+      "theme": "Filosofía Moderna",
+      "synthesis": "¿Es posible un punto cero del saber, un fundamento que ninguna duda pueda derribar? Descartes responde con la duda metódica: someter a sospecha sistemática toda creencia, no para negarla sino para hallar lo indubitable. El resultado es el famoso cogito ergo sum: la única certeza que sobrevive es que, en el acto mismo de dudar, hay alguien que piensa. Sobre esa roca el francés pretende reconstruir la ciencia, dividiendo cada problema en sus partes más simples y avanzando de lo claro y distinto a lo complejo.\n\nPero el cogito no basta. Para garantizar la existencia del mundo exterior y la validez de las ideas matemáticas, Descartes recurre a Dios como ente perfecto cuya idea, presente en el alma, exige una causa proporcional. La dualidad res cogitans / res extensa queda así sellada: hay una sustancia pensante (yo) y una sustancia extensa (cuerpos), comunicadas precariamente por la glándula pineal.\n\nHeidegger, siglos después, denunciará el coste: al absolutizar al sujeto y reducir el mundo a objeto cognoscible, Descartes encerró a Occidente en un solipsismo metodológico que olvida el ser. Los dualismos modernos —sujeto/objeto, naturaleza/cultura, hecho/valor— heredan ese error de origen. Y, sin embargo, sin Descartes no habría método científico tal como lo entendemos.",
+      "keywords": [
+        "duda metódica",
+        "cogito",
+        "dualismo cartesiano",
+        "crítica heideggeriana",
+        "método científico"
+      ],
+      "isPdf": true
+    },
+    {
+      "title": "El racionalismo",
+      "link": "https://ia.anthonycazares.cafe",
+      "pubDate": "lunes, 11 de mayo de 2026",
+      "excerpt": "¿Puede la razón sola, sin auxilio decisivo de los sentidos, alcanzar el conocimiento verdadero? Malebranche, Spinoza y Leibniz responden con tres variaciones notables sobre el legado cartesiano. Malebranche escolastiza a Descartes con tinte",
+      "sourceName": "Historia de la Filosofía Moderna",
+      "theme": "Filosofía Moderna",
+      "synthesis": "¿Puede la razón sola, sin auxilio decisivo de los sentidos, alcanzar el conocimiento verdadero? Malebranche, Spinoza y Leibniz responden con tres variaciones notables sobre el legado cartesiano. Malebranche escolastiza a Descartes con tinte agustiniano: solo gracias a Dios accedemos al conocimiento de las cosas, y todo entender humano es participación en la visión divina.\n\nSpinoza, en cambio, monista radical, niega la dualidad de sustancias: hay una sola sustancia infinita, Deus sive Natura, de la que somos modos finitos. La libertad no es indeterminación caprichosa sino comprensión de la necesidad: somos libres en la medida en que entendemos lo que nos determina. La Ética, escrita more geometrico, propone tres niveles de conocimiento —sensible, racional, intuitivo— y articula una ética inmanente sin recompensa ni castigo trascendentes.\n\nLeibniz, finalmente, critica el sistema cartesiano por insuficiente y propone su famosa mónada: unidad ontológica real, individual, indivisible, dotada de fuerza interna o entelequia. El universo se compone de infinitas mónadas que no interactúan directamente sino que se armonizan según el plan divino. El racionalismo, en sus tres variantes, comparte una apuesta: la inteligibilidad última del real, accesible a la razón rigurosa.",
+      "keywords": [
+        "monismo spinozista",
+        "mónadas leibnizianas",
+        "occasionalismo",
+        "libertad como comprensión",
+        "sustancia única"
+      ],
+      "isPdf": true
+    }
+  ],
+  "editorialIntro": "La modernidad filosófica no comienza con un libro ni con un autor, sino con un haz de rupturas que entre los siglos XIV y XVII redibujan el mapa del saber. El humanismo italiano relee a Platón y desplaza la teología del centro académico; Lutero rompe la unidad de la Iglesia y, al hacerlo, inaugura la hermenéutica; Copérnico mueve la Tierra y obliga a repensar la relación entre observación y autoridad. Cuando Descartes escribe el Discurso del método ya hay un mundo nuevo esperándolo.\n\nEl gesto cartesiano es radical: someter toda creencia a la duda hasta encontrar lo indubitable, y a partir de ahí reconstruir el saber. El cogito es el punto cero. Pero el coste, como verá Heidegger trescientos años después, es alto: el dualismo res cogitans / res extensa instaura una manera de pensar que olvida el ser y reduce el mundo a objeto técnico.\n\nSpinoza intentará curar esa fractura con un monismo audaz; Leibniz responderá con la metafísica de las mónadas; Malebranche escolastizará la duda. ¿Es posible una modernidad sin el dualismo cartesiano, o ese precio era inevitable?",
+  "moduleName": "Historia de la Filosofía Moderna · Parte I",
+  "issueDate": "lunes, 11 de mayo de 2026"
+}

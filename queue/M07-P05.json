@@ -1,0 +1,40 @@
+{
+  "items": [
+    {
+      "title": "El origen del universo",
+      "link": "",
+      "pubDate": "2026-05-11T09:00:00.000Z",
+      "excerpt": "Geocentrismo, heliocentrismo y Big Bang: tres respuestas sucesivas a una sola pregunta que ni la ciencia ni la teología logran clausurar.",
+      "sourceName": "Filosofía de la Naturaleza",
+      "theme": "Filosofía de la Religión",
+      "synthesis": "El origen del universo ha recibido tres grandes respuestas en la historia del pensamiento. En la Antigüedad, Hesíodo redactó una cosmogonía mítica donde los dioses generan el cosmos por descendencia; Platón en el Timeo introdujo al Demiurgo como inteligencia ordenadora del caos preexistente; Aristóteles negó todo origen postulando un universo eterno movido por el primer motor inmóvil. En la Edad Media, las Sagradas Escrituras impusieron la doctrina de la creación ex nihilo, que Tomás de Aquino articularía filosóficamente: Dios crea desde la nada, libre y voluntariamente. En la Modernidad, Nicolás Copérnico, Johannes Kepler y Galileo Galilei desplazaron a la Tierra del centro del cosmos, y la cosmología contemporánea propuso el modelo del Big Bang con Georges Lemaître y Edwin Hubble. Curiosamente, este último modelo —universo con principio temporal— se parece más a Génesis que a Aristóteles, lo cual no significa una victoria de la teología sobre la ciencia, pero sí muestra que las preguntas últimas sobre el origen no son patrimonio exclusivo de ninguna disciplina. Como observó Étienne Gilson, el ser desde el no-ser sigue siendo, lógicamente, problemático.",
+      "keywords": ["origen del universo", "Big Bang", "creación ex nihilo", "Copérnico", "Lemaître"],
+      "isPdf": true
+    },
+    {
+      "title": "El sentido y la finalidad de la naturaleza",
+      "link": "",
+      "pubDate": "2026-05-11T09:00:00.000Z",
+      "excerpt": "Viktor Frankl, Nietzsche y la sabiduría trágica del Sileno: tres miradas sobre por qué la pregunta por el sentido nunca puede delegarse en otros.",
+      "sourceName": "Filosofía de la Naturaleza",
+      "theme": "Filosofía de la Naturaleza",
+      "synthesis": "Viktor Frankl escribió El hombre en busca de sentido tras sobrevivir a los campos de concentración nazis. Su tesis es radical: aun en las condiciones más extremas, el ser humano conserva una libertad última —la de elegir qué actitud asume frente a lo que le sucede— y esa libertad solo se ejerce mediante la búsqueda activa de un sentido. Frankl distingue tres vías para encontrarlo: la creación de una obra, la entrega a una causa o persona amada, y la actitud heroica ante el sufrimiento inevitable. Friedrich Nietzsche, desde otro horizonte, narró en El nacimiento de la tragedia el encuentro del rey Midas con el sabio Sileno, quien le revela que lo mejor para el hombre sería no haber nacido, y lo segundo mejor morir pronto. La cultura griega, según Nietzsche, no negó esta sabiduría trágica sino que la transmutó mediante el arte: los dioses olímpicos y la tragedia ática fueron el modo en que los antiguos pudieron mirar el abismo sin destruirse. Aristóteles, más sereno, había vinculado la finalidad humana con la eudaimonía. Tres respuestas distintas a una sola pregunta: la naturaleza no responde por sí sola al sentido de su despliegue.",
+      "keywords": ["Viktor Frankl", "Nietzsche", "Sileno", "sentido", "teleología"],
+      "isPdf": true
+    },
+    {
+      "title": "La naturaleza y la persona humana",
+      "link": "",
+      "pubDate": "2026-05-11T09:00:00.000Z",
+      "excerpt": "Naturaleza inacabada y cultura como segunda piel: Sigmund Freud, Marvin Harris y el debate antropológico sobre qué nos hace humanos.",
+      "sourceName": "Filosofía de la Naturaleza",
+      "theme": "Filosofía de la Naturaleza",
+      "synthesis": "El ser humano nace incompleto. Más tiempo que ninguna otra especie depende de los cuidados de sus congéneres; carece de los instintos cerrados, las garras o el pelaje espeso que protegen a otros animales. Esta indefensión biológica, paradójicamente, es la condición de su grandeza: lo obliga a inventar la cultura como segunda naturaleza. Sigmund Freud, en El malestar en la cultura, describió este proceso como modificación de los procesos vitales por unificación libidinal de individuos aislados; Arnold Gehlen lo formuló como apertura al mundo opuesta al cierre instintivo animal. Marvin Harris y los etólogos contemporáneos han matizado la oposición rígida al mostrar conductas culturales en primates —monos que lavan batatas, técnicas transmitidas por imitación—. Sin embargo, las diferencias cuantitativas parecen producir un salto cualitativo: solo el ser humano dispone de lenguaje articulado capaz de transmitir conocimiento más allá de la imitación inmediata, y solo en él la cultura cubre la vida entera, no actos excepcionales. La etimología de persona —del etrusco máscara, del griego prósopon, rostro de actor— sugiere otra idea: ser persona es asumir roles dentro de una comunidad. Naturaleza y cultura no se oponen; se entrelazan irrevocablemente.",
+      "keywords": ["naturaleza humana", "cultura", "Freud", "Gehlen", "persona"],
+      "isPdf": true
+    }
+  ],
+  "editorialIntro": "Viktor Frankl escribió desde el infierno una de las frases más austeras y más resistentes del siglo XX: al ser humano se le puede arrebatar todo, salvo la libertad última de elegir qué actitud tomar frente a las circunstancias. Esta tesis, nacida en Auschwitz, dialoga sin saberlo con la sabiduría trágica que Nietzsche puso en boca del sabio Sileno: lo mejor para el hombre sería no haber nacido, lo segundo mejor morir pronto. Frente a este abismo, dijo Nietzsche, la cultura griega no se hundió ni negó la verdad; creó los dioses olímpicos y la tragedia ática como modo de mirar el horror sin disolverse. Aristóteles, más temperado, había propuesto la eudaimonía como fin natural de la vida humana. Tres respuestas inconciliables a la misma pregunta. La naturaleza no contesta por sí sola: el cosmos físico —con su Big Bang, sus 13.800 millones de años, sus galaxias en expansión— sigue tan mudo como el día en que Tales contempló el agua. El sentido no se encuentra; se construye. Como observó Sigmund Freud, somos animales obligados a inventar cultura porque la naturaleza nos parió inacabados. ¿Por qué seguimos buscando un sentido que nadie nos garantizó nunca?",
+  "moduleName": "Filosofía de la Naturaleza · Parte V",
+  "issueDate": "lunes, 11 de mayo de 2026"
+}

@@ -1,0 +1,40 @@
+{
+  "items": [
+    {
+      "title": "Breve visión histórica de la reflexión sobre la naturaleza",
+      "link": "",
+      "pubDate": "2026-05-11T09:00:00.000Z",
+      "excerpt": "De Homero al heliocentrismo: por qué la libertad económica y política de Atenas fue condición material para que naciera la filosofía.",
+      "sourceName": "Filosofía de la Naturaleza",
+      "theme": "Filosofía de la Naturaleza",
+      "synthesis": "La filosofía no nace por generación espontánea. Su aparición en la Grecia del siglo VI a. C. requirió condiciones materiales precisas: el paso de la agricultura al comercio, la consolidación de una burguesía urbana capaz de oponerse a la nobleza terrateniente, la prosperidad económica que dejó tiempo libre para la contemplación, y sobre todo la ausencia de libros sagrados revelados que blindaran los dogmas. Homero y Hesíodo, los grandes poetas religiosos, habían narrado el origen del cosmos como teogonía; los misterios órficos, vinculados a Pitágoras y Heráclito, introdujeron la dualidad alma-cuerpo. Sobre ese sustrato cultural, Tales y los milesios dieron el paso decisivo hacia la explicación racional. Aristóteles, posteriormente, consolidó una física sistemática que dominaría veinte siglos hasta que Nicolás Copérnico, en 1543, propusiera el heliocentrismo. La revolución científica de Galileo, Kepler y Newton no canceló a Aristóteles; lo desplazó parcialmente, conservando su intuición de que la naturaleza es legible, ordenada, y susceptible de fórmulas universales que la atraviesan más allá del ojo desnudo.",
+      "keywords": ["presocráticos", "Aristóteles", "Copérnico", "revolución científica", "polis griega"],
+      "isPdf": true
+    },
+    {
+      "title": "Inteligibilidad de la naturaleza",
+      "link": "",
+      "pubDate": "2026-05-11T09:00:00.000Z",
+      "excerpt": "Cosmovisión organicista, mecanicista y procesual: tres formas históricas de imaginar el universo y las consecuencias éticas de cada una.",
+      "sourceName": "Filosofía de la Naturaleza",
+      "theme": "Filosofía de la Naturaleza",
+      "synthesis": "Mariano Artigas identifica tres grandes cosmovisiones que han organizado la mirada humana sobre el mundo. La cosmovisión organicista, propia de Aristóteles y la escolástica medieval, concibe el cosmos como un gran organismo vivo donde cada parte cumple una función teleológica subordinada al todo. La cosmovisión mecanicista, fruto de los siglos XVI y XVII con Galileo, Descartes y Newton, lo entiende como máquina regida por leyes cuantitativas, despojada de finalidad: el universo funciona por sí mismo y Dios deviene, en el deísmo, un relojero ausente. La tercera cosmovisión, la procesual, surge en el siglo XX cuando los propios físicos reconocen que el mecanicismo es insuficiente: la mecánica cuántica, la indeterminación, la noción de emergencia exigen una concepción dinámica donde la materia parece autoorganizarse. Tomás de Aquino, ocho siglos antes, había sintetizado las cuatro causas aristotélicas con la teología cristiana sin sospechar que su modelo dialógico sobreviviría al naufragio mecanicista. La pregunta por la finalidad —desterrada en el XVII— vuelve por la puerta trasera de la biología contemporánea.",
+      "keywords": ["cosmovisión organicista", "mecanicismo", "Mariano Artigas", "teleología", "Newton"],
+      "isPdf": true
+    },
+    {
+      "title": "El devenir y la multiplicidad",
+      "link": "",
+      "pubDate": "2026-05-11T09:00:00.000Z",
+      "excerpt": "Parménides y Heráclito: dos lecturas opuestas de la naturaleza que fundaron, sin saberlo, toda la metafísica posterior.",
+      "sourceName": "Filosofía de la Naturaleza",
+      "theme": "Metafísica y Ontología",
+      "synthesis": "La filosofía nació enfrentada a sí misma. Por un lado, Parménides de Elea sostuvo que el ser es uno, eterno e inmutable, y que el devenir percibido por los sentidos es ilusión; por el otro, Heráclito de Éfeso proclamó que todo fluye y que la guerra entre opuestos es el padre de todas las cosas. Esta polaridad funda la metafísica occidental. Los presocráticos monistas buscaron un único arché —agua para Tales, lo indeterminado para Anaximandro, fuego para Heráclito— mientras los pluralistas como Empédocles afirmaron varios principios irreductibles. Platón resolvió la tensión postulando dos mundos: el inteligible de las Ideas inmutables y el sensible de las copias cambiantes. Aristóteles, su discípulo crítico, devolvió la dignidad ontológica al mundo sensible mediante la teoría de la sustancia como aquello que permanece bajo el cambio accidental. Los sofistas, en cambio, negaron toda posibilidad de conocimiento estable: para Protágoras, el hombre era la medida de todas las cosas. La metafísica aristotélica se construyó precisamente contra esta deriva relativista, defendiendo que sí es posible un saber del ser en cuanto ser.",
+      "keywords": ["Parménides", "Heráclito", "sofistas", "metafísica", "sustancia aristotélica"],
+      "isPdf": true
+    }
+  ],
+  "editorialIntro": "Antes de que existiera la palabra filosofía, ya estaba la disputa que la fundaría. Parménides de Elea, en su poema didáctico, afirmó que el ser es y el no ser no es, y que todo cambio percibido por los sentidos era pura apariencia. Heráclito de Éfeso, casi contemporáneo, replicó desde el otro extremo: nadie se baña dos veces en el mismo río, el devenir es la única realidad, y la unidad solo puede pensarse como tensión de opuestos. Esta polaridad inicial no se resolvió jamás, y quizá tampoco debiera resolverse: toda la metafísica occidental oscila entre esos dos polos. Platón, fiel a Parménides, postuló un mundo inteligible de Ideas eternas; Aristóteles, fiel parcialmente a Heráclito, recuperó la sustancia como aquello que permanece dentro del cambio. Mariano Artigas mostró que tres grandes cosmovisiones se han sucedido —organicista, mecanicista, procesual— y cada una respondió a estas preguntas de manera distinta. La revolución científica de Galileo y Newton creyó haber liquidado el problema reemplazándolo por ecuaciones. Pero la mecánica cuántica del siglo XX, con sus partículas que solo existen como probabilidad, parece haber devuelto a Heráclito su prestigio antiguo. ¿Es la naturaleza, en último término, sustancia o proceso?",
+  "moduleName": "Filosofía de la Naturaleza · Parte II",
+  "issueDate": "lunes, 11 de mayo de 2026"
+}

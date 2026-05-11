@@ -1,0 +1,40 @@
+{
+  "items": [
+    {
+      "title": "Caracterización de la filosofía patrística, siglos II-VIII d. C.",
+      "link": "file:///opt/digest/pdfs/M10. Historia de la Filosofía Patrística y Medieval/M10T1. Caracterización de la filosofía patrística, siglos II-VIII d. C..pdf",
+      "pubDate": "2026-05-11T09:00:00.000Z",
+      "excerpt": "La patrística es la filosofía cristiana desarrollada por los Padres de la Iglesia entre los siglos II y VIII d. C., en diálogo con el platonismo, el neoplatonismo y el estoicismo, primero como apologética y luego como elaboración doctrinal.",
+      "sourceName": "Historia de la Filosofía Patrística y Medieval",
+      "theme": "Filosofía Medieval",
+      "synthesis": "La filosofía patrística no nace como sistema especulativo sino como urgencia: defender una doctrina de salvación frente al paganismo culto y frente a herejías internas como el gnosticismo. Justino Mártir, en su Diálogo con Trifón, sostiene que el platonismo es propedéutica del cristianismo y que los filósofos griegos participaron del logos en la medida en que rozaron la verdad. Tertuliano, en cambio, ataca el gnosticismo desde una hostilidad explícita a la especulación griega. Esta tensión entre razón helénica y revelación cristiana atraviesa toda la primera patrística.\nEtienne Gilson ha subrayado el desplazamiento decisivo: la filosofía griega era una filosofía de la necesidad —los seres humanos se someten al destino—, mientras que la patrística inaugura una filosofía de la libertad —el ser humano realiza un destino que se le ha confiado—. El Concilio de Nicea marca el corte interno entre primera patrística y alta patrística, donde San Gregorio, Pseudo Dionisio Areopagita y Calcidio retoman el neoplatonismo para elaborar una teología sistemática.\nBoecio cierra el ciclo: en La consolación de la filosofía traduce a Aristóteles al latín y lega a la Edad Media el vocabulario lógico que hará posible la escolástica.",
+      "keywords": ["patrística", "Justino Mártir", "gnosticismo", "neoplatonismo cristiano", "Boecio"],
+      "isPdf": true
+    },
+    {
+      "title": "San Agustín: filosofar en la fe",
+      "link": "file:///opt/digest/pdfs/M10. Historia de la Filosofía Patrística y Medieval/M10T2. San Agustín.pdf",
+      "pubDate": "2026-05-11T09:00:00.000Z",
+      "excerpt": "Agustín de Hipona elabora una antropología dualista, una doctrina de la iluminación, una teoría del tiempo creado y una distinción entre ciudad terrena y ciudad de Dios que estructura la civilización occidental.",
+      "sourceName": "Historia de la Filosofía Patrística y Medieval",
+      "theme": "Filosofía Medieval",
+      "synthesis": "Agustín de Hipona formula el lema que vertebra toda la patrística madura: comprende para creer, cree para comprender. La razón muestra sus límites; donde ella termina, comienza la fe. Pero la fe, a su vez, ilumina lo que la razón sola no puede recorrer. No hay aquí dos órdenes separados, sino un único proceso de búsqueda de la verdad. Esta sutura entre filosofía y teología nutre toda la tradición cristiana posterior.\nLa antropología agustiniana hereda el dualismo platónico —el ser humano es un alma que se sirve de un cuerpo— pero lo refunda en la doctrina trinitaria: memoria, entendimiento y voluntad son en el alma huellas del Padre, el Hijo y el Espíritu. La ética agustiniana es una ética del amor: la voluntad es el peso que arrastra al ser humano hacia Dios o hacia el pecado original heredado de Adán.\nLa Ciudad de Dios introduce la primera filosofía cristiana de la historia. Frente a Roma asediada por Alarico, Agustín separa la ciudad terrena, fundada en el amor de sí, de la ciudad de Dios, fundada en el amor a Dios. Esta distinción inaugura el largo conflicto medieval entre Iglesia e Imperio y prefigura las modernas filosofías de la historia.",
+      "keywords": ["iluminación divina", "voluntad y libertad", "tiempo y eternidad", "ciudad de Dios", "antropología agustiniana"],
+      "isPdf": true
+    },
+    {
+      "title": "Caracterización de la filosofía escolástica, siglos IX-XIII",
+      "link": "file:///opt/digest/pdfs/M10. Historia de la Filosofía Patrística y Medieval/M10T3. Caracterización de la filosofía escolástica siglos IX-XIII.pdf",
+      "pubDate": "2026-05-11T09:00:00.000Z",
+      "excerpt": "Desde la escuela palatina de Carlomagno y Alcuino de York hasta la alta escolástica del siglo XIII, la filosofía medieval se organiza en universidades y disputa por la naturaleza de los universales y por la relación entre fe y razón.",
+      "sourceName": "Historia de la Filosofía Patrística y Medieval",
+      "theme": "Filosofía Medieval",
+      "synthesis": "La escolástica no es una doctrina sino un método: el de la disputatio universitaria, donde se examinan tesis contrarias antes de resolver la cuestión. Su germen está en el renacimiento carolingio. Alcuino de York, llamado por Carlomagno, organiza la escuela palatina y rescata las artes liberales del olvido bárbaro; Rabano Mauro lleva esa cultura a Fulda; Juan Escoto Erígena, en De divisione naturae, recupera el neoplatonismo griego e insinúa un racionalismo audaz que sus contemporáneos juzgaron sospechoso de panteísmo.\nLa primera escolástica del siglo XI gira en torno a dos focos: el argumento ontológico de San Anselmo —Dios es aquello mayor que lo cual nada puede pensarse— y la polémica sobre los universales. ¿Son las especies y géneros realidades existentes, como sostienen los realistas, o meros nombres, como dirá el nominalismo de Roscelino? La cuestión decide nada menos que la inteligibilidad del mundo.\nEl siglo XIII trae la alta escolástica: la traducción de Aristóteles desde el árabe gracias a Avicena y Averroes, el nacimiento de las universidades de París y Oxford, y el enfrentamiento entre los agustinianos —fieles al primado de la fe— y los aristotélicos liderados por Tomás de Aquino.",
+      "keywords": ["renacimiento carolingio", "argumento ontológico", "querella de los universales", "Erígena", "universidad medieval"],
+      "isPdf": true
+    }
+  ],
+  "editorialIntro": "Hay un momento, hacia el siglo II, en que una religión sin pretensiones filosóficas se ve forzada a hablar el lenguaje de la filosofía griega para sobrevivir. Los primeros cristianos no pensaban inaugurar un sistema teórico; eran testigos, no profesores. Pero al cruzar las fronteras del judaísmo y entrar en las ciudades helenizadas, debieron responder a Platón y a los estoicos en sus propios términos. De esa colisión nace la patrística.\nJustino Mártir, vestido aún con el manto del filósofo, sostiene que toda verdad encontrada en la filosofía pagana es ya cristiana sin saberlo —los griegos participaron del logos antes de que el logos se hiciera carne. Agustín, siglos después, lleva la operación al extremo: convierte el dualismo platónico en doctrina del alma, el neoplatonismo en metafísica de la creación, y el tiempo en una experiencia interior cuya raíz solo Dios sostiene. La Ciudad de Dios, escrita ante el saqueo de Roma, inventa la filosofía cristiana de la historia.\nCuando Carlomagno reúne a Alcuino de York para fundar la escuela palatina, ese legado se institucionaliza. ¿Puede una civilización pensar lo absoluto sin que ese pensamiento se vuelva escolar y, al volverse escolar, pierda su filo originario?",
+  "moduleName": "Historia de la Filosofía Patrística y Medieval · Parte I",
+  "issueDate": "lunes, 11 de mayo de 2026"
+}

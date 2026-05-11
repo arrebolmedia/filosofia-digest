@@ -1,0 +1,40 @@
+{
+  "items": [
+    {
+      "title": "¿Qué es la filosofía política?",
+      "link": "file:///opt/digest/pdfs/M12. Filosofía Política/M12T1. Qué es la filosofía política.pdf",
+      "pubDate": "2026-05-11T09:00:00.000Z",
+      "excerpt": "La filosofía política nace cuando una comunidad detecta que sus decisiones colectivas pueden ser cuestionadas, criticadas y reformuladas. Atenas, Pericles y la peste son su escenario originario.",
+      "sourceName": "Filosofía Política",
+      "theme": "Filosofía Política",
+      "synthesis": "La filosofía política nace en Atenas durante el siglo V a. C., cuando la democracia de Pericles vuelve discutible aquello que antes parecía natural: quién manda, quién obedece, quién queda fuera del demos. La Peste de Atenas, retratada por Michiel Sweerts y narrada por Tucídides, sirve de emblema: el poder hegemónico ateniense se desmorona precisamente cuando su modelo político alcanza su cúspide. Bajo Pericles, los zetas —la clase más baja— participan políticamente, pero metecos, mujeres y esclavos quedan al margen. La política, entonces, no es solo gobierno sino discusión sobre quiénes son los sujetos políticos.\nEsta vocación crítica define a la filosofía política frente al puro saber técnico de gobierno. Todo modelo político produce beneficiarios y excluidos, mayorías representadas y minorías alienadas. Donde hay alienación, advierte la tradición que va de Hegel a Marx y a la teoría del etiquetamiento contemporánea, hay reducción de las capacidades reflexivas: los sujetos despojados de dignidad, igualdad y libertad pierden la posibilidad misma de pensar su situación.\nDe Henry David Thoreau —que en su Desobediencia civil sostiene el deber de desobedecer leyes injustas— a Giovanni Sartori —que en Homo videns denuncia la videodemocracia y el reemplazo del ciudadano deliberante por el espectador— la disciplina mantiene su filo: pensar lo que el poder preferiría no ver pensado.",
+      "keywords": ["democracia ateniense", "alienación política", "desobediencia civil", "videodemocracia", "marginalidad"],
+      "isPdf": true
+    },
+    {
+      "title": "Filosofía política antigua",
+      "link": "file:///opt/digest/pdfs/M12. Filosofía Política/M12T2. Filosofía política antigua.pdf",
+      "pubDate": "2026-05-11T09:00:00.000Z",
+      "excerpt": "De Anaximandro y los presocráticos a Platón y Aristóteles, la filosofía política antigua surge cuando el cosmos se piensa como orden inteligible y la polis como reflejo o desafío de ese orden.",
+      "sourceName": "Filosofía Política",
+      "theme": "Filosofía Antigua",
+      "synthesis": "Anaximandro de Mileto introduce un concepto que decidirá el destino del pensamiento occidental: el cosmos. No lo inventa —la palabra ya designaba el orden del ejército— pero lo extrapola al universo y declara que un orden numérico y simétrico sostiene la totalidad de lo existente. Las causas del movimiento ya no son los dioses sino las relaciones matemáticas entre los astros. Su cosmología renuncia a las explicaciones míticas órficas y propone, en cambio, una hipótesis racional sobre el origen de los animales y del ser humano.\nEsta operación —pensar el todo como ordenamiento accesible a la razón— condiciona toda la filosofía política griega posterior. Si el cosmos tiene un logos, también la polis debe tenerlo. Heráclito, Empédocles, Anaxágoras heredan la cuestión; Platón y Aristóteles la sistematizan: la política es la búsqueda del orden justo, análoga al orden cósmico, en una comunidad de seres racionales.\nLa lectura cristiana posterior, de Basilio Magno a los Capadocios, mantiene viva esa intuición: el cosmos es una única esencia viviente, ordenada, llena de alma. Pero la pregunta política sigue siendo la misma desde Anaximandro hasta hoy: ¿qué orden, racional y discutible, debe regir la convivencia entre humanos?",
+      "keywords": ["cosmos", "Anaximandro", "logos político", "polis y orden", "presocráticos"],
+      "isPdf": true
+    },
+    {
+      "title": "Filosofía política medieval",
+      "link": "file:///opt/digest/pdfs/M12. Filosofía Política/M12T3. Filosofia política medieval.pdf",
+      "pubDate": "2026-05-11T09:00:00.000Z",
+      "excerpt": "La política medieval se organiza en estamentos, feudos y poliarquía: una tensión permanente entre Iglesia e Imperio, resuelta filosóficamente por San Agustín y Santo Tomás de Aquino.",
+      "sourceName": "Filosofía Política",
+      "theme": "Filosofía Política",
+      "synthesis": "Hegel describió el orden medieval como poliarquía: ni Estado monista moderno ni dualismo simple, sino una pluralidad de poderes superpuestos —Iglesia, señores feudales, ciudades, gremios, parlamentos estamentales—. La estructura feudal nace del Imperio Carolingio cuando los monarcas conceden tierras (feudos) a sus altos funcionarios a cambio de servicios de vasallaje. La jurisdicción, en buena medida, queda en manos privadas. Las Cortes españolas, los Estados Generales franceses y el Parlamento Modelo inglés de 1295 articulan los tres brazos —nobleza, clero, ciudades— en una unidad política.\nLa Ciudad de Dios de San Agustín ofrece el marco teológico-político de esta época. Tras el saqueo de Roma por Alarico en 410, Agustín defiende al cristianismo de la acusación de haber provocado la crisis imperial y, más profundamente, niega que Roma haya sido jamás una verdadera res publica: sin la justicia cristiana —dar a cada uno lo suyo, incluida la deuda con Dios— no hay pueblo legítimo.\nSanto Tomás de Aquino sintetizará tres siglos más tarde una doctrina del derecho que ordena la ley eterna, la ley natural y la ley positiva en jerarquía coherente, distinguiendo —pero no separando— el orden político del orden de la salvación.",
+      "keywords": ["poliarquía medieval", "feudalismo", "Ciudad de Dios", "Iglesia e Imperio", "ley natural"],
+      "isPdf": true
+    }
+  ],
+  "editorialIntro": "Toda filosofía política empieza con una sospecha: que el orden que parece natural es, en realidad, producto de decisiones humanas, y por tanto, revisable. Atenas, en la cumbre de su poder bajo Pericles, descubre esa sospecha cuando los zetas votan junto a los aristócratas y los metecos pagan impuestos sin representación. La Peste de Atenas, pintada por Sweerts y narrada por Tucídides, no es solo enfermedad: es el colapso visible de un orden que se creía cósmico.\nDel otro lado del Egeo, Anaximandro había ya pronunciado la palabra decisiva: cosmos. Un orden numérico y simétrico sostiene el universo, dijo, no los caprichos de los dioses olímpicos. Si el todo tiene logos, también la polis debe tenerlo. De esa intuición nacen Platón y Aristóteles y, con ellos, la pregunta que aún no hemos cerrado: ¿qué clase de orden merece llamarse justo?\nMil años después, San Agustín responde desde una Roma incendiada por Alarico: sin justicia cristiana, no hay república verdadera. Su Ciudad de Dios funda la filosofía política medieval —ese paisaje poliárquico de Iglesia, Imperio y feudos— y deja al pensamiento occidental una herencia incómoda. ¿Es posible una política sin teología subyacente, o seguimos discutiendo, sin saberlo, los términos que Agustín nos legó?",
+  "moduleName": "Filosofía Política · Parte I",
+  "issueDate": "lunes, 11 de mayo de 2026"
+}

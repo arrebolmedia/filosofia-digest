@@ -1,0 +1,29 @@
+{
+  "items": [
+    {
+      "title": "Santo Tomás de Aquino: razón, fe y metafísica",
+      "link": "file:///opt/digest/pdfs/M10. Historia de la Filosofía Patrística y Medieval/M10T4. Santo Tomás de Aquino.pdf",
+      "pubDate": "2026-05-11T09:00:00.000Z",
+      "excerpt": "Tomás de Aquino sintetiza el aristotelismo recibido por vía de Averroes con la teología cristiana, separa filosofía y teología sin oponerlas, y reconstruye la metafísica desde el ser sensible hacia Dios mediante las cinco vías.",
+      "sourceName": "Historia de la Filosofía Patrística y Medieval",
+      "theme": "Filosofía Medieval",
+      "synthesis": "Tomás de Aquino opera, hacia 1250, una revolución silenciosa. Donde San Buenaventura y los agustinianos parisinos hallan en Aristóteles un peligro pagano, Tomás —discípulo de Alberto Magno en Colonia— ve la herramienta conceptual que la teología cristiana necesitaba. La filosofía de Averroes había desbalanceado la relación entre razón y fe a favor de la primera; Tomás restablece el equilibrio sin negar la legitimidad de la razón.\nSu giro epistemológico es decisivo. Contra Platón y los neoplatónicos, sostiene que el conocimiento no desciende de las Ideas sino que asciende desde los sentidos. La metafísica ya no parte de lo inmaterial para explicar lo material, sino que toma su punto de partida en el mundo existente y busca sus principios. Por eso Dios no se demuestra desde una intuición de la esencia divina, sino desde realidades imperfectas y sensibles: las cinco vías parten del movimiento, de la causalidad, de la contingencia, de los grados de perfección y del orden teleológico.\nEsta inversión tiene consecuencias éticas y políticas: la ley natural se inscribe en la naturaleza creada, accesible a la razón humana sin necesidad de revelación, mientras que la ley positiva debe derivarse de ella sin contradecirla.",
+      "keywords": ["aristotelismo cristiano", "cinco vías", "ley natural", "razón y fe", "esencia y existencia"],
+      "isPdf": true
+    },
+    {
+      "title": "Baja escolástica: siglos XIV-XV",
+      "link": "file:///opt/digest/pdfs/M10. Historia de la Filosofía Patrística y Medieval/M10T5. Baja escolástica, siglos XIV-XV.pdf",
+      "pubDate": "2026-05-11T09:00:00.000Z",
+      "excerpt": "Duns Scoto introduce la hecceidad y el primado de la voluntad sobre el entendimiento; Guillermo de Occam radicaliza el nominalismo y separa fe y razón, abriendo la puerta epistemológica a la ciencia moderna.",
+      "sourceName": "Historia de la Filosofía Patrística y Medieval",
+      "theme": "Filosofía Medieval",
+      "synthesis": "Juan Duns Scoto, llamado el Doctor Sutil, fractura el sistema tomista desde dentro. Para Tomás, la materia individualiza; para Scoto, lo que hace que esta cosa sea esta y no otra es una forma propia, la haecceitas o hecceidad. Lo real no es ni pura individualidad —pues entonces nada podría conocerse universalmente— ni pura universalidad —pues nada existiría singularmente—. La esencia se individualiza por una determinación última irreductible. Scoto vuelve además a San Agustín al afirmar el primado de la voluntad sobre el entendimiento: Dios creó porque quiso, no porque su intelecto lo exigiera, y el ser humano conoce por un acto previo de la voluntad.\nGuillermo de Occam lleva el nominalismo a su forma más radical: los universales no son entidades, son apenas signos lingüísticos. Su célebre navaja —no multiplicar los entes sin necesidad— corta de raíz el realismo escolástico. Pero su consecuencia más explosiva es teológica y política: si no hay esencias universales, fe y razón pertenecen a órdenes incomunicables, e Imperio e Iglesia deben separarse.\nDe ese voluntarismo y de ese nominalismo deriva, paradójicamente, la matriz epistemológica de la ciencia moderna: un universo de individuos contingentes que solo Dios podría haber creado de otro modo.",
+      "keywords": ["hecceidad", "voluntarismo", "nominalismo", "navaja de Occam", "fe y razón separadas"],
+      "isPdf": true
+    }
+  ],
+  "editorialIntro": "Si la alta escolástica fue una catedral, la baja escolástica fue una grieta. Tomás de Aquino había logrado, hacia 1265, la síntesis más audaz del pensamiento medieval: Aristóteles bautizado, la razón y la fe distinguidas pero concordantes, el ser sensible como vía legítima hacia Dios. Sus cinco vías no eran demostraciones desde arriba, como las de Anselmo, sino ascensos desde la experiencia. La metafísica dejaba de ser deducción a priori y se volvía remontada hacia las causas.\nMedio siglo después, Duns Scoto introduce una distinción que parecerá técnica y resultará devastadora: la hecceidad. Si lo que individualiza a cada cosa es una forma irreductible, ni la materia ni la esencia universal bastan para explicar lo real. Scoto añade que Dios creó por voluntad y no por necesidad intelectual, devolviendo a la libertad un peso ontológico que Tomás había repartido entre intelecto y voluntad.\nLuego viene Guillermo de Occam. Su navaja no es solo metodológica: si los universales son meros nombres, entonces la teología y la filosofía hablan idiomas distintos, e Iglesia e Imperio no se ordenan según una misma escala. ¿Es la ciencia moderna —Galileo, Newton, Hume— hija legítima de Tomás, o, secretamente, descendiente directa del nominalismo occamista?",
+  "moduleName": "Historia de la Filosofía Patrística y Medieval · Parte II",
+  "issueDate": "lunes, 11 de mayo de 2026"
+}

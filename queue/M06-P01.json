@@ -1,0 +1,40 @@
+{
+  "items": [
+    {
+      "title": "Evaluación de escritos académicos",
+      "link": "",
+      "pubDate": "2026-05-11T09:00:00.000Z",
+      "excerpt": "Por qué la corrección ortográfica no agota la idea de buena escritura, y qué entendía Roser Martínez por la verdadera dificultad del texto académico.",
+      "sourceName": "Seminario de Redacción en Humanidades y Ciencias Sociales",
+      "theme": "Filosofía General",
+      "synthesis": "Cuando se evalúa un escrito académico, la mirada del profesor recorre primero la ortografía, después el estilo, y solo al final llega al contenido. Sin embargo, Roser Martínez advierte que la formación gramatical clásica nos entrena para resolver dilemas menores —el 'había' frente al 'habían'— mientras desatiende lo que verdaderamente importa: por qué un conector lógico es más adecuado que otro en un contexto determinado. La escritura, en este sentido, no es ornato sino arquitectura del pensamiento. José Bustos Gisbert, al hablar del plano pragmático-discursivo de la comunicación, sitúa al texto académico en un cruce entre intención, destinatario y contexto, lejos de la mera aplicación de reglas. Esta concepción enlaza con una tradición que va de Quintiliano a Roland Barthes, donde escribir bien implica decidir bien: jerarquizar ideas, anticipar al lector, elegir qué decir y qué callar. Helena Beristáin define la comunicación como un proceso de codificación entre emisor y receptor, pero el escritor académico ocupa además un lugar peculiar: produce un texto cuya autoridad depende menos de su persona que de la solidez con la que la lengua sostiene su argumento.",
+      "keywords": ["evaluación textual", "pragmática discursiva", "plano discursivo", "redacción académica", "Roser Martínez"],
+      "isPdf": true
+    },
+    {
+      "title": "Escritos universitarios: herramientas",
+      "link": "",
+      "pubDate": "2026-05-11T09:00:00.000Z",
+      "excerpt": "Lectura, organización y categorización: por qué Catherine Price y Cerezo Arriaza coinciden en que leer ya no significa decodificar palabras.",
+      "sourceName": "Seminario de Redacción en Humanidades y Ciencias Sociales",
+      "theme": "Filosofía General",
+      "synthesis": "Toda redacción universitaria parte de una operación previa: leer. Pero leer, en el sentido fuerte del término, no es decodificar palabras sino interpretar, asignar significados, elegir entre acepciones posibles y, finalmente, ocupar provisionalmente el lugar del autor para prolongar su pensamiento. Manuel Cerezo Arriaza propone esta concepción amplia de la lectura como recepción plural, doble o múltiple del mensaje. Judith Licea, por su parte, insiste en que mantenerse al día sobre el objeto de estudio exige una organización eficiente de las lecturas: la bibliografía no se acumula, se categoriza. Mark Aulls distingue dos operaciones cognitivas distintas —clasificar y categorizar— que sostienen el trabajo del investigador. Las herramientas concretas son antiguas y siguen vigentes: diagramas para textos narrativos, cuadros sinópticos para problematizar, esquemas para organizar jerárquicamente, fichas para pormenorizar. Detrás de cada instrumento late una idea aristotélica: el saber se ordena, no se amontona. Quien no jerarquiza información no investiga; transcribe.",
+      "keywords": ["comprensión lectora", "fichaje bibliográfico", "categorización", "esquema de investigación", "lectura activa"],
+      "isPdf": true
+    },
+    {
+      "title": "Escritos universitarios: textos académicos",
+      "link": "",
+      "pubDate": "2026-05-11T09:00:00.000Z",
+      "excerpt": "Ensayo, ponencia, tesis: Umberto Eco y Yolanda Argudín discuten qué hace académico a un texto y por qué la mayoría de fracasos comienzan en el enunciado mismo.",
+      "sourceName": "Seminario de Redacción en Humanidades y Ciencias Sociales",
+      "theme": "Filosofía General",
+      "synthesis": "El género determina la forma del pensamiento académico. Yolanda Argudín observa que buena parte de los fracasos en la escritura universitaria provienen de un origen más banal de lo que se admite: el docente no explica con claridad qué tipo de texto pide ni para qué se pide. Sin esa precisión genérica, el estudiante escribe a ciegas. Cada género posee su propia lógica: la reseña describe e informa, el ensayo argumenta desde una postura personal apoyada en aparato crítico, el artículo de investigación traza una hipótesis y la sustenta, la ponencia se piensa para ser oída, la tesis exige delimitación rigurosa del objeto. Detrás de esta tipología late una preocupación que recorre la pedagogía moderna desde Wilhelm von Humboldt: la universidad no transmite datos, forma una manera de pensar. Catherine Price advierte que la lectura superficial inducida por las pantallas erosiona precisamente esa capacidad de pensamiento profundo. El texto académico, frente a este desgaste cognitivo, se vuelve una resistencia: exige planificación, jerarquía, retórica del rigor.",
+      "keywords": ["géneros académicos", "ensayo argumentativo", "tesis", "Umberto Eco", "Yolanda Argudín"],
+      "isPdf": true
+    }
+  ],
+  "editorialIntro": "Escribir bien no es escribir correctamente; es algo más exigente y menos visible. La buena ortografía, los acentos en su lugar y las comas obedientes son condición necesaria, jamás suficiente. Lo que verdaderamente se juega en un texto académico es otra cosa: la capacidad de pensar con claridad bajo la presión de una página en blanco. Roser Martínez lo formuló con ironía al recordar que la gramática nos enseña a decidir entre 'había' y 'habían', pero rara vez nos enseña a decidir entre 'sin embargo' y 'por el contrario'. La diferencia parece menor; no lo es. En esa elección se decide si una idea avanza o se detiene. Quintiliano ya lo intuía cuando afirmaba que escribir es la mejor forma de hablar bien, y Umberto Eco lo prolongó al insistir en que la tesis universitaria es ante todo una escuela de paciencia intelectual: aprender a no abarcar demasiado, a sostener una sola línea argumental, a no confundir altanería con conocimiento. Quizá el verdadero examen no sea aquel donde se mide lo aprendido, sino aquel donde se descubre si quien escribe ha pensado realmente lo que afirma.",
+  "moduleName": "Seminario de Redacción en Humanidades y Ciencias Sociales · Parte I",
+  "issueDate": "lunes, 11 de mayo de 2026"
+}

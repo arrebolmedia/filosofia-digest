@@ -1,0 +1,58 @@
+{
+  "items": [
+    {
+      "title": "Introducción a la ética especial",
+      "link": "https://ia.anthonycazares.cafe",
+      "pubDate": "lunes, 11 de mayo de 2026",
+      "excerpt": "¿Por qué la palabra \"ética\" deriva de ethos (morada, lugar) y \"moral\" de mos, moris (costumbre, carácter)? La etimología no es accesorio: revela que el pensamiento práctico está vinculado a un lugar habitado y a un carácter forjado. Aristót",
+      "sourceName": "Ética Especial",
+      "theme": "Ética y Filosofía Moral",
+      "synthesis": "¿Por qué la palabra \"ética\" deriva de ethos (morada, lugar) y \"moral\" de mos, moris (costumbre, carácter)? La etimología no es accesorio: revela que el pensamiento práctico está vinculado a un lugar habitado y a un carácter forjado. Aristóteles, padre de la ética como disciplina, sostuvo que la virtud no es conocimiento sino hábito: solo se vuelve virtuoso quien practica los actos virtuosos hasta hacerlos segunda naturaleza.\n\nKant rompe el marco aristotélico al fundar la moral en la autonomía de la voluntad. El imperativo categórico —obra solo según la máxima que puedas querer como ley universal— no apela a costumbres ni a felicidad: apela a la racionalidad pura. La ley moral exige objetividad y universalidad; la inclinación, los sentimientos y la felicidad personal son consideraciones extramorales.\n\nSartre da otro giro radical. En El existencialismo es un humanismo niega que haya una esencia humana previa: el hombre es existencia que precede a la esencia, libertad absoluta condenada a elegir. Cada acto compromete a la humanidad entera, porque al elegir un modo de actuar elijo lo que la humanidad debería ser. La angustia y la responsabilidad son inseparables: no hay excusa subjetiva. La ética especial, así, hereda y discute estas tres matrices: la del hábito, la del deber, la de la libertad responsable.",
+      "keywords": [
+        "ethos y mos",
+        "virtud como hábito",
+        "imperativo categórico",
+        "existencialismo sartreano",
+        "libertad responsable"
+      ],
+      "isPdf": true
+    },
+    {
+      "title": "Las comunidades de amistad",
+      "link": "https://ia.anthonycazares.cafe",
+      "pubDate": "lunes, 11 de mayo de 2026",
+      "excerpt": "¿Puede haber amistad entre desiguales? Aristóteles, en los libros VIII y IX de la Ética a Nicómaco, ofrece el tratado clásico: la amistad es indispensable —sin amigos nadie querría vivir— y se sustenta en tres elementos: reciprocidad (que a",
+      "sourceName": "Ética Especial",
+      "theme": "Ética y Filosofía Moral",
+      "synthesis": "¿Puede haber amistad entre desiguales? Aristóteles, en los libros VIII y IX de la Ética a Nicómaco, ofrece el tratado clásico: la amistad es indispensable —sin amigos nadie querría vivir— y se sustenta en tres elementos: reciprocidad (que ambos amigos amen y sean amados), igualdad (no en sentido absoluto, pero sí en proporción) y trato (tiempo compartido). Hay amistad por utilidad, por placer y por virtud; solo la tercera es propiamente amistad, porque ama al otro por lo que es y no por lo que da.\n\nLa cuestión de la igualdad es delicada. ¿Pueden ser amigos un rey y su vasallo? ¿Padres e hijos? ¿Una persona rica y una pobre? Aristóteles admite que la distancia excesiva impide la amistad —\"como la de la divinidad\"— pero acepta variaciones cuando se conservan reciprocidad y trato. Martin Buber, dos milenios después, refinará la distinción entre relación Yo-Tú (donde el otro aparece como persona) y Yo-Ello (donde el otro se reduce a función). La amistad genuina es siempre Yo-Tú.\n\nLa familia, según Marvin Harris, Aristóteles y el Catecismo Católico, es la unidad social mínima, aunque su forma cambie históricamente. La amistad la prolonga: si la familia es comunidad de origen, la amistad es comunidad de elección. Y ambas son la antesala de la polis, la comunidad política, donde la cuestión de la igualdad reaparece en escala ampliada.",
+      "keywords": [
+        "amistad aristotélica",
+        "reciprocidad e igualdad",
+        "Yo-Tú de Buber",
+        "comunidad y polis",
+        "familia"
+      ],
+      "isPdf": true
+    },
+    {
+      "title": "Problemas de bioética y afines",
+      "link": "https://ia.anthonycazares.cafe",
+      "pubDate": "lunes, 11 de mayo de 2026",
+      "excerpt": "¿Tiene la bioética un sesgo político inherente? Foucault diría que sí: las políticas de la salud suponen un modelo de ser general para todos, y por eso toda decisión bioética es también biopolítica. Quién decide qué es vida digna, qué cuerp",
+      "sourceName": "Ética Especial",
+      "theme": "Ética y Filosofía Moral",
+      "synthesis": "¿Tiene la bioética un sesgo político inherente? Foucault diría que sí: las políticas de la salud suponen un modelo de ser general para todos, y por eso toda decisión bioética es también biopolítica. Quién decide qué es vida digna, qué cuerpos merecen tratamiento, qué experimentos son legítimos: detrás de cada respuesta hay un modelo antropológico y una distribución de poder.\n\nLa vivisección, permitida en Alejandría en el siglo III a.C. con cuerpos de condenados, recuerda que la investigación médica siempre ha negociado con los límites éticos. La disección de cadáveres fue prohibida durante siglos por considerarse vecina de la necromancia. Hoy, debates sobre eutanasia, edición genética, cuidados paliativos y aborto siguen tensionando los mismos ejes: dignidad de la vida, autonomía del sujeto, deberes del Estado.\n\nEl utilitarismo —Bentham, Mill— ofrece la ética más cercana a la sensibilidad común: lo bueno es lo que maximiza el bienestar agregado. Su atractivo es la claridad operativa; su debilidad, sacrificar individuos al saldo aritmético. La ética del discurso de Habermas y la ética del consenso intentan superar la dificultad fundando lo justo en procedimientos racionales. Pero, ¿quiénes participan realmente del consenso global cuando se decide en la OMS o el FMI?",
+      "keywords": [
+        "biopolítica",
+        "Foucault",
+        "utilitarismo",
+        "ética del discurso",
+        "eutanasia y aborto"
+      ],
+      "isPdf": true
+    }
+  ],
+  "editorialIntro": "La ética especial es la rama de la filosofía moral que aplica los principios generales a contextos concretos: la amistad, la familia, la salud, el trabajo, la política. Pero no hay aplicación neutral. Aristóteles funda la ética en el hábito y la virtud; Kant, en la autonomía racional; Sartre, en la libertad responsable. Cada marco genera una bioética distinta, una política distinta, una concepción distinta del trabajo.\n\nLa amistad, según Aristóteles, exige reciprocidad, igualdad y trato. Buber, dos milenios después, articula la diferencia entre relación Yo-Tú y Yo-Ello: la amistad genuina es siempre Yo-Tú, donde el otro aparece como persona, no como función. La familia y la amistad son las antesalas de la polis.\n\nLa bioética contemporánea está atravesada por la biopolítica. Foucault mostró que toda política de la salud presupone un modelo antropológico. ¿Pueden los debates sobre eutanasia, aborto, edición genética separarse del problema más amplio del poder? La ética especial es siempre, también, una crítica política.",
+  "moduleName": "Ética Especial · Parte I",
+  "issueDate": "lunes, 11 de mayo de 2026"
+}

@@ -1,0 +1,29 @@
+{
+  "items": [
+    {
+      "title": "El obrar como ejercicio de la causalidad eficiente",
+      "link": "file:///opt/digest/pdfs/M13. Metafísica/M13T10. El obrar como ejercicio de la causalidad eficiente Historia y sentido de la cuestión.pdf",
+      "pubDate": "2026-05-11T09:00:00.000Z",
+      "excerpt": "La causa eficiente es la única que la modernidad reconoce como causa propiamente dicha. De Aristóteles a Leibniz y Spinoza, su interpretación divide a los filósofos sobre el lugar de Dios y la acción humana.",
+      "sourceName": "Metafísica",
+      "theme": "Metafísica y Ontología",
+      "synthesis": "De las cuatro causas aristotélicas, la única que el lenguaje moderno reconoce sin reservas es la eficiente: el principio agente o motriz del que proviene una transformación. Aristóteles distingue causa eficiente per se —el escultor que produce la estatua, el padre que engendra al hijo— y per accidens —cuando el agente actúa fuera de su rol propio—.\nEn la Edad Media surge una disputa decisiva: ¿hay causalidad eficiente en los seres finitos, o solo Dios es causa propiamente eficiente? Avicena y Avicebrón sostuvieron que los cuerpos finitos no pueden producir sustancias. Algacel atacó frontalmente esta posición. Santo Tomás de Aquino articula la solución clásica: Dios es causa primera y los seres creados son causas segundas que actúan por participación.\nLa modernidad radicaliza el problema. Spinoza, en su Ética, identifica a Dios con la sustancia única: solo Dios es causa eficiente, y todo lo demás son modos de su única sustancia, en un panteísmo riguroso. Leibniz, contra Spinoza, postula la pluralidad infinita de mónadas, sustancias simples sin ventanas que se sincronizan mediante la armonía preestablecida divina; cada mónada es causa interna de sus propios estados, sin influencia real de las demás. La acción humana se vuelve, en ambos casos, un problema metafísico.",
+      "keywords": ["causa eficiente", "causas segundas", "Spinoza panteísta", "mónadas leibnizianas", "armonía preestablecida"],
+      "isPdf": true
+    },
+    {
+      "title": "La causalidad propia y el principio de finalidad",
+      "link": "file:///opt/digest/pdfs/M13. Metafísica/M13T11. La causalidad propia y el principio de finalidad.pdf",
+      "pubDate": "2026-05-11T09:00:00.000Z",
+      "excerpt": "Todo efecto tiene una causa. Hume disuelve esta necesidad en hábito psicológico; Kant la rescata como categoría a priori. El principio de finalidad acompaña la disputa.",
+      "sourceName": "Metafísica",
+      "theme": "Metafísica y Ontología",
+      "synthesis": "El principio de causalidad —todo fenómeno tiene una causa— se ha considerado el principio que legitima toda la metafísica. Sus formulaciones se multiplican: todo efecto tiene una causa, todo móvil exige un motor, todo lo que comienza a existir tiene causa de su existencia. Platón lo enuncia en el Filebo como evidente. Aristóteles lo demuestra en la Física: lo que se mueve es movido por otro. Santo Tomás traduce: omne quod movetur ab alio movetur.\nDavid Hume ataca el principio en su raíz. La conexión necesaria entre causa y efecto no es observable; lo que observamos es sucesión constante. La idea de causa es un hábito psicológico —una expectativa formada por la repetición— sin fundamento ontológico. La metafísica clásica se desmorona en este punto.\nKant intenta el rescate trascendental: la causalidad no es propiedad de las cosas en sí, pero tampoco mera asociación psicológica. Es categoría a priori del entendimiento, condición de posibilidad de toda experiencia objetiva. Sin causalidad como forma del juicio, no habría ciencia.\nEl principio de finalidad —todo proceso tiende a un fin— sigue suerte paralela. La ciencia mecanicista moderna lo expulsa; pero Kant lo readmite en la Crítica del juicio como principio regulativo para pensar los organismos vivos.",
+      "keywords": ["principio de causalidad", "Hume y el hábito", "categorías kantianas", "principio de finalidad", "mecanicismo"],
+      "isPdf": true
+    }
+  ],
+  "editorialIntro": "El principio de causalidad parece tan evidente que cuesta verlo. Todo lo que sucede tiene una causa: el agua hierve porque el fuego la calienta, el cristal se rompe porque la piedra lo golpea. Platón lo enuncia en el Filebo sin detenerse a demostrarlo. Aristóteles construye sobre él la primera vía cosmológica: lo que se mueve es movido por otro, y la regresión nos lleva al primer motor inmóvil.\nEntonces aparece David Hume y todo se tambalea. ¿Qué observamos realmente? Sucesión constante: la piedra golpea, el cristal se rompe. Pero la conexión necesaria entre ambos eventos no es dato sensorial; es expectativa formada por hábito. La causalidad no es propiedad del mundo, sino disposición psicológica nuestra. Si Hume tiene razón, la primera vía tomista se desploma y con ella buena parte de la metafísica clásica.\nKant intenta una operación de rescate. La causalidad no es propiedad de las cosas en sí, pero tampoco mera asociación: es categoría a priori del entendimiento, sin la cual no habría experiencia objetiva. La ciencia es posible porque pensamos lo dado bajo la forma de causa y efecto. ¿Es esa una respuesta a Hume o una elegante manera de darle la razón?",
+  "moduleName": "Metafísica · Parte IV",
+  "issueDate": "lunes, 11 de mayo de 2026"
+}

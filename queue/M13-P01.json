@@ -1,0 +1,40 @@
+{
+  "items": [
+    {
+      "title": "Objeto y ubicación de la metafísica",
+      "link": "file:///opt/digest/pdfs/M13. Metafísica/M13T1. Objeto y ubicación del tratado.pdf",
+      "pubDate": "2026-05-11T09:00:00.000Z",
+      "excerpt": "La Metafísica de Aristóteles, llamada así por Andrónico de Rodas, indaga el ser en cuanto ser y los primeros principios. Su objeto es problemático y se divide históricamente en ontología y teología.",
+      "sourceName": "Metafísica",
+      "theme": "Metafísica y Ontología",
+      "synthesis": "Andrónico de Rodas, peripatético de Roma del siglo I a. C., ordenó los manuscritos de Aristóteles y bautizó como Metafísica a los catorce libros que iban después de la Física. El nombre era una etiqueta editorial; sin embargo, fijó para siempre el destino de una disciplina cuyo objeto Aristóteles había llamado simplemente filosofía primera o ciencia buscada. Xavier Zubiri ha señalado que la problemática de la metafísica no es metodológica sino constitutiva: a diferencia de las ciencias positivas, que parten de la posesión de su objeto, la metafísica debe empezar por conquistarlo.\nAristóteles distingue dos focos. Por un lado, el ente —en griego on—, lo que se dice que es; esta rama se llamará ontología, término acuñado por el teólogo Jean Le Clerc y sistematizado luego por Baumgarten como ciencia de los primeros principios. Por otro, la entidad suprema e inmaterial, primer motor inmóvil; este foco se llama episteme theologike y dará origen a la teología natural.\nLa interpretación oscila desde entonces. ¿Es la metafísica ontología que culmina accidentalmente en Dios, o teología que se sirve de la ontología como propedéutica? La recepción cristiana medieval inclinó la balanza hacia la segunda lectura; la modernidad, con Heidegger, intentará revertirla.",
+      "keywords": ["ser en cuanto ser", "ousía", "ontología y teología", "Andrónico de Rodas", "ciencia buscada"],
+      "isPdf": true
+    },
+    {
+      "title": "Método y principios de la metafísica",
+      "link": "file:///opt/digest/pdfs/M13. Metafísica/M13T2. Métodos y principios de la metafísica.pdf",
+      "pubDate": "2026-05-11T09:00:00.000Z",
+      "excerpt": "El método metafísico oscila entre deducción e inducción, descripción y reducción. Descartes lo somete al criterio de claridad y distinción; Julián Marías lo concibe como aprehensión de la realidad en su conexión.",
+      "sourceName": "Metafísica",
+      "theme": "Metafísica y Ontología",
+      "synthesis": "Aristóteles había distinguido el método deductivo —silogismo que parte de leyes universales para alcanzar lo particular— del inductivo —observación de fenómenos particulares para inferir leyes generales—. Si todos los metales son maleables y el oro es metal, el oro es maleable: silogismo. Si todas las manzanas observadas caen al suelo, hay una ley de gravitación: inducción newtoniana.\nDescartes, en el Discurso del método de 1637, refunda la cuestión. El método ya no es solo lógica del razonamiento sino criterio de evidencia: solo lo claro y distinto se admite como conocimiento. La metafísica deja de ser ciencia del ser para volverse análisis de las condiciones del conocer. Es el giro de la objetividad a la subjetividad que Kant llevará a su forma trascendental.\nJulián Marías, en el siglo XX, descarta la mera descripción como método suficiente: la vida es dada, dice, pero el sujeto no se conforma con su darse; quiere entenderlo. Vivir es aprehender la realidad en su conexión efectiva, y esa aprehensión exige una teoría o razón. La metafísica deviene, en esta lectura raciovitalista heredada de Ortega, la forma concreta de la razón aplicada a la vida humana.",
+      "keywords": ["deducción e inducción", "Discurso del método", "claridad y distinción", "raciovitalismo", "razón metafísica"],
+      "isPdf": true
+    },
+    {
+      "title": "Filosofía metafísica y filosofías antimetafísicas",
+      "link": "file:///opt/digest/pdfs/M13. Metafísica/M13T3. Filosofía metafísica y filosofías antimetafísicas.pdf",
+      "pubDate": "2026-05-11T09:00:00.000Z",
+      "excerpt": "Desde los sofistas hasta el positivismo lógico, la historia de la filosofía oscila entre el deseo de saber lo último y la sospecha de que ese deseo es una ilusión gramatical.",
+      "sourceName": "Metafísica",
+      "theme": "Metafísica y Ontología",
+      "synthesis": "Aristóteles abre la Metafísica con una afirmación universal: todos los seres humanos por naturaleza desean el saber. Ese deseo, ligado a las sensaciones y especialmente a la vista, no se agota en la utilidad; ama lo que aparece por sí mismo. Para Habermas, esta búsqueda del ser cuando no es dogmática se llama teoría postmetafísica del conocimiento. La metafísica como ciencia buscada nunca queda saciada; es tensión y deseo más que posesión, como Gabilondo y Aranzueque han descrito.\nFrente a esta vocación nacen las filosofías antimetafísicas. Los sofistas griegos —Protágoras, Gorgias— negaron la posibilidad de un saber universal sobre el ser: el ser humano es la medida de todas las cosas, y la verdad depende de la persuasión retórica. Aristóteles les respondió con el principio de no contradicción.\nEl empirismo de Hume disolvió la sustancia en haces de impresiones; el positivismo lógico del Círculo de Viena, con Carnap a la cabeza, declaró sin sentido toda proposición metafísica por no ser ni analítica ni empíricamente verificable. Wittgenstein, en el Tractatus, redujo la filosofía a clarificación lingüística: lo que no puede decirse, debe callarse. Heidegger, por el contrario, sostuvo que la metafísica olvidó al ser y se quedó con los entes. La querella sigue abierta.",
+      "keywords": ["sofistas", "empirismo antimetafísico", "positivismo lógico", "olvido del ser", "ciencia buscada"],
+      "isPdf": true
+    }
+  ],
+  "editorialIntro": "La palabra metafísica fue un accidente bibliográfico. Andrónico de Rodas, ordenando los manuscritos de Aristóteles en Roma hacia el siglo I a. C., colocó después de la Física aquellos libros que el propio Aristóteles había llamado simplemente filosofía primera. De ese gesto editorial nació una disciplina cuyo objeto sería discutido durante veintidós siglos.\n¿Qué busca la metafísica? Aristóteles dio dos respuestas que nunca terminaron de armonizarse: el ser en cuanto ser, por un lado, y la entidad suprema e inmaterial, por otro. La primera línea es ontología; la segunda, teología natural. La modernidad heredó esta ambigüedad y la dramatizó. Descartes la convirtió en análisis del conocer; Hume la disolvió en hábitos psicológicos; Kant la fragmentó en condiciones trascendentales; Comte y el Círculo de Viena la declararon sinsentido.\nY sin embargo, como observó Aristóteles en la primera línea de su obra, todos los seres humanos por naturaleza desean el saber. Habermas hablará de teoría postmetafísica, Heidegger del olvido del ser, Zubiri de la ciencia buscada. ¿Puede un deseo que no se sacia ser declarado oficialmente extinto?",
+  "moduleName": "Metafísica · Parte I",
+  "issueDate": "lunes, 11 de mayo de 2026"
+}

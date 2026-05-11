@@ -1,0 +1,40 @@
+{
+  "items": [
+    {
+      "title": "La sustancia corpórea",
+      "link": "",
+      "pubDate": "2026-05-11T09:00:00.000Z",
+      "excerpt": "Aristóteles, las cuatro causas y la sustancia como aquello que subyace: una arquitectura ontológica que Descartes, Spinoza y Leibniz heredarían sin poder superarla.",
+      "sourceName": "Filosofía de la Naturaleza",
+      "theme": "Metafísica y Ontología",
+      "synthesis": "Aristóteles tradujo el griego ousía como aquello que subyace —de ahí el latín sub-stantia— y lo identificó con el modo primario del ser. La sustancia es el sujeto último del que se predican atributos y accidentes, lo que permanece cuando todo lo demás cambia. En las Categorías distingue sustancia primera —el individuo concreto, este caballo, este hombre— y sustancia segunda —la especie y el género—. Toda sustancia, además, se entiende mediante las cuatro causas: material (de qué está hecha), formal (qué la define), eficiente (qué la produce) y final (hacia qué fin tiende). Esta arquitectura ontológica resultó tan poderosa que la filosofía moderna no logró deshacerse de ella sin pagar costos. René Descartes la replantearía como dualidad entre res cogitans y res extensa; Baruch Spinoza identificaría sustancia con naturaleza en su monismo radical; Gottfried Wilhelm Leibniz la pluralizaría como mónadas. Todos heredaron el problema sin disolverlo. Aristóteles había sentenciado que no puede haber ciencia de los accidentes; el conocimiento firme exige siempre llegar a la sustancia, a lo que algo verdaderamente es.",
+      "keywords": ["sustancia", "ousía", "cuatro causas", "Descartes", "Spinoza"],
+      "isPdf": true
+    },
+    {
+      "title": "Teoría hilemórfica de la composición",
+      "link": "",
+      "pubDate": "2026-05-11T09:00:00.000Z",
+      "excerpt": "Materia y forma, potencia y acto: la unión del alma y el cuerpo que Aristóteles concibió como una sola sustancia y que el cristianismo medieval traduciría a su propio idioma.",
+      "sourceName": "Filosofía de la Naturaleza",
+      "theme": "Metafísica y Ontología",
+      "synthesis": "El hilemorfismo aristotélico sostiene que toda sustancia corpórea se compone de materia —principio pasivo, potencial, receptivo— y forma —principio activo, actualizante, configurador—. Ningún proceso natural queda explicado sin especificar la materia que se transforma, la forma que adquiere, el agente eficiente que produce el cambio y el fin hacia el que tiende. En De anima, Aristóteles aplica esta estructura al ser vivo: el alma es la enteleqia o acto primero del cuerpo natural que tiene la vida en potencia. No son dos sustancias yuxtapuestas, como en el dualismo cartesiano; son una única sustancia viviente. Esta tesis tendrá enorme repercusión en Tomás de Aquino, quien la integrará con la antropología cristiana sin sacrificar la unidad psicofísica del ser humano. El salto de la física a la metafísica conduce, en la obra del Estagirita, al primer motor inmóvil: causa eterna del movimiento que no es movida por nada, acto puro sin potencia. Pierre Aubenque mostró que la metafísica aristotélica desemboca necesariamente en la teología, no por piedad sino por exigencia lógica del análisis.",
+      "keywords": ["hilemorfismo", "alma y cuerpo", "Aristóteles", "primer motor inmóvil", "Tomás de Aquino"],
+      "isPdf": true
+    },
+    {
+      "title": "La cantidad",
+      "link": "",
+      "pubDate": "2026-05-11T09:00:00.000Z",
+      "excerpt": "Las diez categorías del Órganon: cómo Aristóteles fundó la lógica al distinguir los modos en que el verbo ser puede predicarse.",
+      "sourceName": "Filosofía de la Naturaleza",
+      "theme": "Metafísica y Ontología",
+      "synthesis": "El Órganon —el instrumento— recoge las obras lógicas de Aristóteles y dentro de él, las Categorías inauguran un modo de pensar que dominaría veinte siglos. Aristóteles distingue diez modos fundamentales de predicar el ser: sustancia, cantidad, cualidad, relación, lugar, tiempo, posición, posesión, acción y pasión. La sustancia se predica por sí misma; los otros nueve son accidentes que necesitan adherirse a una sustancia para existir. La cantidad es la primera categoría accidental porque genera la individualidad de la materia: hace que un cuerpo sea este cuerpo extenso, divisible o indivisible, continuo o discreto. Como observa Pierre Aubenque, las categorías son significaciones del ser tal como se articulan en el discurso predicativo. Esta lista no es arbitraria: refleja las preguntas fundamentales que pueden hacerse sobre cualquier ente —qué es, cuánto, cómo, dónde, cuándo—. La escolástica medieval la adoptó casi sin modificaciones; Immanuel Kant, en la Crítica de la razón pura, propondría doce categorías nuevas, pero seguiría reconociendo a Aristóteles como su predecesor inevitable. Pensar sin categorías es imposible; pensar sin saber qué categorías se usan, peligroso.",
+      "keywords": ["categorías", "Órganon", "Aristóteles", "Aubenque", "Kant"],
+      "isPdf": true
+    }
+  ],
+  "editorialIntro": "Cuando Aristóteles distinguió la sustancia de los accidentes, no creó una mera taxonomía gramatical: estaba estableciendo que sin algo permanente bajo el cambio, todo conocimiento sería imposible. El caballo que envejece sigue siendo este caballo; el bronce que se moldea como estatua sigue siendo bronce. Esta intuición fundó la metafísica como ciencia del ser en cuanto ser y atravesó veinte siglos sin verdadera oposición. René Descartes, en pleno siglo XVII, intentó remplazarla con su dualidad de res cogitans y res extensa, pero como observó agudamente Étienne Gilson, simplemente cambió de sustancias sin abandonar el concepto. Baruch Spinoza llevaría el monismo al extremo identificando sustancia con la naturaleza misma; Gottfried Wilhelm Leibniz la pluralizaría en infinitas mónadas autocontenidas. Pierre Aubenque demostró que la metafísica aristotélica desemboca necesariamente en la teología cuando se la sigue hasta el final: el primer motor inmóvil no es un capricho piadoso, es exigencia lógica del análisis del movimiento. Tomás de Aquino lo entendió mejor que muchos contemporáneos del Estagirita. La pregunta entonces no es si conservamos el lenguaje aristotélico —que apenas usamos—, sino si podemos pensar sin él.",
+  "moduleName": "Filosofía de la Naturaleza · Parte III",
+  "issueDate": "lunes, 11 de mayo de 2026"
+}

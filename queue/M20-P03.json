@@ -1,0 +1,41 @@
+{
+  "items": [
+    {
+      "title": "Clasificación filosófica de la analogía del ser",
+      "link": "https://ia.anthonycazares.cafe",
+      "pubDate": "lunes, 11 de mayo de 2026",
+      "excerpt": "¿Cómo se dice analogamente \"ser\" de cosas diversas sin caer en univocidad ni equivocidad? Cayetano (Tomás de Vio, 1469-1534), comentarista de Tomás, sistematizó la doctrina en su tratado De nominum analogia, distinguiendo tres tipos: analog",
+      "sourceName": "Metafísica II",
+      "theme": "Filosofía Medieval",
+      "synthesis": "¿Cómo se dice analogamente \"ser\" de cosas diversas sin caer en univocidad ni equivocidad? Cayetano (Tomás de Vio, 1469-1534), comentarista de Tomás, sistematizó la doctrina en su tratado De nominum analogia, distinguiendo tres tipos: analogía de desigualdad, de proporcionalidad propia y de atribución. La analogía de atribución se ilustra con el clásico ejemplo del término \"sano\": se dice del animal (que tiene salud), de la medicina (que la produce) y de la orina (que la indica). Hay un análogo primario (el animal) y analogados secundarios que se ordenan a él.\n\nLa analogía de proporcionalidad, en cambio, descansa en una proporción matemática: A es a B como C es a D. El conocimiento de Dios es a Dios lo que el conocimiento humano es al hombre: no idéntico, pero proporcionalmente análogo. Esta distinción, técnica pero decisiva, permite hablar de los atributos divinos sin antropomorfismo y sin agnosticismo radical.\n\nAristóteles había anticipado la estructura; Tomás la aplicó a la teología; Cayetano la formalizó en la modernidad temprana. Suárez la criticó y propuso variantes. La analogía es la herramienta filosófica para pensar lo que no encaja ni en la identidad ni en la diferencia absoluta. Sin ella, la filosofía de la religión se vuelve imposible: o se reduce Dios a un objeto más, o se lo declara incognoscible.",
+      "keywords": [
+        "Cayetano",
+        "analogía de atribución",
+        "analogía de proporcionalidad",
+        "Suárez",
+        "lenguaje teológico"
+      ],
+      "isPdf": true
+    },
+    {
+      "title": "Sentidos lógicos y matemáticos de la analogía",
+      "link": "https://ia.anthonycazares.cafe",
+      "pubDate": "lunes, 11 de mayo de 2026",
+      "excerpt": "¿Funciona la analogía solo en metafísica, o también en lógica y matemática? La extrapolación, la interpolación y la reducción al absurdo son tres modos analógicos del razonamiento. La extrapolación toma reglas observadas en un dominio y las",
+      "sourceName": "Metafísica II",
+      "theme": "Lógica y Filosofía del Lenguaje",
+      "synthesis": "¿Funciona la analogía solo en metafísica, o también en lógica y matemática? La extrapolación, la interpolación y la reducción al absurdo son tres modos analógicos del razonamiento. La extrapolación toma reglas observadas en un dominio y las proyecta más allá de los datos disponibles: si una función crece exponencialmente entre los puntos medidos, asumimos —analógicamente— que sigue creciendo así. La interpolación trabaja al revés: dadas dos posiciones conocidas, deduce las intermedias.\n\nLa reducción al absurdo es la forma analógica más exigente. Para probar una proposición, asumimos hipotéticamente su negación y mostramos que conduce a contradicción. La validez se establece por la incompatibilidad entre la negación y consecuencias necesarias. Pitágoras lo usó para probar la irracionalidad de la raíz de dos; Euclides, para construir la geometría; los lógicos contemporáneos, para demostrar metateoremas.\n\nLa analogía no es, así, ornamento literario ni recurso pedagógico: es una estructura fundamental del razonamiento humano. María Zambrano vio en ella la herencia pitagórica; Beuchot ha desarrollado una \"hermenéutica analógica\" como vía media entre univocidad positivista y equivocidad posmoderna. Razonar analógicamente es reconocer semejanzas estructurales en la diversidad, sin reducirla ni dispersarla.",
+      "keywords": [
+        "extrapolación",
+        "interpolación",
+        "reducción al absurdo",
+        "hermenéutica analógica",
+        "Beuchot"
+      ],
+      "isPdf": true
+    }
+  ],
+  "editorialIntro": "Metafísica II cierra con la doctrina de la analogía del ser en sus formas técnicas: la sistematización de Cayetano, la crítica de Suárez, las aplicaciones lógicas y matemáticas. Lo que parece tecnicismo escolástico es, en realidad, una de las herramientas más fecundas de la filosofía occidental.\n\nCayetano distinguió analogía de atribución (el ejemplo de \"sano\") y de proporcionalidad (A es a B como C es a D). Sin esta distinción, la teología natural se vuelve imposible: o reducimos a Dios a categorías humanas (antropomorfismo) o lo declaramos incognoscible (agnosticismo). La analogía permite hablar de lo trascendente sin disolverlo.\n\nLa lógica y la matemática usan analogía constantemente: extrapolación, interpolación, reducción al absurdo. María Zambrano la vio como herencia pitagórica; Mauricio Beuchot ha construido una hermenéutica analógica como alternativa al positivismo y al posmodernismo. ¿Puede el siglo XXI seguir pensando sin la analogía, o es justamente lo que necesitamos rescatar?",
+  "moduleName": "Metafísica II · Parte III",
+  "issueDate": "lunes, 11 de mayo de 2026"
+}

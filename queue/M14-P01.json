@@ -1,0 +1,40 @@
+{
+  "items": [
+    {
+      "title": "Introducción a la ética: experiencia ordinaria y razón práctica",
+      "link": "file:///opt/digest/pdfs/M14. Ética General/M14T1. Introducción.pdf",
+      "pubDate": "2026-05-11T09:00:00.000Z",
+      "excerpt": "La ética distingue bien y mal en la acción humana, presupone la libertad y desemboca en el concepto de responsabilidad. Aristóteles la funda en los hábitos virtuosos; Kant, en el imperativo categórico.",
+      "sourceName": "Ética General",
+      "theme": "Ética y Filosofía Moral",
+      "synthesis": "La ética es la disciplina filosófica que emite juicios de valor sobre la acción humana, distinguiendo el bien del mal. Presupone una tesis ontológica fuerte: la libertad de la voluntad. Si las acciones fueran determinadas por mecanismos físicos sin margen de elección, hablar de mérito o demérito sería absurdo. La razón práctica —concepto que va de Aristóteles a Kant— es esa capacidad de deliberar sobre fines y medios en función de un bien que proporciona felicidad.\nAristóteles, en la Ética a Nicómaco, sostiene que las virtudes no son innatas sino fruto del hábito. Quien quiere ser médico adquiere el hábito del estudio disciplinado; quien quiere ser deportista, el de la perseverancia. La virtud está en el término medio relativo a cada circunstancia, no en un absoluto abstracto.\nLa distinción entre ética y moral, aunque a veces se usen como sinónimos, suele trazarse así: la moral es el conjunto de normas y costumbres efectivamente vigentes en una sociedad; la ética, la reflexión filosófica que las examina, justifica o critica. Las éticas materiales —de Aristóteles a Tomás de Aquino— prescriben contenidos del bien; las éticas formales —kantianas— prescriben solo la forma universalizable de la máxima.",
+      "keywords": ["razón práctica", "libertad y responsabilidad", "ética y moral", "virtud aristotélica", "éticas materiales y formales"],
+      "isPdf": true
+    },
+    {
+      "title": "Visión histórica de la ética",
+      "link": "file:///opt/digest/pdfs/M14. Ética General/M14T2. Visión histórica.pdf",
+      "pubDate": "2026-05-11T09:00:00.000Z",
+      "excerpt": "De Sócrates al emotivismo de Hume, pasando por Platón, Aristóteles, el estoicismo y la fenomenología, las justificaciones morales han variado sin agotar la cuestión.",
+      "sourceName": "Ética General",
+      "theme": "Ética y Filosofía Moral",
+      "synthesis": "Sócrates, filósofo ágrafo cuya doctrina nos llega por Platón, sostuvo el intelectualismo moral: no hay seres humanos malos, solo ignorantes. Nadie elige conscientemente el mal; quien obra mal es porque desconoce el verdadero bien. La tesis es provocadora: hace de la educación la primera tarea política.\nPlatón, en El Banquete, complica la visión socrática. La belleza, el amor y el bien están conectados: quien siente Eros contempla ideas bellas y las reproduce en sus acciones. Pausanias afirma que un ejército enamorado sería invencible. La acción moral no es solo conocimiento; requiere también pasión, vínculo, contemplación. Aristóteles, en la Ética a Nicómaco, abandona esta dimensión erótica y propone una ética de la virtud: el bien es eudaimonía, vida feliz, alcanzable mediante hábitos racionales y el término medio entre extremos viciosos.\nEl hedonismo de Epicuro identifica el bien con el placer prudentemente administrado; el estoicismo de Zenón y Marco Aurelio, con la vida conforme a la razón cósmica. David Hume, en el siglo XVIII, invierte el orden: la razón es esclava de las pasiones; las distinciones morales nacen del sentimiento moral, no del intelecto. El emotivismo contemporáneo y Habermas, con su ética del discurso, prolongan esa controversia.",
+      "keywords": ["intelectualismo moral", "eudaimonía", "término medio", "estoicismo", "emotivismo humeano"],
+      "isPdf": true
+    },
+    {
+      "title": "El bien humano",
+      "link": "file:///opt/digest/pdfs/M14. Ética General/M14T3. El bien humano.pdf",
+      "pubDate": "2026-05-11T09:00:00.000Z",
+      "excerpt": "Aristóteles distingue fin último y fines intermedios; Diógenes contrapone la autosuficiencia al poder; Max Scheler elabora una teoría material de los valores.",
+      "sourceName": "Ética General",
+      "theme": "Ética y Filosofía Moral",
+      "synthesis": "Aristóteles abre la Ética a Nicómaco con una distinción decisiva: hay bien en sí mismo y bien útil para otra cosa. El ser humano se pierde en el laberinto de los fines: trabaja para pagar gastos, los gastos generan más trabajo, y la vida transcurre sin que se haya preguntado por su fin último. Aristóteles lo identifica con la eudaimonía, vida feliz, que culmina en la vida teorética o contemplación, pues la razón es lo propio y elevado del ser humano.\nLa anécdota de Diógenes de Sinope y Alejandro Magno ilustra la cuestión. Diógenes vivía en un barril, sin posesiones, tomando el sol en Corinto. Alejandro, el hombre más poderoso de la Antigua Grecia, le ofreció complacer cualquier deseo. Diógenes respondió: apártate, me proyectas sombra. Para el filósofo cínico, la felicidad consiste en no depender de la sociedad; para Aristóteles, en ejercitar lo racional.\nSanto Tomás de Aquino integra esta tradición con el cristianismo: el fin último es la visión beatífica de Dios. Las críticas al utilitarismo benthamita y a la ética formal de Kant —insuficiente porque vacía de contenido— vienen luego. Max Scheler, en el siglo XX, elabora una teoría material de los valores jerarquizados: sensibles, vitales, espirituales y religiosos. Los valores no son convenciones sino esencias intuibles emocionalmente.",
+      "keywords": ["fin último", "eudaimonía", "Diógenes y Alejandro", "visión beatífica", "valores materiales"],
+      "isPdf": true
+    }
+  ],
+  "editorialIntro": "La ética empieza donde termina la coartada. Mientras pueda decirse no había otra opción, no hay terreno moral: hay física, biología, sociología. La ética solo aparece cuando admitimos que el ser humano elige, y que esa elección lo compromete. Por eso Aristóteles abre su Ética a Nicómaco preguntando por el fin último: si todo lo que hacemos lo hacemos por algo, debe haber algo que queramos por sí mismo. Lo llama eudaimonía —vida feliz, vida lograda—.\nDiógenes en su barril responde a Alejandro Magno con una frase que vale por todo un tratado: apártate, me proyectas sombra. El hombre más poderoso del mundo no puede dar al filósofo nada que el filósofo no tenga ya. Aristóteles, más mesurado, identifica la felicidad con la contemplación; Epicuro, con el placer sereno; los estoicos, con la conformidad al logos cósmico. Cada respuesta corresponde a una imagen distinta del ser humano.\nDavid Hume invierte la pregunta: la razón es esclava de las pasiones; las distinciones morales nacen del sentimiento, no del intelecto. Kant responderá, escandalizado, con el imperativo categórico. Max Scheler intentará luego una vía media: los valores son esencias intuibles emocionalmente, jerarquizadas. ¿Hay un bien humano universal, o solo configuraciones culturales de la felicidad?",
+  "moduleName": "Ética General · Parte I",
+  "issueDate": "lunes, 11 de mayo de 2026"
+}

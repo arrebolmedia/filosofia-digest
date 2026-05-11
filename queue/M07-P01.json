@@ -1,0 +1,40 @@
+{
+  "items": [
+    {
+      "title": "La filosofía de la naturaleza y su objeto de estudio",
+      "link": "",
+      "pubDate": "2026-05-11T09:00:00.000Z",
+      "excerpt": "Tales, Anaximandro y Empédocles inauguraron una pregunta que la física moderna intentó reemplazar y que sigue regresando por la puerta trasera.",
+      "sourceName": "Filosofía de la Naturaleza",
+      "theme": "Filosofía de la Naturaleza",
+      "synthesis": "Cuando los primeros físicos de Mileto —Tales, Anaximandro y Anaxímenes— se preguntaron por el arché, el principio constitutivo del cosmos, dieron un paso que la mitología no había podido dar: explicar la naturaleza sin recurrir a Zeus, Poseidón ni Apolo. Esta ruptura, situada por la tradición en el siglo VI a. C., inauguró simultáneamente la filosofía y la ciencia, sin distinguir aún entre ambas. Demócrito formuló su teoría atómica; Parménides de Elea negó el devenir; Heráclito de Éfeso lo afirmó como única realidad; Empédocles propuso cuatro raíces irreductibles. Veintiséis siglos después, la física positivista del siglo XIX y XX intentó relegar estas preguntas al museo. Sin embargo, como observó Hans Reichenbach con perplejidad, la ciencia llegada al estado positivo empezó a retroceder hacia el estado metafísico precisamente cuando alcanzó sus fronteras propias. La filosofía de la naturaleza no es entonces precursora torpe de la ciencia, sino su acompañante necesaria: estudia el ser en cuanto realizado en lo físico, allí donde la medición cuantitativa ya no basta para entender qué es esa realidad que se mide.",
+      "keywords": ["arché", "presocráticos", "filosofía de la naturaleza", "Tales de Mileto", "Reichenbach"],
+      "isPdf": true
+    },
+    {
+      "title": "El método de la filosofía de la naturaleza",
+      "link": "",
+      "pubDate": "2026-05-11T09:00:00.000Z",
+      "excerpt": "Potencia y acto: las herramientas conceptuales con que Aristóteles construyó una ciencia del cambio que la física cuántica volvería a necesitar.",
+      "sourceName": "Filosofía de la Naturaleza",
+      "theme": "Filosofía de la Naturaleza",
+      "synthesis": "Aristóteles propuso entender el mundo natural mediante dos parejas de conceptos fundamentales: materia y forma, potencia y acto. Toda realidad cambiante es siempre algo que es y a la vez algo que aún no es; el cambio mismo se explica como tránsito de la potencia al acto. Esta arquitectura conceptual permitió una ciencia del devenir donde el empirismo moderno solo veía un caos. Las cuatro causas aristotélicas —material, formal, eficiente y final— ofrecen niveles de explicación complementarios que la física galileana redujo deliberadamente a dos (material y eficiente) para ganar precisión cuantitativa. Pero como advertía Étienne Gilson, esa renuncia metodológica no es una negación ontológica: que la ciencia experimental no estudie la causa final no significa que esta no exista. Hacia 1950, los propios físicos cuánticos empezaron a reconocer que sus afirmaciones sobre la naturaleza última de la materia eran inevitablemente metafísicas, dando la razón a quienes habían sostenido que la filosofía de la naturaleza era irreemplazable. La interdisciplinariedad entre ciencia y filosofía no es un lujo cultural; es una exigencia epistemológica.",
+      "keywords": ["potencia y acto", "cuatro causas", "Aristóteles", "método metafísico", "ciencia y filosofía"],
+      "isPdf": true
+    },
+    {
+      "title": "Relación de la filosofía de la naturaleza con otras áreas",
+      "link": "",
+      "pubDate": "2026-05-11T09:00:00.000Z",
+      "excerpt": "Descartes, Bacon, Heisenberg, Einstein, Bohr: una nómina que demuestra que la frontera entre ciencia y filosofía nunca fue tan nítida como pretende el positivismo.",
+      "sourceName": "Filosofía de la Naturaleza",
+      "theme": "Filosofía de la Naturaleza",
+      "synthesis": "La separación rígida entre ciencia y filosofía es una construcción tardía. Pitágoras fue matemático, astrónomo y filósofo a la vez; Aristóteles escribió tanto la Física como la Metafísica sin sentir que cambiaba de disciplina. René Descartes, fundador de la geometría analítica, es también padre de la filosofía moderna; Francis Bacon, lord canciller de Inglaterra, formuló simultáneamente el empirismo científico y filosófico. Ya en el siglo XX, Werner Heisenberg —autor del principio de incertidumbre— escribió sobre la realidad cuántica con vocabulario kantiano explícito, y el célebre intercambio entre Albert Einstein y Niels Bohr en torno a los fundamentos de la mecánica cuántica fue, en términos estrictos, una disputa filosófica. Lo que el siglo XVII separó por razones metodológicas, el siglo XX volvió a reunir por necesidad teórica. Como destacó Mariano Artigas, la frontera entre ambas disciplinas es permeable porque la realidad estudiada es una sola: lo que cambia es el enfoque, no el objeto. Negar este vínculo equivale a empobrecer ambos saberes.",
+      "keywords": ["interdisciplinariedad", "Heisenberg", "Bohr-Einstein", "filosofía de la ciencia", "Artigas"],
+      "isPdf": true
+    }
+  ],
+  "editorialIntro": "Hace veintiséis siglos, en las costas de Jonia, Tales de Mileto declaró que el agua era el principio de todas las cosas. Lo notable no es la respuesta, evidentemente insuficiente desde nuestra perspectiva, sino la pregunta: por primera vez alguien buscaba el origen del cosmos en la naturaleza misma, no en los dioses. Ese gesto fundó simultáneamente la ciencia y la filosofía, sin distinción entre ellas durante más de dos milenios. Aristóteles desarrolló las cuatro causas —material, formal, eficiente y final— como armazón para comprender todo cambio natural, y René Descartes redujo deliberadamente esa estructura a dos para fundar la física moderna. La operación tuvo éxito espectacular pero a un precio que el siglo XX comenzó a cobrar: cuando Werner Heisenberg formuló el principio de incertidumbre o cuando Niels Bohr discutió con Einstein sobre la realidad cuántica, ya no estaban haciendo solo física. Hans Reichenbach lo observó con perplejidad: una ciencia que alcanza el estado positivo empieza, paradójicamente, a retroceder al estado metafísico. ¿No será que la filosofía de la naturaleza no es un fósil precopernicano, sino la pregunta que toda ciencia plantea cuando deja de medir y empieza a pensar lo que mide?",
+  "moduleName": "Filosofía de la Naturaleza · Parte I",
+  "issueDate": "lunes, 11 de mayo de 2026"
+}

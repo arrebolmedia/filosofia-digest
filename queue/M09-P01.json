@@ -1,0 +1,40 @@
+{
+  "items": [
+    {
+      "title": "Introducción a la antropología filosófica",
+      "link": "",
+      "pubDate": "2026-05-11T09:00:00.000Z",
+      "excerpt": "Pascal, Kierkegaard, Marcel: tres miradas sobre el ser humano como misterio que ninguna ciencia puede agotar.",
+      "sourceName": "Antropología Filosófica",
+      "theme": "Filosofía de la Mente",
+      "synthesis": "La antropología filosófica no busca describir empíricamente al ser humano —eso lo hace la antropología cultural o la biológica—; busca pensar qué clase de ente es ese que se pregunta a sí mismo qué es. Blaise Pascal, en los Pensamientos, formuló la paradoja con su elocuencia inigualable: el hombre es una caña, pero una caña pensante, capaz de comprender el universo que lo aplasta. Søren Kierkegaard, ya en el siglo XIX, reaccionó contra el idealismo absoluto de Hegel —que disolvía al individuo en la marcha del Espíritu— recuperando la singularidad del existente concreto, ese ser angustiado entre el estadio estético, el ético y el religioso. Ludwig Feuerbach, contemporáneo, propuso lo contrario: la teología es antropología disfrazada, todo lo divino es proyección humana. Gabriel Marcel, en el siglo XX, distinguió problema y misterio: el problema se resuelve mediante análisis; el misterio incluye a quien lo plantea, no admite distancia objetivante. La vida humana es misterio, no problema. Esta tradición, recogida por Max Scheler en El puesto del hombre en el cosmos, fundó la antropología filosófica como disciplina autónoma frente al avance del cientificismo positivista.",
+      "keywords": ["Pascal", "Kierkegaard", "Gabriel Marcel", "Max Scheler", "homo absconditus"],
+      "isPdf": true
+    },
+    {
+      "title": "La vida humana",
+      "link": "",
+      "pubDate": "2026-05-11T09:00:00.000Z",
+      "excerpt": "Cuerpo y alma, intencionalidad y soledad metafísica: del dualismo platónico al monismo materialista de la neurociencia contemporánea.",
+      "sourceName": "Antropología Filosófica",
+      "theme": "Filosofía de la Mente",
+      "synthesis": "La tradición filosófica ha pensado la vida humana, predominantemente, como dualidad de psique y soma —alma y cuerpo—. Platón radicalizó esta distinción en el Fedón al concebir el cuerpo como cárcel del alma; Aristóteles la moderó en De anima al sostener que el alma es la forma del cuerpo viviente, no una sustancia separable. René Descartes, en el siglo XVII, reformuló el dualismo como res cogitans y res extensa, abriendo el problema mente-cuerpo que aún ocupa a la filosofía analítica contemporánea. Franz Brentano, hacia 1874, identificó el rasgo distintivo de lo mental: la intencionalidad, esa capacidad que tienen los actos mentales de referirse siempre a algo más allá de sí mismos, anticipando a Edmund Husserl. José Ortega y Gasset sintetizó la condición humana en su célebre yo soy yo y mi circunstancia; Ernst Cassirer la pensó como animal simbólico que habita un universo de significados, no solo de estímulos. Frente a estas tradiciones, el monismo materialista contemporáneo —apoyado en la neurociencia— sostiene que los estados mentales son simplemente estados cerebrales, y que el dualismo es una ilusión heredada. El debate sigue abierto.",
+      "keywords": ["dualismo", "intencionalidad", "Brentano", "Cassirer", "Ortega"],
+      "isPdf": true
+    },
+    {
+      "title": "Fenomenología del comportamiento humano",
+      "link": "",
+      "pubDate": "2026-05-11T09:00:00.000Z",
+      "excerpt": "Sensación, percepción, Gestalt y motivación: cómo Wolfgang Köhler y Kurt Koffka refutaron el asociacionismo y devolvieron al sujeto su papel activo.",
+      "sourceName": "Antropología Filosófica",
+      "theme": "Filosofía de la Mente",
+      "synthesis": "El comportamiento humano puede descomponerse analíticamente en tres niveles: conocimiento, motivación y acción. El conocimiento, a su vez, integra sensación, percepción, memoria, imaginación y entendimiento. El asociacionismo —de David Hume a las primeras psicologías experimentales— sostenía que la percepción se construye por suma mecánica de sensaciones simples mediante leyes de contigüidad y similitud. Esta tesis fue contundentemente refutada por la psicología de la Gestalt en las primeras décadas del siglo XX: Max Wertheimer, Wolfgang Köhler y Kurt Koffka demostraron experimentalmente que la percepción capta totalidades estructuradas antes que partes aisladas. Las leyes de la forma —simplicidad, prestancia, proximidad, semejanza— rigen la organización perceptiva con independencia de la voluntad del sujeto. La motivación, por su parte, articula deseos, necesidades, aspiraciones; Abraham Maslow propondría su célebre jerarquía, mientras Viktor Frankl, desde la logoterapia, insistió en que la motivación más profunda es la búsqueda de sentido. La acción humana, finalmente, se distingue de la mera reacción animal por su mediación simbólica: el ser humano no responde solo al estímulo, responde al significado del estímulo. Pavlov estudió reflejos; el ser humano, en cambio, interpreta antes de reaccionar.",
+      "keywords": ["Gestalt", "Wertheimer", "asociacionismo", "motivación", "fenomenología"],
+      "isPdf": true
+    }
+  ],
+  "editorialIntro": "Blaise Pascal escribió una de las frases más densas de toda la antropología filosófica: el hombre es una caña, pero una caña pensante. La fragilidad biológica del ser humano frente al cosmos contrasta con su capacidad única de comprender ese cosmos que lo aplasta. Esta paradoja recorre toda la tradición. Søren Kierkegaard, en el siglo XIX, recuperó la singularidad del existente concreto frente al idealismo hegeliano que disolvía al individuo en la marcha del Espíritu absoluto. Gabriel Marcel, en el XX, distinguió con sutileza problema y misterio: el problema se resuelve mediante análisis; el misterio incluye a quien lo plantea y no admite distancia objetivante. La vida humana es misterio, no problema, porque quien pregunta forma parte de aquello por lo que pregunta. La neurociencia contemporánea ha desafiado este enfoque al sostener que los estados mentales son simplemente estados cerebrales, y que el dualismo cartesiano es una ilusión heredada. Y sin embargo, como ya advertía Franz Brentano, el rasgo distintivo de lo mental es la intencionalidad: todo acto mental se refiere a algo más allá de sí mismo. Ningún escáner cerebral ha capturado todavía esa flecha del pensamiento hacia lo que piensa. ¿Es la conciencia un epifenómeno o un misterio?",
+  "moduleName": "Antropología Filosófica · Parte I",
+  "issueDate": "lunes, 11 de mayo de 2026"
+}

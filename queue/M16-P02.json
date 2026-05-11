@@ -1,0 +1,58 @@
+{
+  "items": [
+    {
+      "title": "El empirismo",
+      "link": "https://ia.anthonycazares.cafe",
+      "pubDate": "lunes, 11 de mayo de 2026",
+      "excerpt": "¿De dónde proceden las ideas, si no las trae el alma desde un mundo inteligible? Locke responde con su célebre tesis: la mente humana es una tabula rasa que la experiencia llena por dos vías, sensación (impresiones externas) y reflexión (op",
+      "sourceName": "Historia de la Filosofía Moderna",
+      "theme": "Epistemología",
+      "synthesis": "¿De dónde proceden las ideas, si no las trae el alma desde un mundo inteligible? Locke responde con su célebre tesis: la mente humana es una tabula rasa que la experiencia llena por dos vías, sensación (impresiones externas) y reflexión (operaciones del entendimiento sobre lo dado). El ataque al innatismo cartesiano es directo, y abre el camino para una teoría empírica del conocimiento.\n\nBerkeley lleva la consigna a una conclusión inesperada: si solo conocemos lo que percibimos, ¿qué evidencia tenemos de una materia independiente de la percepción? Su immaterialismo —esse est percipi, ser es ser percibido— elimina la sustancia material y conserva solo espíritus y sus ideas. La materia, ese supuesto sustrato detrás de las cualidades, resulta ser una contradicción cuando se la examina.\n\nHume da el paso más radical. Si todo conocimiento deriva de impresiones, entonces la causalidad —ese principio que la ciencia da por sentado— no se observa: solo observamos conjunción constante. Inferir necesidad causal es un hábito de la imaginación, no un descubrimiento racional. La razón queda subordinada a las pasiones, y el yo se disuelve en un haz de percepciones sucesivas. El empirismo radical desemboca en un escepticismo que Kant tomará como desafío personal.",
+      "keywords": [
+        "tabula rasa",
+        "inmaterialismo de Berkeley",
+        "crítica de la causalidad",
+        "escepticismo humeano",
+        "pasiones y razón"
+      ],
+      "isPdf": true
+    },
+    {
+      "title": "La Ilustración",
+      "link": "https://ia.anthonycazares.cafe",
+      "pubDate": "lunes, 11 de mayo de 2026",
+      "excerpt": "¿Hay un progreso de la humanidad guiado por la razón, o esa idea misma es un disfraz ideológico? La Ilustración apuesta por lo primero: Voltaire, Diderot, Rousseau, Montesquieu confían en que la educación universal, la separación de poderes",
+      "sourceName": "Historia de la Filosofía Moderna",
+      "theme": "Filosofía de la Historia",
+      "synthesis": "¿Hay un progreso de la humanidad guiado por la razón, o esa idea misma es un disfraz ideológico? La Ilustración apuesta por lo primero: Voltaire, Diderot, Rousseau, Montesquieu confían en que la educación universal, la separación de poderes y el libre examen liberarán a los hombres de la \"minoría de edad\" autoimpuesta. La Enciclopedia es el monumento de esa confianza.\n\nGiambattista Vico, sin embargo, ofrece una contracorriente lúcida. Frente al universalismo abstracto, su Scienza Nuova propone una historia cíclica gobernada por la providencia: cada nación atraviesa una edad de los dioses, una de los héroes y una de los humanos, y al final regresa al principio. El conocimiento sigue el principio verum ipsum factum: solo se conoce a fondo lo que se hace; podemos hacer ciencia de las matemáticas y de la historia civil porque somos sus autores, no de la naturaleza, que es obra de Dios.\n\nLa Dialéctica de la Ilustración de Adorno y Horkheimer leerá, dos siglos después, que aquella confianza tenía su sombra: los derechos universales lo eran solo para hombres blancos y burgueses, y la razón ilustrada se convirtió rápidamente en razón instrumental al servicio del capital. La promesa emancipadora y su traición son inseparables.",
+      "keywords": [
+        "minoría de edad",
+        "verum ipsum factum",
+        "historia cíclica",
+        "razón instrumental",
+        "crítica adorniana"
+      ],
+      "isPdf": true
+    },
+    {
+      "title": "Kant",
+      "link": "https://ia.anthonycazares.cafe",
+      "pubDate": "lunes, 11 de mayo de 2026",
+      "excerpt": "¿Puede haber síntesis entre racionalismo y empirismo, o están condenados a refutarse mutuamente? Kant despierta del \"sueño dogmático\" leyendo a Hume y emprende una revolución copernicana en filosofía: no es el conocimiento el que se adecua ",
+      "sourceName": "Historia de la Filosofía Moderna",
+      "theme": "Filosofía Moderna",
+      "synthesis": "¿Puede haber síntesis entre racionalismo y empirismo, o están condenados a refutarse mutuamente? Kant despierta del \"sueño dogmático\" leyendo a Hume y emprende una revolución copernicana en filosofía: no es el conocimiento el que se adecua a los objetos, sino los objetos los que se adecuan a las formas a priori del sujeto. Espacio y tiempo son intuiciones puras de la sensibilidad; las categorías —sustancia, causalidad, etc.— son estructuras del entendimiento. Conocemos los fenómenos, no las cosas en sí (noúmenos).\n\nLa Crítica de la razón pura traza así los límites del conocimiento: la metafísica clásica —Dios, alma, mundo como totalidad— rebasa esos límites y genera paralogismos y antinomias. Pero la razón práctica abre otro camino. El imperativo categórico —\"obra solo según aquella máxima por la que puedas querer que se convierta en ley universal\"— funda la moralidad en la autonomía del sujeto racional, no en cálculos de utilidad ni en mandatos divinos.\n\nKant defiende además la tolerancia religiosa y la libertad civil como condiciones del progreso histórico. El príncipe ilustrado, dirá, no concede tolerancia: reconoce un derecho. Schopenhauer, Heidegger, los neokantianos y Adorno discutirán con él durante dos siglos, pero nadie podrá ignorarlo: la filosofía contemporánea es, en buena medida, una conversación con Königsberg.",
+      "keywords": [
+        "revolución copernicana",
+        "imperativo categórico",
+        "noúmeno y fenómeno",
+        "autonomía moral",
+        "crítica de la metafísica"
+      ],
+      "isPdf": true
+    }
+  ],
+  "editorialIntro": "La segunda parte del recorrido moderno se construye sobre la fractura abierta por el empirismo británico y se cierra con la síntesis crítica de Kant. Locke desmonta el innatismo cartesiano y devuelve el conocimiento a la experiencia; Berkeley lleva el principio hasta el inmaterialismo; Hume convierte la causalidad en hábito psicológico y disuelve el yo en un haz de percepciones. Cuando Kant lee a Hume, escribe que \"interrumpió mi sueño dogmático\".\n\nLa Ilustración aparece como apuesta histórica por la razón emancipadora: Voltaire, Diderot, Rousseau. Pero Vico, desde Nápoles, advierte que la historia es cíclica y que el conocimiento riguroso solo cabe sobre lo que hemos hecho, no sobre lo que solo padecemos. La crítica posterior de Adorno mostrará que la razón ilustrada llevaba dentro su propia traición.\n\nKant cierra el ciclo con un giro radical: el sujeto no recibe pasivamente el mundo, lo construye según formas a priori. La libertad moral es autonomía, no obediencia. ¿Puede una filosofía contemporánea pensarse sin Königsberg como punto de partida o de discusión?",
+  "moduleName": "Historia de la Filosofía Moderna · Parte II",
+  "issueDate": "lunes, 11 de mayo de 2026"
+}

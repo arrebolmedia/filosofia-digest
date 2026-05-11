@@ -1,0 +1,40 @@
+{
+  "items": [
+    {
+      "title": "Las cualidades corpóreas",
+      "link": "",
+      "pubDate": "2026-05-11T09:00:00.000Z",
+      "excerpt": "Hábito, capacidad, afección, configuración: las cuatro modalidades aristotélicas de la cualidad y la disputa moderna sobre cualidades primarias y secundarias.",
+      "sourceName": "Filosofía de la Naturaleza",
+      "theme": "Metafísica y Ontología",
+      "synthesis": "Aristóteles distinguió cuatro modos de decirse la cualidad: como hábito o disposición —rasgos estables o pasajeros del ser, como la virtud o la salud—; como capacidad o incapacidad natural —dones, predisposiciones, talentos—; como afección sensible —color, sabor, temperatura—; y como configuración o forma exterior —ser redondo, ser triangular—. Esta cuádruple distinción permitió pensar la cualidad sin reducirla a apariencia subjetiva. La filosofía moderna alteraría profundamente este esquema. John Locke distinguiría entre cualidades primarias —extensión, figura, movimiento— que pertenecerían realmente a los cuerpos, y cualidades secundarias —color, sonido, olor— que existirían solo en el sujeto perceptor. George Berkeley llevaría esta crítica al extremo idealista negando incluso la realidad de las primarias. Sin embargo, la fenomenología contemporánea, con Maurice Merleau-Ponty, ha rescatado las cualidades sensibles como modos genuinos de aparición del mundo, no como velos subjetivos sobre una realidad geometrizada. Aristóteles, sin saberlo, había anticipado este giro al insistir en que las cualidades nos hablan de la sustancia, no nos engañan sobre ella.",
+      "keywords": ["cualidad", "hábito", "Locke", "cualidades primarias y secundarias", "Merleau-Ponty"],
+      "isPdf": true
+    },
+    {
+      "title": "El lugar",
+      "link": "",
+      "pubDate": "2026-05-11T09:00:00.000Z",
+      "excerpt": "¿Existe el vacío? Demócrito dijo sí, Aristóteles dijo no, y la física moderna sigue oscilando entre ambas respuestas sin decidirse del todo.",
+      "sourceName": "Filosofía de la Naturaleza",
+      "theme": "Metafísica y Ontología",
+      "synthesis": "Aristóteles dedicó el libro IV de la Física a la categoría de lugar, distinguiéndola cuidadosamente de la noción de espacio. El lugar es el límite inmóvil del continente que rodea un cuerpo; no se identifica con la sustancia, pero ejerce influencia sobre ella —los lugares cálidos atraen lo seco, los fríos lo húmedo—. Esta concepción del lugar como recipiente cualificado, no como mera extensión geométrica, le permitió rechazar la noción de vacío que Demócrito había propuesto. Para Aristóteles, el universo es un todo lleno donde el movimiento ocurre por intercambio de posiciones, nunca como desplazamiento en una nada previa. Esta tesis dominaría hasta Galileo y Torricelli, cuando los experimentos sobre la presión atmosférica devolverían respetabilidad al vacío. Isaac Newton lo absolutizaría como espacio absoluto, infinito e independiente; Gottfried Wilhelm Leibniz lo relativizaría como mero conjunto de relaciones entre cuerpos. Albert Einstein, en la teoría general de la relatividad, le daría la razón parcial a ambos: el espacio existe, pero no es independiente de la materia que lo ocupa. Aristóteles intuía algo de esto cuando vinculaba lugar y cuerpo en una relación más íntima que la mera coincidencia geométrica.",
+      "keywords": ["lugar", "vacío", "Demócrito", "Newton-Leibniz", "Einstein"],
+      "isPdf": true
+    },
+    {
+      "title": "El tiempo",
+      "link": "",
+      "pubDate": "2026-05-11T09:00:00.000Z",
+      "excerpt": "Platón, Aristóteles, Agustín, Kant: cuatro respuestas inconciliables a la pregunta más vertiginosa de toda la filosofía.",
+      "sourceName": "Filosofía de la Naturaleza",
+      "theme": "Metafísica y Ontología",
+      "synthesis": "Platón, en el Timeo, llamó al tiempo imagen móvil de la eternidad: copia degradada de un original inmutable. Aristóteles, fiel a su empirismo, lo definió como número del movimiento según el antes y el después: sin movimiento no habría tiempo, sin alma que cuente no habría número. Estas dos posturas —absolutista y relacionista— estructuran toda la discusión posterior. Agustín de Hipona, en el libro XI de las Confesiones, dio el giro decisivo hacia la interioridad: el tiempo existe en el alma como distensión entre memoria del pasado, atención del presente y espera del futuro. Immanuel Kant, en la Crítica de la razón pura, lo radicalizó como forma a priori de la sensibilidad interna: el tiempo no está en las cosas, está en el sujeto que las percibe, y por eso es universalmente válido para cualquier experiencia posible. Georg Wilhelm Friedrich Hegel diría que la filosofía es convertir el tiempo en concepto, mientras Ortega y Gasset, con bella imagen, comparó el ahora con el vértice del doblez de una hoja: lo único que poseemos, y lo más imposible de aprehender. Albert Einstein añadiría que el tiempo mismo se dilata con la velocidad y la gravedad. Ninguna de estas respuestas excluye a las otras.",
+      "keywords": ["tiempo", "Platón", "Aristóteles", "Agustín", "Kant"],
+      "isPdf": true
+    }
+  ],
+  "editorialIntro": "El tiempo es el más íntimo y el más esquivo de todos los conceptos. Cuando nadie nos pregunta qué es, lo sabemos; cuando nos lo preguntan, no lo sabemos. Así formuló Agustín de Hipona en el libro XI de las Confesiones la paradoja que estructura toda reflexión filosófica sobre el tema. Platón, en el Timeo, lo llamó imagen móvil de la eternidad; Aristóteles, más sobrio, lo definió como número del movimiento según el antes y el después. Immanuel Kant lo desplazó hacia el sujeto al convertirlo en forma a priori de la sensibilidad interna, condición de toda experiencia posible. Albert Einstein lo relativizó al mostrar que se dilata con la velocidad y la gravedad. Ninguna de estas formulaciones se anula entre sí; quizá porque el tiempo no es una cosa sino un modo en que las cosas se nos dan. Lo mismo ocurre con el lugar: Aristóteles negó el vacío porque suponía un absurdo lógico; Newton lo elevó a categoría absoluta; Einstein le devolvió la complejidad al vincularlo indisolublemente a la materia. Las categorías aristotélicas no son fósiles intelectuales sino los nervios mismos del pensar. La cualidad, el lugar, el tiempo no se piensan con éxito desde cero. ¿Acaso podemos imaginar siquiera una mañana sin estas tres categorías operando silenciosamente bajo cada percepción?",
+  "moduleName": "Filosofía de la Naturaleza · Parte IV",
+  "issueDate": "lunes, 11 de mayo de 2026"
+}

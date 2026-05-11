@@ -1,0 +1,40 @@
+{
+  "items": [
+    {
+      "title": "La estética como disciplina filosófica",
+      "link": "",
+      "pubDate": "2026-05-11T09:00:00.000Z",
+      "excerpt": "De aísthesis a Baumgarten: cómo una palabra griega que significaba percepción se convirtió, recién en el siglo XVIII, en el nombre de una disciplina autónoma.",
+      "sourceName": "Estética",
+      "theme": "Estética",
+      "synthesis": "La palabra estética proviene del griego aísthesis: percepción, sensibilidad, sensación. Sin embargo, no existe en griego antiguo un término equivalente a lo que hoy llamamos arte: la techné mezclaba lo que hoy distinguimos como técnica artesanal, oficio y producción artística. Tampoco el latín ars cubre exactamente nuestro campo semántico. Fue Alexander Gottlieb Baumgarten quien, en 1750, acuñó por primera vez estética como disciplina filosófica autónoma: la ciencia del conocimiento sensible y de lo bello. Immanuel Kant, en la Crítica del juicio de 1790, estableció sus fundamentos definitivos al estudiar el juicio de gusto y postular la finalidad interna como rasgo específico de la obra artística. Georg Wilhelm Friedrich Hegel, pocas décadas después, desplazó la mirada desde el análisis estructural kantiano hacia la historicidad: solo comprendiendo el desarrollo histórico del arte podemos comprender su sentido. Estos dos enfoques —el estructural y el historicista— siguen estructurando la disciplina hasta hoy. La estética no es teoría secundaria del arte; es el modo en que la filosofía intenta anudar dos facultades que se ignoran mutuamente: el sentimiento y la razón.",
+      "keywords": ["aísthesis", "Baumgarten", "Kant", "Hegel", "juicio de gusto"],
+      "isPdf": true
+    },
+    {
+      "title": "Los conceptos estéticos fundamentales: arte, belleza y creatividad",
+      "link": "",
+      "pubDate": "2026-05-11T09:00:00.000Z",
+      "excerpt": "Mimesis, poiesis, techné: tres palabras griegas que muestran cuán reciente y cuán frágil es nuestra idea moderna de arte.",
+      "sourceName": "Estética",
+      "theme": "Estética",
+      "synthesis": "El arte antiguo se decía con tres palabras: mimesis (imitación), poiesis (producción) y techné (técnica). Cada una desplaza el énfasis. La mimesis, originalmente vinculada al culto dionisiaco y la danza ritual, fue reinterpretada por Platón en La República como imitación de la naturaleza según un principio racional. Esto le permitió distinguir entre buenos y malos artistas, y censurar a los poetas que podían pervertir la moral de la polis. Aristóteles, en la Poética, rehabilitaría la mimesis como conocimiento por imágenes, capaz de producir catarsis. La poiesis subraya la producción de algo nuevo en el mundo —no necesariamente obra de arte en sentido moderno—. La techné enfatiza el saber-hacer, el dominio técnico transmisible. Solo en el Renacimiento, con Giorgio Vasari y la consagración del artista individual —Leonardo, Miguel Ángel, Rafael— la idea moderna de arte como creación original empieza a fraguarse. El concepto de genio creador, central en el Romanticismo, terminaría de configurarla. La pregunta de Platón —¿qué imita el arte y para qué sirve a la ciudad?— sigue siendo más actual de lo que parece.",
+      "keywords": ["mimesis", "poiesis", "techné", "Platón", "concepto de arte"],
+      "isPdf": true
+    },
+    {
+      "title": "La autonomía de la estética kantiana",
+      "link": "",
+      "pubDate": "2026-05-11T09:00:00.000Z",
+      "excerpt": "Belleza desinteresada, lo sublime y el genio: tres conceptos con que Immanuel Kant fundó la estética moderna y abrió camino al Romanticismo.",
+      "sourceName": "Estética",
+      "theme": "Estética",
+      "synthesis": "En la Crítica del juicio (1790), Immanuel Kant elaboró tres conceptos que estructurarían toda la estética posterior. Primero, la belleza desinteresada: lo bello complace universalmente sin concepto y sin interés práctico; quien juzga algo bello no busca poseerlo ni usarlo. Esta tesis ruptura con el utilitarismo y con el empirismo extremo: hay un placer estético irreductible al placer sensual o al juicio cognitivo. Segundo, lo sublime: aquello que excede toda forma, que abruma la imaginación y, sin embargo, eleva la razón al hacernos conscientes de nuestra capacidad de pensar lo infinito —el cielo estrellado, las montañas, la tormenta—. Edmund Burke había anticipado esta categoría, pero Kant le dio profundidad filosófica al distinguir lo sublime matemático de lo dinámico. Tercero, el genio: el artista no aplica reglas conocidas, las inventa; el genio es talento natural que da la regla al arte. Esta concepción inaugurará el Romanticismo y la figura moderna del artista como creador singular. Friedrich Schelling, Friedrich Schiller y el primer Hegel beberán de estas tesis, aunque cada uno las desplazará en direcciones distintas.",
+      "keywords": ["Kant", "belleza desinteresada", "sublime", "genio", "Crítica del juicio"],
+      "isPdf": true
+    }
+  ],
+  "editorialIntro": "La palabra estética parece muy antigua y lo es en su raíz griega —aísthesis significa percepción—, pero como disciplina filosófica autónoma es sorprendentemente joven: Alexander Gottlieb Baumgarten la fundó apenas en 1750. Hasta entonces la reflexión sobre la belleza y el arte se entremezclaba con la metafísica, la ética y la teología. Platón juzgaba a los poetas desde la política; Aristóteles analizaba la tragedia como conocimiento por imágenes; Tomás de Aquino vinculaba la belleza con la perfección ontológica. Solo cuando Immanuel Kant publicó la Crítica del juicio en 1790 quedó establecido que el juicio estético es irreductible al juicio cognitivo o moral. Tres conceptos articularon su revolución: la belleza desinteresada, lo sublime y el genio. Sobre ellos se construirían el Romanticismo entero, la filosofía del arte de Schelling, la teoría hegeliana de la muerte del arte, e incluso —por reacción— las vanguardias del siglo XX. Detrás de cada cuadro de Caspar David Friedrich, de cada poema de Hölderlin, de cada sinfonía de Beethoven, late silenciosamente el aparato conceptual kantiano. ¿Es posible mirar una obra de arte sin que estos términos, transmitidos hoy como sentido común, organicen ya nuestra mirada?",
+  "moduleName": "Estética · Parte I",
+  "issueDate": "lunes, 11 de mayo de 2026"
+}

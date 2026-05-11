@@ -1,0 +1,40 @@
+{
+  "items": [
+    {
+      "title": "Verbos simples y verbos compuestos",
+      "link": "",
+      "pubDate": "2026-05-11T09:00:00.000Z",
+      "excerpt": "El verbo como núcleo de la oración: una arquitectura que Aristóteles ya entendía y que la lingüística contemporánea redescubre con otras herramientas.",
+      "sourceName": "Seminario de Redacción en Humanidades y Ciencias Sociales",
+      "theme": "Lógica y Filosofía del Lenguaje",
+      "synthesis": "El verbo es el núcleo de la oración. Esta afirmación, aparentemente técnica, encierra una de las intuiciones más antiguas de la filosofía: que el ser y el devenir se dicen primariamente como acción. Aristóteles distinguía en sus categorías entre la sustancia y los accidentes que la afectan, y entre estos accidentes situaba el actuar y el padecer como modos fundamentales del existir. La gramática moderna recoge esta intuición al organizar la frase alrededor del verbo: las perífrasis ingresivas, durativas, terminativas o resultativas no son meras curiosidades técnicas, sino formas de articular el tiempo interno de la acción. Salvador Gili Gaya, en su Curso superior de sintaxis española, mostró cómo el español dispone de una arquitectura verbal capaz de matizar el aspecto de la acción con una sutileza que el latín apenas insinuaba. Émile Benveniste, desde la lingüística general, vinculó el verbo con la subjetividad misma: al conjugarlo, el hablante se posiciona en el tiempo y se afirma como yo. Sin verbo no hay enunciado; sin enunciado, no hay sujeto que se diga a sí mismo.",
+      "keywords": ["verbo", "perífrasis aspectual", "Benveniste", "categorías aristotélicas", "subjetividad lingüística"],
+      "isPdf": true
+    },
+    {
+      "title": "Argumentación verbal",
+      "link": "",
+      "pubDate": "2026-05-11T09:00:00.000Z",
+      "excerpt": "Morfemas, lexemas y sintagmas: cómo Ferdinand de Saussure y los estructuralistas convirtieron la gramática en una ciencia rigurosa del significado.",
+      "sourceName": "Seminario de Redacción en Humanidades y Ciencias Sociales",
+      "theme": "Lógica y Filosofía del Lenguaje",
+      "synthesis": "La morfología estudia las unidades mínimas con significado: los morfemas, esos átomos lingüísticos que componen las palabras y que permiten distinguir el lexema —portador del contenido semántico— de los morfemas gramaticales que modulan género, número o tiempo. Ferdinand de Saussure, en su Curso de lingüística general, estableció que el signo lingüístico une significante y significado en una relación arbitraria pero socialmente fijada, y esta arbitrariedad es lo que permite a cada lengua segmentar la realidad de manera distinta. Los argumentos verbales —sujeto, complemento directo, complemento indirecto— son las exigencias que cada verbo impone a la oración por su propia naturaleza semántica. Noam Chomsky llamaría a esto la estructura argumental, y Lucien Tesnière había formulado antes la teoría de las valencias verbales con una metáfora química: cada verbo es un átomo con cierto número de enlaces libres que la oración debe completar. Detrás de toda esta técnica late una convicción filosófica: la sintaxis no es decorativa, es la forma en que el pensamiento se vuelve comunicable.",
+      "keywords": ["morfología", "Saussure", "valencia verbal", "Tesnière", "estructura argumental"],
+      "isPdf": true
+    },
+    {
+      "title": "Verificación de la construcción oracional",
+      "link": "",
+      "pubDate": "2026-05-11T09:00:00.000Z",
+      "excerpt": "Oraciones simples, compuestas y subordinadas: la jerarquía sintáctica como espejo de la jerarquía conceptual que distingue lo principal de lo accesorio.",
+      "sourceName": "Seminario de Redacción en Humanidades y Ciencias Sociales",
+      "theme": "Lógica y Filosofía del Lenguaje",
+      "synthesis": "Toda oración exhibe una arquitectura jerárquica donde el verbo manda y el resto se ordena en torno a él. La distinción entre oraciones simples y compuestas, y dentro de estas últimas entre coordinadas, yuxtapuestas y subordinadas, no es una taxonomía gramatical menor: refleja la manera en que el pensamiento subordina o coordina ideas. Las subordinadas adverbiales causales, finales, condicionales o concesivas son los nervios lógicos del razonamiento; sin ellas no se podría enunciar 'porque', 'para que', 'si', 'aunque'. Gottlob Frege, en su análisis lógico del lenguaje, mostró que la estructura sintáctica oculta a menudo la estructura lógica profunda del enunciado, y Bertrand Russell extendió esta intuición al análisis de las descripciones definidas. Para escribir bien hay que dominar este andamiaje: distinguir lo principal de lo accesorio, jerarquizar mediante puntuación y nexos, evitar la ambigüedad estructural que tantos malentendidos produce. La sintaxis bien dispuesta es una forma de honestidad intelectual: dice exactamente qué se afirma como núcleo y qué como matiz.",
+      "keywords": ["sintaxis", "subordinación", "Frege", "estructura oracional", "análisis lógico"],
+      "isPdf": true
+    }
+  ],
+  "editorialIntro": "Hay algo profundamente filosófico en la gramática, aunque pocos lo confiesen. Cuando Aristóteles redactaba sus Categorías y distinguía entre sustancia, cualidad, cantidad, relación y acción, no hacía solo metafísica: estaba describiendo la armazón misma del lenguaje griego, esos esqueletos verbales que cualquier hablante usa sin pensarlos. Ferdinand de Saussure, dos milenios después, propuso una idea radicalmente moderna: el signo lingüístico es arbitrario, pero su arbitrariedad está socialmente fijada, y cada lengua corta la realidad por lugares distintos. Émile Benveniste lo llevó más lejos: al decir 'yo' uno se constituye como sujeto, y sin esa conjugación verbal del pronombre personal no habría subjetividad propiamente humana. Detrás del aparente tecnicismo de los morfemas, las perífrasis y las subordinadas concesivas se esconde, entonces, una arquitectura del pensar. Quien domina la sintaxis no aprende reglas; aprende a distinguir lo principal de lo accesorio en su propia mente. ¿Es casual que las grandes claridades filosóficas casi siempre vengan acompañadas de prosas implacablemente bien construidas?",
+  "moduleName": "Seminario de Redacción en Humanidades y Ciencias Sociales · Parte III",
+  "issueDate": "lunes, 11 de mayo de 2026"
+}

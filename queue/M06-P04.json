@@ -1,0 +1,40 @@
+{
+  "items": [
+    {
+      "title": "Unidad temática de párrafos",
+      "link": "",
+      "pubDate": "2026-05-11T09:00:00.000Z",
+      "excerpt": "Coherencia y cohesión: cómo Juan Manuel Álvarez reclama una pedagogía de la escritura que enseñe a pensar, no a maquetar palabras.",
+      "sourceName": "Seminario de Redacción en Humanidades y Ciencias Sociales",
+      "theme": "Lógica y Filosofía del Lenguaje",
+      "synthesis": "El párrafo es la unidad mínima del pensamiento sostenido. Cada párrafo debe poseer una unidad temática que lo singularice y, simultáneamente, conectarlo con los demás mediante mecanismos de cohesión. Juan Manuel Álvarez critica con dureza la enseñanza mecanicista de la redacción, esa pedagogía que reduce el aprendizaje de la escritura a un entrenamiento rutinario evaluado por rendimiento escolar, en lugar de cultivar la fluidez del pensamiento, la imaginación y la claridad de las ideas. La distinción entre coherencia —la unidad semántica que un texto guarda respecto a una realidad— y cohesión —los mecanismos gramaticales y léxicos que vinculan sus partes— atraviesa toda la lingüística textual contemporánea. Teun van Dijk y Wolfgang Dressler formalizaron en los años setenta la diferencia entre estos dos niveles, distinguiendo coherencia local de coherencia global. Detrás de esta técnica habita una intuición clásica: razonar con rigor es ordenar bien. Aristóteles lo sabía cuando afirmaba en la Poética que el todo debe tener principio, medio y fin, y cada parte debe ocupar su lugar necesario. Un párrafo disperso delata, casi siempre, un pensamiento disperso.",
+      "keywords": ["unidad temática", "coherencia textual", "cohesión", "van Dijk", "lingüística textual"],
+      "isPdf": true
+    },
+    {
+      "title": "Unidad discursiva",
+      "link": "",
+      "pubDate": "2026-05-11T09:00:00.000Z",
+      "excerpt": "El discurso como tejido: por qué Mikhail Bajtín entendió antes que nadie que todo texto es un eco de otros textos, una respuesta y una anticipación.",
+      "sourceName": "Seminario de Redacción en Humanidades y Ciencias Sociales",
+      "theme": "Lógica y Filosofía del Lenguaje",
+      "synthesis": "El discurso es algo más que una suma de oraciones bien construidas. Es la forma e intención con que un emisor construye un mensaje completo, inserto en un contexto que lo condiciona. Émile Benveniste distinguió entre lengua y discurso: la primera es sistema potencial, el segundo es acto situado en el tiempo, en el espacio, en la subjetividad de quien habla. Mikhail Bajtín fue aún más lejos al sostener que todo enunciado es dialógico: responde a enunciados previos y anticipa respuestas futuras, está atravesado por voces ajenas que el hablante apenas administra. Esta polifonía no debilita la autoría; la enriquece. Escribir un texto académico es, en este sentido, una operación de tejido: hilar la propia voz con las que la precedieron, sin perder la propia. La progresión expositiva exige que cada párrafo cumpla una función dentro del todo —introducir, desarrollar, concluir— y que las transiciones sean claras. Cuando esto se logra, el lector experimenta esa rara sensación de transparencia donde la prosa desaparece y solo queda el pensamiento.",
+      "keywords": ["discurso", "Bajtín", "dialogismo", "Benveniste", "polifonía textual"],
+      "isPdf": true
+    },
+    {
+      "title": "Verificación de unidad discursiva",
+      "link": "",
+      "pubDate": "2026-05-11T09:00:00.000Z",
+      "excerpt": "Umberto Eco y la tesis universitaria: un manual del rigor intelectual que es, en el fondo, una ética del trabajo bien hecho.",
+      "sourceName": "Seminario de Redacción en Humanidades y Ciencias Sociales",
+      "theme": "Lógica y Filosofía del Lenguaje",
+      "synthesis": "Umberto Eco escribió en 1977 un breve manual sobre cómo se hace una tesis que terminó convirtiéndose en uno de los textos más leídos de su obra. La razón es simple: bajo la apariencia de un conjunto de consejos prácticos, Eco proponía una ética del trabajo intelectual. La adecuación de un texto exige conciencia del emisor sobre su propia intención, del receptor, del contexto y del canal. No basta con construir oraciones lógicamente impecables; hace falta saber dónde, para quién y por qué se escribe. Eco distinguía entre tesis de investigación —que aspira a aportar algo nuevo— y tesis de compilación —que organiza lo ya sabido—, sin desmerecer a la segunda: cada una tiene su lugar y su exigencia. Detrás de su pragmatismo aparente operaba una convicción profundamente clásica, heredera de Tomás de Aquino: el rigor no es enemigo de la libertad, sino su condición. Escribir bien una tesis es, antes que nada, no abarcar más de lo que se puede sostener. Esa modestia metodológica, que parece humilde, es probablemente la forma más alta de la ambición intelectual.",
+      "keywords": ["Umberto Eco", "adecuación textual", "tesis universitaria", "ética del rigor", "metodología"],
+      "isPdf": true
+    }
+  ],
+  "editorialIntro": "Hay una pregunta que Juan Manuel Álvarez plantea con crudeza y que pocos profesores se atreven a responder: ¿enseñamos a escribir, o entrenamos en cumplir formatos? La diferencia es enorme. Un texto que cumple todos los requisitos formales puede seguir siendo profundamente confuso, mientras que un texto irregular en su superficie puede albergar un pensamiento luminoso. Mikhail Bajtín entendió antes que muchos que cada enunciado es dialógico: responde a voces previas y anticipa réplicas futuras, está habitado por otros sin que el autor pueda evitarlo del todo. Esa polifonía no debilita la escritura académica; la define. Umberto Eco, con su pragmatismo casi escolástico, lo formuló en términos más sobrios al recomendar que toda tesis sea modesta en su alcance pero implacable en su rigor. La modestia metodológica, esa virtud que parece pequeña, resulta ser la forma más exigente del trabajo intelectual: aceptar los propios límites para llevarlos hasta el final. ¿Cuántas obras se han perdido por intentar decirlo todo a la vez, y cuántas han sobrevivido precisamente por elegir un solo asunto y agotarlo?",
+  "moduleName": "Seminario de Redacción en Humanidades y Ciencias Sociales · Parte IV",
+  "issueDate": "lunes, 11 de mayo de 2026"
+}

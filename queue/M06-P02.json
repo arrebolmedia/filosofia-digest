@@ -1,0 +1,40 @@
+{
+  "items": [
+    {
+      "title": "Rasgos pragmáticos",
+      "link": "",
+      "pubDate": "2026-05-11T09:00:00.000Z",
+      "excerpt": "Las funciones del lenguaje según Roman Jakobson y por qué una sola intención comunicativa puede transformar la naturaleza entera de un texto.",
+      "sourceName": "Seminario de Redacción en Humanidades y Ciencias Sociales",
+      "theme": "Lógica y Filosofía del Lenguaje",
+      "synthesis": "Todo texto ocurre dentro de una situación. Esta tesis pragmática, formulada con rigor por Roman Jakobson en su modelo de las seis funciones del lenguaje —referencial, emotiva, apelativa, fática, metalingüística y poética—, reorganiza la manera en que entendemos cualquier acto comunicativo. No basta con preguntar qué dice un texto; hay que preguntar quién lo emite, a quién, en qué contexto, con qué intención y a través de qué canal. Celinda Fournier subraya que sin retroalimentación efectiva entre emisor y receptor solo hay difusión de hechos, no comunicación auténtica. Esta distinción remite a la filosofía del lenguaje de John Austin y John Searle, para quienes hablar es siempre hacer algo: prometer, ordenar, persuadir, denunciar. El texto académico tiende a privilegiar la función referencial y metalingüística, pero nunca opera sola: la apelativa orienta al lector, la fática mantiene el contacto. Comprender estas funciones permite escribir con intención, no por inercia. Es la diferencia entre quien usa la lengua y quien deja que la lengua lo use.",
+      "keywords": ["funciones del lenguaje", "Jakobson", "pragmática", "actos de habla", "retroalimentación"],
+      "isPdf": true
+    },
+    {
+      "title": "Lengua oral y lengua escrita",
+      "link": "",
+      "pubDate": "2026-05-11T09:00:00.000Z",
+      "excerpt": "Helena Beristáin y Antonio Briz Gómez frente a una diferencia que Platón ya había denunciado en el Fedro: la inmediatez del habla y la permanencia traicionera de la escritura.",
+      "sourceName": "Seminario de Redacción en Humanidades y Ciencias Sociales",
+      "theme": "Lógica y Filosofía del Lenguaje",
+      "synthesis": "La oposición entre lengua oral y lengua escrita atraviesa la reflexión filosófica desde el Fedro de Platón, donde Sócrates lamentaba que el texto escrito, al no poder defenderse, queda a merced de cualquier lector. La oralidad es inmediata, contextual, recíproca; la escritura es mediata, autónoma, permanente. Helena Beristáin define la textualidad como el modo de manifestación lingüística que hace posible la comunicación misma, y Antonio Briz Gómez observa que el discurso coloquial trabaja con una reducción y selección léxica que no debe juzgarse desde el rasero del texto escrito. Cada modalidad obedece a sus propias reglas. Walter Ong, en su célebre análisis sobre las culturas orales, mostró que la escritura no es solo una técnica sino una reestructuración de la conciencia: aparece el pensamiento abstracto sostenido, la posibilidad de revisar, la distancia crítica frente al propio enunciado. Reconocer la frontera entre ambos modos no implica jerarquizarlos, sino comprender que cada uno responde a una situación cognitiva distinta, irreducible al otro.",
+      "keywords": ["oralidad y escritura", "Walter Ong", "Platón Fedro", "Helena Beristáin", "registro"],
+      "isPdf": true
+    },
+    {
+      "title": "Verificación del léxico",
+      "link": "",
+      "pubDate": "2026-05-11T09:00:00.000Z",
+      "excerpt": "Comodines, clichés y coloquialismos: las palabras 'perezosas' que delatan la falta de precisión conceptual en el escritor académico.",
+      "sourceName": "Seminario de Redacción en Humanidades y Ciencias Sociales",
+      "theme": "Lógica y Filosofía del Lenguaje",
+      "synthesis": "Ana María Vigara identifica como vacuidad léxica el fenómeno por el cual ciertas palabras —cosas, situación, hacer, tener— ocupan el lugar de conceptos más precisos por mera comodidad. Son los comodines del lenguaje, sustitutos que economizan el esfuerzo intelectual al precio de oscurecer el pensamiento. La cuestión no es estilística sino epistemológica: en buena medida pensamos con las palabras de que disponemos, y un léxico impreciso engendra un pensamiento impreciso. Esta intuición atraviesa la filosofía analítica desde el primer Ludwig Wittgenstein, para quien los límites de su lenguaje significaban los límites de su mundo. Theodor Adorno, en sentido inverso, denunciaba que el cliché funciona como un sedante ideológico: repite fórmulas heredadas sin examinarlas. Celina Fournier rastrea la etimología del estilo en el stylus latino, el punzón con que cada antiguo dejaba huella propia en la cera. La escritura académica exige depurar comodines no para uniformar, sino para que el estilo personal aparezca con nitidez bajo la disciplina del rigor.",
+      "keywords": ["vacuidad léxica", "comodines verbales", "cliché", "Wittgenstein", "Ana María Vigara"],
+      "isPdf": true
+    }
+  ],
+  "editorialIntro": "Las palabras no son inocentes. Cada elección verbal, cada giro sintáctico, cada coloquialismo deslizado en un texto académico revela una manera de pensar el mundo. Ludwig Wittgenstein formuló esta intuición con una sentencia que quedaría grabada como divisa de la filosofía contemporánea: los límites de mi lenguaje son los límites de mi mundo. Quien dispone solo de comodines verbales —cosas, situaciones, aspectos— habita un mundo borroso, donde nada termina de definirse. Quien escribe 'reavivar de nuevo' o 'subir para arriba' no comete un error gramatical sino una redundancia conceptual: ha dejado de pensar en lo que dice. Platón, en el Fedro, ya advertía contra la escritura precisamente por su carácter irrevocable, esa permanencia que la oralidad no conoce. Pero quizá fue Roman Jakobson quien situó el problema en su lugar exacto al recordar que todo mensaje cumple varias funciones a la vez —referir, emocionar, persuadir, mantener el contacto— y que escribir con conciencia consiste en saber cuál de esas funciones domina en cada momento. ¿Cuántas palabras decimos al día sin haber escogido ninguna?",
+  "moduleName": "Seminario de Redacción en Humanidades y Ciencias Sociales · Parte II",
+  "issueDate": "lunes, 11 de mayo de 2026"
+}

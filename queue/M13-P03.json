@@ -1,0 +1,40 @@
+{
+  "items": [
+    {
+      "title": "Materia y forma: especificación e individualidad",
+      "link": "file:///opt/digest/pdfs/M13. Metafísica/M13T7. Materia y forma como principios de especificación e individualidad.pdf",
+      "pubDate": "2026-05-11T09:00:00.000Z",
+      "excerpt": "Aristóteles distingue tres tipos de cambio —natural, violento y técnico— y propone la teoría hilemórfica: la sustancia es compuesto inseparable de materia receptiva y forma activa.",
+      "sourceName": "Metafísica",
+      "theme": "Metafísica y Ontología",
+      "synthesis": "Un alcornoque crece, un rayo lo destruye, un artesano lo convierte en mesa: tres tipos de cambio que Aristóteles distingue cuidadosamente. El primero es natural y proviene de la physis interna del árbol; los otros dos requieren agentes externos. La physis es el principio interno del movimiento y del reposo, presente en los seres naturales y ausente en los artificiales.\nEsta distinción funda el hilemorfismo. Toda sustancia es compuesto de materia y forma. La materia es receptividad, pasividad, sujeto que permanece bajo los cambios; pero también es potencia, capacidad operativa de devenir esto o aquello. La forma es la esencia, lo que hace que esta cosa sea esta y no otra. Materia sin forma es incognoscible; forma sin materia, en los seres físicos, es imposible.\nAristóteles responde así a los sofistas. Si una cosa puede ser y no ser —el iletrado que se vuelve letrado—, no hay contradicción: lo que era en potencia ha pasado a acto. El conocimiento universal es posible porque la forma es repetible; pero la individualidad existe porque la forma se realiza en esta materia particular. La tradición tomista hará de la materia el principio de individuación; Duns Scoto, en cambio, postulará la hecceidad como forma propia de cada singular.",
+      "keywords": ["hilemorfismo", "physis", "materia y forma", "potencia operativa", "individuación"],
+      "isPdf": true
+    },
+    {
+      "title": "Composición de acto y potencia en los seres finitos",
+      "link": "file:///opt/digest/pdfs/M13. Metafísica/M13T8. Composición de acto y potencia en los seres finitos.pdf",
+      "pubDate": "2026-05-11T09:00:00.000Z",
+      "excerpt": "Acto y potencia ordenan el universo desde la materia prima como pura potencialidad hasta Dios como acto puro. El acto es siempre anterior a la potencia y constituye el principio del ser.",
+      "sourceName": "Metafísica",
+      "theme": "Metafísica y Ontología",
+      "synthesis": "En el libro IX de la Metafísica, Aristóteles desarrolla la distinción que vertebra todo su sistema: acto y potencia. La elabora para responder a los sofistas y a Parménides simultáneamente. El supuesto paso del no-ser al ser que haría imposible todo conocimiento se resuelve cuando se advierte que el ser se dice de muchos modos, y uno de esos modos es predicarlo según acto y potencia. Una misma cosa puede ser una y múltiple sin contradicción: el niño es en potencia adulto, pero en acto niño.\nEsta arquitectura ordena el universo. En la base, la materia prima es pura potencialidad indeterminada; en la cima, Dios es acto puro, sin mezcla alguna de potencia. Entre ambos polos se despliega la jerarquía de los seres finitos, todos compuestos de acto y potencia en diversos grados. González Álvarez ha subrayado que sin esta dualidad estructural no habría unidad sustancial y sin unidad no hay realidad particular.\nAristóteles afirma además que el acto es anterior a la potencia: solo desde lo actual puede comprenderse lo potencial, porque la potencia se define por aquello que puede llegar a ser. Esta tesis tendrá consecuencias enormes en Santo Tomás de Aquino, quien añadirá la composición esencia-existencia como la forma propiamente metafísica de la composición potencia-acto.",
+      "keywords": ["acto y potencia", "materia prima", "acto puro", "anterioridad del acto", "composición real"],
+      "isPdf": true
+    },
+    {
+      "title": "Las cuatro causas aristotélicas",
+      "link": "file:///opt/digest/pdfs/M13. Metafísica/M13T9. La doctrina aristotélica de las cuatro causas. Historia y sentido de la cuestión.pdf",
+      "pubDate": "2026-05-11T09:00:00.000Z",
+      "excerpt": "Material, formal, eficiente y final: las cuatro causas aristotélicas explican exhaustivamente toda sustancia natural, distinguiendo causas intrínsecas y extrínsecas.",
+      "sourceName": "Metafísica",
+      "theme": "Metafísica y Ontología",
+      "synthesis": "Aristóteles emplea el término griego aitía, que admite traducciones como culpa, responsabilidad o causa. Para él, conocer plenamente una cosa exige identificar sus cuatro causas. La causa material es aquello de lo que algo está hecho —el bronce de la estatua—; la causa formal es lo que determina la estructura de esa materia —la figura de Hermes—; ambas son intrínsecas a la sustancia.\nLas otras dos son extrínsecas. La causa eficiente es el principio del movimiento o de la generación: el escultor que talla el bronce. La causa final es aquello para lo cual algo se hace o se mueve: la estatua existe para honrar al dios. En la naturaleza, las cuatro causas suelen converger: el embrión humano tiene como causa material la sangre menstrual, como causa formal la especie humana, como causa eficiente al progenitor humano que lo engendra, y como causa final llegar a ser plenamente humano.\nEsta doctrina dominó la ciencia natural hasta Francis Bacon y Galileo. La ciencia moderna conservó solo la causa material y, transformada, la eficiente; rechazó la causa final como antropomorfismo. Pero Santo Tomás de Aquino había integrado las cuatro causas en su síntesis: la teleología natural era para él la huella de la sabiduría divina inscrita en la creación.",
+      "keywords": ["aitía", "causa material", "causa formal", "causa eficiente", "causa final"],
+      "isPdf": true
+    }
+  ],
+  "editorialIntro": "Si hay un par de conceptos que vertebra la metafísica clásica, son acto y potencia. Aristóteles los inventa para responder simultáneamente a Parménides —que negaba el cambio— y a los sofistas —que disolvían el ser en perspectivas—. La solución es elegante: una semilla es en acto semilla y en potencia árbol. El cambio no quiebra el principio de no contradicción, porque lo que cambia ya estaba contenido como posibilidad real en lo que era.\nDe esta distinción nace todo el edificio. La materia prima es pura potencialidad; Dios es acto puro; entre ambos se despliegan los seres finitos, compuestos siempre de acto y potencia en diversos grados. El hilemorfismo —doctrina de la materia y la forma— es solo otra manera de decir lo mismo: lo que persiste en el cambio es materia receptiva; lo que la determina es forma activa.\nA esa arquitectura Aristóteles añade las cuatro causas. Conocer plenamente una cosa exige identificar de qué está hecha, qué la determina, qué la produce y para qué existe. La ciencia moderna, desde Galileo, eliminará las causas final y formal como antropomorfismos. ¿Ganamos rigor explicativo o perdimos la única manera de preguntar por el sentido de lo que hay?",
+  "moduleName": "Metafísica · Parte III",
+  "issueDate": "lunes, 11 de mayo de 2026"
+}

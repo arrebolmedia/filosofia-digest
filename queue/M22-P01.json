@@ -1,0 +1,41 @@
+{
+  "items": [
+    {
+      "title": "Introducción a la filosofía del conocimiento",
+      "link": "https://ia.anthonycazares.cafe",
+      "pubDate": "lunes, 11 de mayo de 2026",
+      "excerpt": "¿Qué distingue al sabio del experto? Aristóteles, en el libro I de la Metafísica, traza una jerarquía precisa: sensación, memoria, experiencia, arte (techné), ciencia (epistéme). Los animales tienen sensación; algunos, memoria. La experienc",
+      "sourceName": "Filosofía del Conocimiento",
+      "theme": "Epistemología",
+      "synthesis": "¿Qué distingue al sabio del experto? Aristóteles, en el libro I de la Metafísica, traza una jerarquía precisa: sensación, memoria, experiencia, arte (techné), ciencia (epistéme). Los animales tienen sensación; algunos, memoria. La experiencia ya es humana: conocer el qué sin el porqué. El arte conoce las causas y puede transmitirse; la ciencia las conoce y se elige por sí misma, sin interés práctico inmediato.\n\nLas cinco notas del sabio aristotélico siguen siendo desafiantes hoy. El sabio sabe todas las cosas en la medida de lo posible (sin tener ciencia detallada de cada una); conoce lo difícil (porque saber lo fácil no distingue); es exacto en las causas y capaz de enseñarlas; elige el saber por amor al saber, no por sus efectos; y no recibe órdenes, las da. Esta última nota fundamenta lo que después se llamará epistocracia o tecnocracia: el saber autoriza al poder.\n\nLa filosofía del conocimiento, así, no es solo teoría sobre cómo conocemos: es también pregunta política sobre quién debe mandar y por qué. La modernidad democrática complicó el problema —¿qué saber legítima el gobierno?— pero no lo disolvió. Cada vez que un experto contradice al sentido común mayoritario, la pregunta aristotélica reaparece.",
+      "keywords": [
+        "jerarquía del saber",
+        "techné y epistéme",
+        "sabio aristotélico",
+        "epistocracia",
+        "experiencia y ciencia"
+      ],
+      "isPdf": true
+    },
+    {
+      "title": "Historia del problema del conocimiento",
+      "link": "https://ia.anthonycazares.cafe",
+      "pubDate": "lunes, 11 de mayo de 2026",
+      "excerpt": "¿Cómo se puede aprender lo que no se sabe? Platón, en el Menón, formula la aporía clásica: si sé qué busco, no necesito buscarlo; si no sé qué busco, no podré reconocerlo cuando lo encuentre. La respuesta platónica es la doctrina de la remi",
+      "sourceName": "Filosofía del Conocimiento",
+      "theme": "Epistemología",
+      "synthesis": "¿Cómo se puede aprender lo que no se sabe? Platón, en el Menón, formula la aporía clásica: si sé qué busco, no necesito buscarlo; si no sé qué busco, no podré reconocerlo cuando lo encuentre. La respuesta platónica es la doctrina de la reminiscencia: aprender es recordar lo que el alma ya sabía antes de encarnarse. El esclavo del Menón \"descubre\" un teorema geométrico, pero en realidad solo lo recuerda. Toda enseñanza genuina es mayéutica.\n\nJosé Luis Pardo, en La regla del juego, ofrece una reformulación contemporánea: conocer es explicitar lo implícito. Pero hay un problema —lo implícito, cuando se explicita, pierde algo. El silencio comunitario que da sentido al gesto no soporta ser dicho. Por eso, dirá Pardo, hay saberes que se transmiten sin formularse: cruces de miradas, asentimientos tácitos, complicidades.\n\nDerrida, en La diseminación, lee el Fedro platónico para mostrar que la escritura es phármakon —remedio y veneno a la vez. El texto suple la memoria, pero al hacerlo da apariencia de saber al no saber. Lo vivo precede a lo muerto, pero lo muerto es lo que se transmite. Leer bien es leer entre líneas, devolver el texto a la vida. La filosofía del conocimiento, después de Platón, Pardo y Derrida, queda como ciencia de las aporías: no las disuelve, las habita.",
+      "keywords": [
+        "aporía del Menón",
+        "reminiscencia",
+        "implícito y explícito",
+        "phármakon",
+        "Pardo y Derrida"
+      ],
+      "isPdf": true
+    }
+  ],
+  "editorialIntro": "Filosofía del Conocimiento es el cierre del recorrido, y sin embargo retoma una pregunta tan antigua como la filosofía misma: ¿qué es saber, y cómo se aprende? Aristóteles trazó la jerarquía clásica —sensación, memoria, experiencia, arte, ciencia— y dibujó las cinco notas del sabio: sabe lo difícil, conoce las causas, puede enseñarlas, elige el saber por sí mismo y no recibe órdenes. Las consecuencias políticas siguen siendo inquietantes.\n\nPlatón, en el Menón, formuló la aporía decisiva: ¿cómo se aprende lo que no se sabe? Su respuesta —la reminiscencia— hoy parece mítica, pero la pregunta sigue viva. José Luis Pardo la reformula como tensión entre lo implícito y lo explícito; Derrida, leyendo el Fedro, llama phármakon a la escritura: remedio y veneno, suplemento de memoria que es también su traición.\n\nLa filosofía del conocimiento no resuelve las aporías: las habita. ¿Es eso una derrota o, al contrario, lo que distingue a la filosofía de los saberes que se contentan con respuestas técnicas?",
+  "moduleName": "Filosofía del Conocimiento",
+  "issueDate": "lunes, 11 de mayo de 2026"
+}

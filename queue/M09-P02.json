@@ -1,0 +1,40 @@
+{
+  "items": [
+    {
+      "title": "El conocer humano",
+      "link": "",
+      "pubDate": "2026-05-11T09:00:00.000Z",
+      "excerpt": "Realismo, idealismo, empirismo, racionalismo: cuatro respuestas históricas a la pregunta más antigua de la filosofía y la disputa medieval de los universales.",
+      "sourceName": "Antropología Filosófica",
+      "theme": "Filosofía de la Mente",
+      "synthesis": "La filosofía ha articulado el problema del conocimiento humano en torno a cuatro grandes corrientes. El realismo —de Aristóteles a Tomás de Aquino— sostiene que conocemos las cosas tal como son por medio de los sentidos, en una adecuación entre intelecto y cosa. La disputa medieval sobre los universales dividió a los realistas: para Guillermo de Champeaux los conceptos generales tenían realidad sustancial; para Pedro Abelardo, Gilberto de la Porrée y posteriormente para Guillermo de Ockham —el gran nominalista— los universales eran solo nombres. El empirismo, con John Locke y David Hume, sostuvo que toda idea procede de la experiencia sensible y nada hay en el intelecto que no haya pasado antes por los sentidos. El racionalismo de René Descartes, Baruch Spinoza y Gottfried Wilhelm Leibniz invirtió la tesis: hay ideas innatas, principios racionales independientes de la experiencia. Immanuel Kant intentó una síntesis: el conocimiento exige sensaciones sin las cuales sería vacío e ideas a priori sin las cuales sería ciego. Maurice Merleau-Ponty, en la Fenomenología de la percepción, propuso una tesis radical: el cuerpo no es objeto sino sujeto-cuerpo que percibe el mundo desde dentro, antes de toda separación entre sujeto y objeto. Max Scheler añadió el conocimiento espiritual como apertura al valor y al sentido.",
+      "keywords": ["empirismo y racionalismo", "Locke y Hume", "universales", "Kant", "Merleau-Ponty"],
+      "isPdf": true
+    },
+    {
+      "title": "El querer humano",
+      "link": "",
+      "pubDate": "2026-05-11T09:00:00.000Z",
+      "excerpt": "Deber y querer, voluntad y libertad, amor e instinto: Pascal, Schopenhauer y Unamuno frente al núcleo más opaco de la existencia.",
+      "sourceName": "Antropología Filosófica",
+      "theme": "Filosofía de la Mente",
+      "synthesis": "Blaise Pascal escribió que el corazón tiene razones que la razón desconoce, dejando planteado en una sola frase el dilema entero de la voluntad humana: la pasión y el deber, el corazón y la cabeza, el querer y el debe. David Hume llegó a sostener que la razón es y debe ser solo esclava de las pasiones, invirtiendo la jerarquía clásica entre logos y eros. Arthur Schopenhauer hizo de la voluntad el principio metafísico fundamental: la realidad última no es razón, es voluntad ciega que se objetiva en los fenómenos. Friedrich Nietzsche radicalizaría esta intuición convirtiéndola en voluntad de poder: toda acción humana es interpretación valorativa del cuerpo que afirma su poder sobre la vida. La libertad, en este horizonte, no es independencia respecto de las pasiones sino formación de un querer integrado y coherente. Aristóteles ya había vinculado la libertad con la elección deliberada (proairesis); Tomás de Aquino con la inclinación natural hacia el bien. Miguel de Unamuno, en el siglo XX, exploró la espiritualidad de la voluntad mediante su agonía vital: el hombre de carne y hueso quiere ser inmortal incluso cuando la razón le niega esa posibilidad. Querer humano y deber social se anudan inevitablemente en toda vida ética.",
+      "keywords": ["voluntad", "Schopenhauer", "Pascal", "Hume", "Unamuno"],
+      "isPdf": true
+    },
+    {
+      "title": "La afectividad humana",
+      "link": "",
+      "pubDate": "2026-05-11T09:00:00.000Z",
+      "excerpt": "Emociones, sentimientos y pasiones: Descartes y la neurociencia contemporánea ante el territorio que la filosofía clásica subestimó.",
+      "sourceName": "Antropología Filosófica",
+      "theme": "Filosofía de la Mente",
+      "synthesis": "La afectividad humana se ha articulado tradicionalmente en tres niveles distintos: emociones, sentimientos y pasiones. Las emociones —cólera, miedo, sorpresa, euforia— son estados afectivos súbitos, breves e intensos, ligados a respuestas psicofisiológicas; los sentimientos —tristeza, cariño, compasión, empatía— son emociones conceptualizadas, prolongadas en el tiempo por la actividad intelectiva; las pasiones —celos, odio, amor— combinan la duración del sentimiento con la intensidad de la emoción. René Descartes, en Las pasiones del alma, sostuvo que las pasiones no se excitan ni se suprimen directamente por la voluntad, pero pueden modularse indirectamente al considerar otras razones y representaciones. Esta intuición se anticipa a las terapias cognitivas contemporáneas. Antonio Damasio, en El error de Descartes, ha mostrado que el dualismo cartesiano entre razón y emoción es falso: sin emociones no hay decisión racional posible, los pacientes con lesiones en la corteza prefrontal pueden razonar pero no pueden elegir. La filosofía clásica subestimó este territorio; Aristóteles dedicó solo parte de la Ética a las pasiones, y la teología medieval las miró con sospecha. La fenomenología de Max Scheler, en cambio, las rehabilitó como modos de captación del valor: amar no es proyectar afecto sobre un objeto neutro, es percibir el valor que el objeto tiene.",
+      "keywords": ["emociones", "Descartes", "Damasio", "afectividad", "Scheler"],
+      "isPdf": true
+    }
+  ],
+  "editorialIntro": "Blaise Pascal escribió una de las frases más célebres y más densas de la antropología filosófica: el corazón tiene razones que la razón desconoce. En una sola línea quedaba planteado el dilema entero de la vida humana, esa fractura interior entre el querer y el deber, entre la pasión y el cálculo, entre el cuerpo y el pensamiento. David Hume invirtió la jerarquía clásica al sostener que la razón es y debe ser solo esclava de las pasiones; Arthur Schopenhauer hizo de la voluntad ciega el principio metafísico fundamental; Friedrich Nietzsche radicalizó esa intuición convirtiéndola en voluntad de poder. Por otro lado, René Descartes había distinguido razón y emoción como dos provincias separadas del alma; Antonio Damasio, ya en el siglo XX, demostró experimentalmente que esa distinción es falsa: sin emociones la decisión racional se vuelve imposible, los pacientes con lesiones en la corteza prefrontal pueden razonar pero no pueden elegir. Max Scheler había anticipado filosóficamente esta tesis al describir las emociones como modos de captación del valor. Amar no es proyectar afecto sobre un objeto neutro; es percibir el valor que ese objeto tiene. La afectividad no es lo opuesto al conocimiento; es una de sus formas más finas. ¿Cuántas decisiones llamamos racionales que en realidad son pasiones bien argumentadas?",
+  "moduleName": "Antropología Filosófica · Parte II",
+  "issueDate": "lunes, 11 de mayo de 2026"
+}

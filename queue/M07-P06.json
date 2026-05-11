@@ -1,0 +1,18 @@
+{
+  "items": [
+    {
+      "title": "La naturaleza y Dios",
+      "link": "",
+      "pubDate": "2026-05-11T09:00:00.000Z",
+      "excerpt": "Agustín, Tomás de Aquino, Duns Escoto y Guillermo de Ockham: cuatro modos medievales de pensar a Dios desde la naturaleza, y por qué su disputa todavía importa.",
+      "sourceName": "Filosofía de la Naturaleza",
+      "theme": "Filosofía de la Religión",
+      "synthesis": "La filosofía medieval atraviesa tres grandes momentos en su reflexión sobre Dios y la naturaleza. La patrística, con Agustín de Hipona como figura culminante, parte de la interioridad: me convertí a mí mismo en el gran problema, declara Agustín en las Confesiones, y desde el alma asciende hacia Dios sin necesidad de demostrar su existencia mediante la naturaleza exterior. La escolástica clásica, en cambio, desarrolla con Tomás de Aquino las cinco vías: el argumento del movimiento que exige un primer motor, el de la causalidad que exige una causa incausada, el de la contingencia que exige un ser necesario, el de los grados de perfección, y el de la finalidad o teleología. Estas vías retoman a Aristóteles e integran a Avicena, mostrando que la teología natural es posible desde la observación racional del cosmos. La escolástica crítica, finalmente, con Duns Escoto y Guillermo de Ockham, desplaza el centro hacia la lógica y la voluntad divina, abriendo el camino al voluntarismo moderno. El concepto mismo de naturaleza varía: sustrato de los seres y principio de movimiento en Aristóteles, orden necesario del devenir en los estoicos, manifestación del espíritu en Hegel, campo de observación científica en la modernidad. La naturaleza nunca fue un dato neutro; siempre fue un concepto en disputa.",
+      "keywords": ["Tomás de Aquino", "cinco vías", "Agustín", "Duns Escoto", "Ockham"],
+      "isPdf": true
+    }
+  ],
+  "editorialIntro": "Las cinco vías de Tomás de Aquino son probablemente el argumento filosófico más famoso de toda la Edad Media, y también el más malinterpretado. No son pruebas en el sentido matemático del término; son cinco demostraciones a posteriori que parten de la observación del mundo y ascienden a su causa última. El movimiento exige un primer motor, las causas eficientes exigen una causa incausada, los seres contingentes exigen un ser necesario, los grados de perfección exigen una perfección absoluta, el orden finalístico exige una inteligencia ordenadora. Inmanuel Kant, cinco siglos después, sostendría que estas vías no son válidas como demostraciones de la razón pura, y la teología contemporánea ha matizado considerablemente sus alcances. Sin embargo, el problema que plantean no se evapora con ellas: la pregunta por el fundamento último de lo existente vuelve cada vez que la ciencia llega al límite de sus competencias. Guillermo de Ockham desplazó el centro hacia la voluntad divina y abrió la puerta al voluntarismo moderno; Duns Escoto enriqueció la metafísica con la noción de univocidad del ser. Detrás de la aparente uniformidad de la escolástica latían disputas profundas. ¿Qué disciplina actual se atrevería a discutir hoy con la misma profundidad sobre la causa primera del universo?",
+  "moduleName": "Filosofía de la Naturaleza · Parte VI",
+  "issueDate": "lunes, 11 de mayo de 2026"
+}

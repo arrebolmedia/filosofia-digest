@@ -1,0 +1,58 @@
+{
+  "items": [
+    {
+      "title": "Introducción a la filosofía del derecho",
+      "link": "https://ia.anthonycazares.cafe",
+      "pubDate": "lunes, 11 de mayo de 2026",
+      "excerpt": "¿Qué hace que una norma sea jurídica y no meramente social o moral? La pregunta divide históricamente a dos grandes corrientes. El iusnaturalismo —de Aristóteles a Tomás de Aquino y Hugo Grocio— sostiene que existe un derecho natural anteri",
+      "sourceName": "Filosofía del Derecho",
+      "theme": "Filosofía del Derecho",
+      "synthesis": "¿Qué hace que una norma sea jurídica y no meramente social o moral? La pregunta divide históricamente a dos grandes corrientes. El iusnaturalismo —de Aristóteles a Tomás de Aquino y Hugo Grocio— sostiene que existe un derecho natural anterior a toda legislación positiva, fundado en la naturaleza humana o en la razón, al cual el derecho positivo debe ajustarse para ser legítimo. Hervada lo formula con claridad: hay un orden de justicia inscrito en las cosas mismas.\n\nEl positivismo jurídico, de Bentham a Austin y especialmente Kelsen, responde que el derecho es el conjunto de normas efectivamente promulgadas y respaldadas por sanción, sin más fundamento que su propia validez procedimental. Para Kelsen, la juridicidad de una norma deriva de otra norma superior, hasta llegar a una norma fundamental hipotética que cierra el sistema. La justicia o injusticia material es asunto extrajurídico.\n\nLa Constitución Española de 1978 y la Declaración Universal de Derechos Humanos de 1948 cruzan ambas tradiciones: codifican derechos en lenguaje positivo pero los presentan como universales e inherentes a la persona. La filosofía del derecho contemporánea sigue debatiendo si esa universalidad es metafísica, histórica o pragmática.",
+      "keywords": [
+        "iusnaturalismo",
+        "positivismo jurídico",
+        "Kelsen",
+        "norma fundamental",
+        "derechos humanos"
+      ],
+      "isPdf": true
+    },
+    {
+      "title": "Lo justo en el ámbito de lo conmutativo",
+      "link": "https://ia.anthonycazares.cafe",
+      "pubDate": "lunes, 11 de mayo de 2026",
+      "excerpt": "¿Cuándo un intercambio es justo? Aristóteles, en el Libro V de la Ética a Nicómaco, distingue la justicia conmutativa —que regula los intercambios entre particulares— de la distributiva —que regula el reparto de bienes comunes. La conmutati",
+      "sourceName": "Filosofía del Derecho",
+      "theme": "Filosofía del Derecho",
+      "synthesis": "¿Cuándo un intercambio es justo? Aristóteles, en el Libro V de la Ética a Nicómaco, distingue la justicia conmutativa —que regula los intercambios entre particulares— de la distributiva —que regula el reparto de bienes comunes. La conmutativa exige igualdad aritmética: si A entrega un bien a B, debe recibir un equivalente. No importa quién es A ni quién es B: la justicia conmutativa es ciega a las cualidades personales y mira solo la equivalencia objetiva.\n\nEste principio funda el contrato, la compraventa, la reparación por daño. Cuando alguien rompe accidentalmente la ventana del vecino, la justicia conmutativa exige reparación equivalente, independientemente de la riqueza relativa de las partes. Tomás de Aquino retoma a Aristóteles y desarrolla la noción de iustum precio: el precio justo no se determina solo por oferta y demanda sino por valoración objetiva.\n\nLa modernidad mercantil tensiona el principio. Cuando el mercado libre se convierte en árbitro único de los intercambios, la equivalencia se reduce a precio efectivo y la justicia conmutativa parece esfumarse en la lógica de la oferta. Kelsen, desde el positivismo, recordaría que la justicia material excede al derecho; los iusnaturalistas insistirán en que sin ella el derecho es solo fuerza organizada.",
+      "keywords": [
+        "justicia conmutativa",
+        "igualdad aritmética",
+        "iustum precio",
+        "Aristóteles",
+        "contrato"
+      ],
+      "isPdf": true
+    },
+    {
+      "title": "Lo justo en el ámbito de lo distributivo",
+      "link": "https://ia.anthonycazares.cafe",
+      "pubDate": "lunes, 11 de mayo de 2026",
+      "excerpt": "¿Cómo se reparten justamente los bienes comunes —ingresos, oportunidades, derechos— en una sociedad? La justicia distributiva, ya formulada por Aristóteles como proporcional (\"tratar igual a los iguales y desigual a los desiguales\"), se ha ",
+      "sourceName": "Filosofía del Derecho",
+      "theme": "Filosofía Política",
+      "synthesis": "¿Cómo se reparten justamente los bienes comunes —ingresos, oportunidades, derechos— en una sociedad? La justicia distributiva, ya formulada por Aristóteles como proporcional (\"tratar igual a los iguales y desigual a los desiguales\"), se ha vuelto el centro de la filosofía política contemporánea. John Rawls, en Teoría de la justicia, propone dos principios bajo el \"velo de la ignorancia\": iguales libertades básicas para todos, y desigualdades solo si benefician a los menos aventajados. Robert Nozick responde con un libertarismo radical: cualquier redistribución forzada es robo; lo justo es lo adquirido legítimamente.\n\nLos utilitaristas miden lo justo por el bienestar agregado; los comunitaristas (Sandel, MacIntyre) insisten en que la justicia depende de bienes compartidos y narraciones comunitarias. Hans Jonas añade una dimensión nueva: la responsabilidad intergeneracional. Distribuir solo entre los vivos es injusto con los que vendrán.\n\nLos criterios prácticos —igualdad estricta, equidad, necesidad, mérito— entran constantemente en tensión. Priorizar la necesidad puede desincentivar el esfuerzo; priorizar el mérito puede perpetuar desigualdades estructurales. Ningún criterio aislado funciona; toda política distributiva concreta los combina. El debate Rawls-Nozick sigue estructurando, cuarenta años después, las decisiones sobre impuestos, salud y educación.",
+      "keywords": [
+        "Rawls",
+        "Nozick",
+        "velo de la ignorancia",
+        "mérito y necesidad",
+        "responsabilidad intergeneracional"
+      ],
+      "isPdf": true
+    }
+  ],
+  "editorialIntro": "La filosofía del derecho no es disciplina puramente técnica: cada teoría jurídica es también una antropología y una política. El iusnaturalismo, de Aristóteles a Tomás y Hervada, sostiene que hay un orden de justicia inscrito en la naturaleza y la razón; el positivismo de Bentham, Austin y Kelsen responde que el derecho es lo positivamente promulgado y nada más. La Constitución y los Derechos Humanos cruzan ambas vertientes sin resolver la tensión.\n\nAristóteles trazó en la Ética la diferencia decisiva entre justicia conmutativa —equivalencia aritmética en los intercambios— y distributiva —proporción según mérito o necesidad en el reparto de bienes comunes. Tomás de Aquino añadió la noción de precio justo. La modernidad mercantil, con su lógica de oferta y demanda, tensiona ese legado.\n\nRawls y Nozick reabren el debate en el siglo XX: ¿velo de la ignorancia o titularidad legítima? Sandel y MacIntyre añaden lo comunitario; Hans Jonas, la responsabilidad intergeneracional. ¿Puede una sociedad postular un principio único de justicia, o debe siempre negociar entre principios en tensión?",
+  "moduleName": "Filosofía del Derecho · Parte I",
+  "issueDate": "lunes, 11 de mayo de 2026"
+}
