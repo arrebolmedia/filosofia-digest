@@ -222,12 +222,19 @@ async function run(): Promise<void> {
     let pub = publishedCache.get(cacheKey);
 
     if (!pub) {
+      // Sobreescribir issueDate con la fecha real del día — el JSON en cola
+      // tiene una fecha estampada en el momento de la pre-generación que ya
+      // no es válida.
+      pos.digest.issueDate = new Date().toLocaleDateString('es-MX', {
+        weekday: 'long', year: 'numeric', month: 'long', day: 'numeric',
+      });
+
       const issueNumber = readIssueNumber();
       const entryUrl    = publishEntry(pos.digest, issueNumber);
       incrementIssueNumber(issueNumber);
       pub = { entryUrl, issueNumber };
       publishedCache.set(cacheKey, pub);
-      console.log(`  Publicado: ${entryUrl}  (#${String(issueNumber).padStart(3, '0')})`);
+      console.log(`  Publicado: ${entryUrl}  (#${String(issueNumber).padStart(3, '0')}) — ${pos.digest.issueDate}`);
     }
 
     const issueTag = `#${String(pub.issueNumber).padStart(3, '0')}`;
