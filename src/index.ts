@@ -1,5 +1,5 @@
 import 'dotenv/config';
-import { readFileSync, writeFileSync, existsSync, unlinkSync } from 'fs';
+import { readFileSync, writeFileSync, existsSync, unlinkSync, readdirSync } from 'fs';
 import { CONFIG }                                    from './config.js';
 import { type DigestContent }                        from './synthesizer.js';
 import { composeHtml }                               from './composer.js';
@@ -53,10 +53,9 @@ interface QueueInventory {
 
 function loadQueueInventory(): QueueInventory {
   const parts = new Map<number, Set<number>>();
-  const dirEntries = (() => {
-    try { return require('fs').readdirSync(QUEUE_DIR) as string[]; }
-    catch { return []; }
-  })();
+  let dirEntries: string[] = [];
+  try { dirEntries = readdirSync(QUEUE_DIR); }
+  catch { dirEntries = []; }
   for (const f of dirEntries) {
     const m = f.match(/^M(\d{2})-P(\d{2})\.json$/);
     if (!m) continue;
