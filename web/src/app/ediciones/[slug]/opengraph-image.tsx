@@ -6,6 +6,15 @@ export const alt = "Una Vida Examinada — Edición";
 export const size = { width: 1200, height: 630 };
 export const contentType = "image/png";
 
+const PLAYFAIR_REGULAR = "https://fonts.gstatic.com/s/playfairdisplay/v40/nuFRD-vYSZviVYUb_rj3ij__anPXDTnCjmHKM4nYO7KN_qiTbtY.ttf";
+const PLAYFAIR_ITALIC  = "https://fonts.gstatic.com/s/playfairdisplay/v40/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKdFvUDQ.ttf";
+
+async function loadFont(url: string): Promise<ArrayBuffer> {
+  const res = await fetch(url);
+  if (!res.ok) throw new Error(`Font fetch failed: ${url}`);
+  return res.arrayBuffer();
+}
+
 export default async function Image({ params }: { params: Promise<{ slug: string }> }) {
   const { slug } = await params;
   const edition = await getBySlug(slug);
@@ -13,6 +22,11 @@ export default async function Image({ params }: { params: Promise<{ slug: string
   const moduleName = edition?.module ?? "Edición";
   const issueTag   = edition ? `#${edition.number}` : "";
   const date       = edition?.date ?? "";
+
+  const [regular, italic] = await Promise.all([
+    loadFont(PLAYFAIR_REGULAR),
+    loadFont(PLAYFAIR_ITALIC),
+  ]);
 
   return new ImageResponse(
     (
@@ -24,7 +38,7 @@ export default async function Image({ params }: { params: Promise<{ slug: string
           display: "flex",
           flexDirection: "column",
           padding: "80px",
-          fontFamily: "serif",
+          fontFamily: "Playfair",
         }}
       >
         <div
@@ -59,6 +73,7 @@ export default async function Image({ params }: { params: Promise<{ slug: string
             fontWeight: 400,
             marginBottom: "auto",
             maxWidth: 1000,
+            display: "flex",
           }}
         >
           {moduleName}
@@ -87,6 +102,12 @@ export default async function Image({ params }: { params: Promise<{ slug: string
         </div>
       </div>
     ),
-    size
+    {
+      ...size,
+      fonts: [
+        { name: "Playfair", data: regular, style: "normal", weight: 400 },
+        { name: "Playfair", data: italic,  style: "italic", weight: 400 },
+      ],
+    }
   );
 }

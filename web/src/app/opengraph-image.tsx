@@ -5,7 +5,21 @@ export const alt = "Una Vida Examinada — Digest filosófico diario";
 export const size = { width: 1200, height: 630 };
 export const contentType = "image/png";
 
+const PLAYFAIR_REGULAR = "https://fonts.gstatic.com/s/playfairdisplay/v40/nuFRD-vYSZviVYUb_rj3ij__anPXDTnCjmHKM4nYO7KN_qiTbtY.ttf";
+const PLAYFAIR_ITALIC  = "https://fonts.gstatic.com/s/playfairdisplay/v40/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKdFvUDQ.ttf";
+
+async function loadFont(url: string): Promise<ArrayBuffer> {
+  const res = await fetch(url);
+  if (!res.ok) throw new Error(`Font fetch failed: ${url}`);
+  return res.arrayBuffer();
+}
+
 export default async function Image() {
+  const [regular, italic] = await Promise.all([
+    loadFont(PLAYFAIR_REGULAR),
+    loadFont(PLAYFAIR_ITALIC),
+  ]);
+
   return new ImageResponse(
     (
       <div
@@ -16,7 +30,6 @@ export default async function Image() {
           display: "flex",
           flexDirection: "column",
           padding: "80px",
-          fontFamily: "serif",
         }}
       >
         {/* Eyebrow */}
@@ -27,6 +40,7 @@ export default async function Image() {
             textTransform: "uppercase",
             color: "#9A9590",
             marginBottom: 40,
+            fontFamily: "Playfair",
           }}
         >
           Digest Diario · Filosofía
@@ -37,12 +51,13 @@ export default async function Image() {
           style={{
             display: "flex",
             flexDirection: "column",
-            fontSize: 140,
+            fontSize: 160,
             fontStyle: "italic",
             color: "#1A1A1A",
-            lineHeight: 1.05,
+            lineHeight: 1.0,
             fontWeight: 400,
             marginBottom: "auto",
+            fontFamily: "Playfair",
           }}
         >
           <span>Una Vida</span>
@@ -70,11 +85,12 @@ export default async function Image() {
         >
           <div
             style={{
-              fontSize: 22,
+              fontSize: 24,
               fontStyle: "italic",
               color: "#6A6560",
-              lineHeight: 1.45,
+              lineHeight: 1.4,
               maxWidth: 980,
+              fontFamily: "Playfair",
             }}
           >
             “El que no sabe llevar su contabilidad por espacio de tres mil años, se queda como un ignorante en la oscuridad y sólo vive al día.”
@@ -85,6 +101,7 @@ export default async function Image() {
               letterSpacing: "0.28em",
               textTransform: "uppercase",
               color: "#B0ABA5",
+              fontFamily: "Playfair",
             }}
           >
             Goethe
@@ -92,6 +109,12 @@ export default async function Image() {
         </div>
       </div>
     ),
-    size
+    {
+      ...size,
+      fonts: [
+        { name: "Playfair", data: regular, style: "normal", weight: 400 },
+        { name: "Playfair", data: italic,  style: "italic", weight: 400 },
+      ],
+    }
   );
 }
